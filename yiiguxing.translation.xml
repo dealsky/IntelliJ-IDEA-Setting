@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="过滤" />
+      <item value="手动" />
+      <item value="通行" />
+      <item value="生成" />
+      <item value="标记" />
+      <item value="标识" />
+      <item value="标志" />
+      <item value="tag" />
+      <item value="商家" />
+      <item value="店铺" />
+      <item value="evaluate" />
+      <item value="delivery Corp Name" />
+      <item value="deliveryCorpName" />
+      <item value="分析" />
+      <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint." />
+      <item value="文件夹" />
+      <item value="mobile" />
+      <item value="姓名" />
+      <item value="手机" />
+      <item value="电话" />
+      <item value="手机号" />
+      <item value="Delivery" />
+      <item value="待处理" />
+      <item value="Data Deduplication" />
+      <item value="expects" />
+      <item value="Tuple Element" />
+      <item value="Selection" />
+      <item value="Fetch Parent" />
+      <item value="From" />
+      <item value="Criteria" />
+      <item value="Expression" />
+      <item value="Tuple" />
+      <item value="disjunction" />
+      <item value="predicates" />
+      <item value="restriction" />
+      <item value="conjunction" />
+      <item value="授权" />
+      <item value="认证" />
+      <item value="验证" />
+      <item value="权限" />
+      <item value="江蛤蟆" />
+      <item value="蛤蟆" />
+      <item value="出现了" />
+      <item value="课程" />
+      <item value="书本" />
+      <item value="剩余次数" />
+      <item value="剩余" />
+      <item value="recharge" />
+      <item value="Unified" />
+      <item value="Unifiedorder" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="50" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="546b8f5f78727770" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
