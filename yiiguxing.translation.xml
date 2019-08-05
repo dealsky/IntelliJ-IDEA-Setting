@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept" />
+      <item value="deny" />
+      <item value="拒绝" />
+      <item value="同意" />
+      <item value="通过" />
+      <item value="等待中" />
+      <item value="amount" />
       <item value="Retrieve" />
       <item value="过滤" />
       <item value="手动" />
@@ -44,18 +51,11 @@
       <item value="权限" />
       <item value="江蛤蟆" />
       <item value="蛤蟆" />
-      <item value="出现了" />
-      <item value="课程" />
-      <item value="书本" />
-      <item value="剩余次数" />
-      <item value="剩余" />
-      <item value="recharge" />
-      <item value="Unified" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
