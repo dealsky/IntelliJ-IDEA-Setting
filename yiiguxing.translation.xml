@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fresh" />
+      <item value="obtain" />
       <item value="resolver" />
       <item value="退款金额" />
       <item value="收款金额" />
@@ -49,13 +51,11 @@
       <item value="Tuple" />
       <item value="disjunction" />
       <item value="predicates" />
-      <item value="restriction" />
-      <item value="conjunction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
