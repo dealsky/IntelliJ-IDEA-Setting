@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="translate to" />
+      <item value="translate" />
       <item value="传输" />
       <item value="Fresh" />
       <item value="obtain" />
@@ -49,8 +51,6 @@
       <item value="From" />
       <item value="Criteria" />
       <item value="Expression" />
-      <item value="Tuple" />
-      <item value="disjunction" />
     </histories>
     <option name="languageScores">
       <map>
