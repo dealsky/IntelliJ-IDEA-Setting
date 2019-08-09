@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="充值" />
       <item value="余额" />
       <item value="可用" />
       <item value="生成" />
       <item value="已付款" />
       <item value="待付款" />
-      <item value="充值" />
       <item value="Payment Notify" />
       <item value="支付参数" />
       <item value="translate to" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
