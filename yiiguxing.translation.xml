@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已付款" />
+      <item value="待付款" />
       <item value="充值" />
       <item value="Payment Notify" />
       <item value="余额" />
@@ -49,13 +51,11 @@
       <item value="待处理" />
       <item value="Data Deduplication" />
       <item value="expects" />
-      <item value="Tuple Element" />
-      <item value="Selection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
