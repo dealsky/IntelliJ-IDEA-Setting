@@ -1,11 +1,47 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="佣金" />
+      <item value="二级" />
+      <item value="耳机" />
+      <item value="一级" />
+      <item value="一级分销佣金" />
+      <item value="二级分销佣金" />
+      <item value="一级佣金" />
+      <item value="发起" />
+      <item value="模板" />
+      <item value="是否完成" />
+      <item value="完成" />
+      <item value="充值" />
+      <item value="余额" />
+      <item value="可用" />
+      <item value="生成" />
+      <item value="已付款" />
+      <item value="待付款" />
+      <item value="Payment Notify" />
+      <item value="支付参数" />
+      <item value="translate to" />
+      <item value="translate" />
+      <item value="传输" />
+      <item value="Fresh" />
+      <item value="obtain" />
+      <item value="resolver" />
+      <item value="退款金额" />
+      <item value="收款金额" />
+      <item value="收款" />
+      <item value="已提现" />
+      <item value="可提现" />
+      <item value="accept" />
+      <item value="deny" />
+      <item value="拒绝" />
+      <item value="同意" />
+      <item value="通过" />
+      <item value="等待中" />
+      <item value="amount" />
       <item value="Retrieve" />
       <item value="过滤" />
       <item value="手动" />
       <item value="通行" />
-      <item value="生成" />
       <item value="标记" />
       <item value="标识" />
       <item value="标志" />
@@ -15,47 +51,11 @@
       <item value="evaluate" />
       <item value="delivery Corp Name" />
       <item value="deliveryCorpName" />
-      <item value="分析" />
-      <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint." />
-      <item value="文件夹" />
-      <item value="mobile" />
-      <item value="姓名" />
-      <item value="手机" />
-      <item value="电话" />
-      <item value="手机号" />
-      <item value="Delivery" />
-      <item value="待处理" />
-      <item value="Data Deduplication" />
-      <item value="expects" />
-      <item value="Tuple Element" />
-      <item value="Selection" />
-      <item value="Fetch Parent" />
-      <item value="From" />
-      <item value="Criteria" />
-      <item value="Expression" />
-      <item value="Tuple" />
-      <item value="disjunction" />
-      <item value="predicates" />
-      <item value="restriction" />
-      <item value="conjunction" />
-      <item value="授权" />
-      <item value="认证" />
-      <item value="验证" />
-      <item value="权限" />
-      <item value="江蛤蟆" />
-      <item value="蛤蟆" />
-      <item value="出现了" />
-      <item value="课程" />
-      <item value="书本" />
-      <item value="剩余次数" />
-      <item value="剩余" />
-      <item value="recharge" />
-      <item value="Unified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
