@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="一级分销佣金" />
+      <item value="二级分销佣金" />
+      <item value="一级佣金" />
+      <item value="一级" />
+      <item value="佣金" />
       <item value="发起" />
       <item value="模板" />
       <item value="是否完成" />
@@ -46,16 +51,11 @@
       <item value="deliveryCorpName" />
       <item value="分析" />
       <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint." />
-      <item value="文件夹" />
-      <item value="mobile" />
-      <item value="姓名" />
-      <item value="手机" />
-      <item value="电话" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
