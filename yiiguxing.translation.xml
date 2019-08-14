@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unreachable" />
       <item value="佣金" />
       <item value="二级" />
       <item value="耳机" />
@@ -50,7 +51,6 @@
       <item value="店铺" />
       <item value="evaluate" />
       <item value="delivery Corp Name" />
-      <item value="deliveryCorpName" />
     </histories>
     <option name="languageScores">
       <map>
