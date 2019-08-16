@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="显示" />
+      <item value="推荐" />
+      <item value="公司信息" />
+      <item value="公司" />
+      <item value="G" />
       <item value="unreachable" />
       <item value="佣金" />
       <item value="二级" />
@@ -46,16 +51,11 @@
       <item value="标记" />
       <item value="标识" />
       <item value="标志" />
-      <item value="tag" />
-      <item value="商家" />
-      <item value="店铺" />
-      <item value="evaluate" />
-      <item value="delivery Corp Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
