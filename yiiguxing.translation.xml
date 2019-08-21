@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="完成" />
       <item value="介绍" />
       <item value="轮播图" />
       <item value="服务项目" />
@@ -21,7 +22,6 @@
       <item value="发起" />
       <item value="模板" />
       <item value="是否完成" />
-      <item value="完成" />
       <item value="充值" />
       <item value="余额" />
       <item value="可用" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
