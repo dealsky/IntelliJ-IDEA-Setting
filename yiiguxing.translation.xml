@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="水果" />
       <item value="结算比例" />
       <item value="有效日期" />
       <item value="总是可用" />
@@ -10,7 +11,6 @@
       <item value="invalidity" />
       <item value="是否可失效" />
       <item value="失效" />
-      <item value="水果" />
       <item value="类型" />
       <item value="类别" />
       <item value="联系电话" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
