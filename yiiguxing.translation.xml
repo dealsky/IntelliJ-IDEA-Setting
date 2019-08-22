@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效日期" />
+      <item value="总是可用" />
+      <item value="一直可用" />
+      <item value="sustain" />
+      <item value="持续" />
+      <item value="invalidity" />
+      <item value="是否可失效" />
+      <item value="失效" />
+      <item value="水果" />
+      <item value="类型" />
+      <item value="类别" />
+      <item value="联系电话" />
+      <item value="联系人" />
       <item value="Voucher" />
       <item value="完成" />
       <item value="介绍" />
@@ -38,24 +51,11 @@
       <item value="obtain" />
       <item value="resolver" />
       <item value="退款金额" />
-      <item value="收款金额" />
-      <item value="收款" />
-      <item value="已提现" />
-      <item value="可提现" />
-      <item value="accept" />
-      <item value="deny" />
-      <item value="拒绝" />
-      <item value="同意" />
-      <item value="通过" />
-      <item value="等待中" />
-      <item value="amount" />
-      <item value="Retrieve" />
-      <item value="过滤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="92" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
