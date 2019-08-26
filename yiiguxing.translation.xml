@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已发放" />
+      <item value="未发放" />
+      <item value="为发放" />
       <item value="available" />
       <item value="生成" />
       <item value="陌生人" />
@@ -48,14 +51,11 @@
       <item value="已付款" />
       <item value="待付款" />
       <item value="Payment Notify" />
-      <item value="支付参数" />
-      <item value="translate to" />
-      <item value="translate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="100" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
