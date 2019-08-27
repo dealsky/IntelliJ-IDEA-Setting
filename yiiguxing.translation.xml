@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="宰杀" />
+      <item value="slaughter" />
+      <item value="宰杀记录" />
       <item value="已宰杀" />
       <item value="操作" />
       <item value="已发放" />
@@ -48,14 +51,11 @@
       <item value="模板" />
       <item value="是否完成" />
       <item value="充值" />
-      <item value="余额" />
-      <item value="可用" />
-      <item value="已付款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="104" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
