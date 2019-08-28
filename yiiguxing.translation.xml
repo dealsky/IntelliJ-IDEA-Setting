@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="发起" />
       <item value="转账记录" />
       <item value="转账" />
       <item value="认养" />
@@ -15,7 +17,6 @@
       <item value="未发放" />
       <item value="为发放" />
       <item value="available" />
-      <item value="生成" />
       <item value="陌生人" />
       <item value="纬度" />
       <item value="精度" />
@@ -50,12 +51,11 @@
       <item value="耳机" />
       <item value="一级" />
       <item value="一级分销佣金" />
-      <item value="二级分销佣金" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="110" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
