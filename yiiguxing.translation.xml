@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="水果价值" />
       <item value="生成" />
       <item value="发起" />
       <item value="转账记录" />
@@ -50,12 +51,11 @@
       <item value="二级" />
       <item value="耳机" />
       <item value="一级" />
-      <item value="一级分销佣金" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
