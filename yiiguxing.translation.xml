@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取特权" />
+      <item value="特权获取" />
+      <item value="特权" />
       <item value="包邮" />
       <item value="转账金额" />
       <item value="valid" />
@@ -48,14 +51,11 @@
       <item value="information" />
       <item value="显示" />
       <item value="推荐" />
-      <item value="公司信息" />
-      <item value="公司" />
-      <item value="G" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="115" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
