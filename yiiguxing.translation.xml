@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redundent" />
+      <item value="hideFixedBarTimer" />
+      <item value="注册" />
+      <item value="定时器" />
       <item value="slide" />
       <item value="缩" />
       <item value="制单人" />
@@ -47,15 +51,11 @@
       <item value="总是可用" />
       <item value="一直可用" />
       <item value="sustain" />
-      <item value="持续" />
-      <item value="invalidity" />
-      <item value="是否可失效" />
-      <item value="失效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="124" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
