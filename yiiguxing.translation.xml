@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特殊" />
       <item value="Receivable Log" />
       <item value="ReceivableLog" />
       <item value="redundent" />
@@ -50,12 +51,11 @@
       <item value="水果" />
       <item value="结算比例" />
       <item value="有效日期" />
-      <item value="总是可用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
