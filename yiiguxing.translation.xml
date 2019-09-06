@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绑定" />
       <item value="媒体" />
       <item value="特殊" />
       <item value="最小" />
@@ -50,12 +51,11 @@
       <item value="陌生人" />
       <item value="纬度" />
       <item value="精度" />
-      <item value="水果" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
