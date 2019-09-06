@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特殊" />
       <item value="绑定" />
       <item value="媒体" />
-      <item value="特殊" />
       <item value="最小" />
       <item value="Receivable Log" />
       <item value="ReceivableLog" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
