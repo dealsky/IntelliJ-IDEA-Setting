@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失效日期" />
       <item value="完成" />
       <item value="resize" />
       <item value="计算" />
@@ -50,12 +51,11 @@
       <item value="后台" />
       <item value="特权购买记录" />
       <item value="购买记录" />
-      <item value="特权商品记录" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
