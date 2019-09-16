@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预" />
+      <item value="预先" />
       <item value="自提" />
       <item value="待自提" />
       <item value="解密" />
@@ -49,13 +51,11 @@
       <item value="缩" />
       <item value="制单人" />
       <item value="短" />
-      <item value="忘记" />
-      <item value="实例化" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
