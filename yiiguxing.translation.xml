@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采购" />
+      <item value="Purchase" />
+      <item value="Picking " />
+      <item value="Picking Stock" />
       <item value="控制" />
       <item value="buy Limit" />
       <item value="限购" />
@@ -47,15 +51,11 @@
       <item value="媒体" />
       <item value="最小" />
       <item value="Receivable Log" />
-      <item value="ReceivableLog" />
-      <item value="redundent" />
-      <item value="hideFixedBarTimer" />
-      <item value="注册" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="158" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
