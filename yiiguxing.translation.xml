@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="流水号" />
       <item value="原因" />
       <item value="inventory lock" />
       <item value="库存记录" />
@@ -49,13 +51,11 @@
       <item value="剩余" />
       <item value="stock" />
       <item value="media" />
-      <item value="upload Complete" />
-      <item value="uploadComplete" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="162" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
