@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="编号" />
+      <item value="收款账户" />
       <item value="手工调整" />
       <item value="序号" />
       <item value="生成" />
@@ -49,13 +51,11 @@
       <item value="购买" />
       <item value="送" />
       <item value="兑换券" />
-      <item value="剩余库存" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="ENGLISH" value="166" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
