@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="级" />
       <item value="孩子" />
       <item value="排序因子" />
       <item value="项目列表" />
@@ -50,12 +51,11 @@
       <item value="已作废" />
       <item value="未审批" />
       <item value="已审批" />
-      <item value="已完成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
