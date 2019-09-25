@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="打印" />
+      <item value="导出" />
+      <item value="作废" />
+      <item value="审批" />
+      <item value="收款" />
       <item value="级" />
       <item value="孩子" />
       <item value="排序因子" />
@@ -13,7 +18,6 @@
       <item value="trash" />
       <item value="已付" />
       <item value="delivery Date" />
-      <item value="导出" />
       <item value="编号" />
       <item value="收款账户" />
       <item value="手工调整" />
@@ -47,15 +51,11 @@
       <item value="相机" />
       <item value="截图" />
       <item value="收款账号" />
-      <item value="单" />
-      <item value="已作废" />
-      <item value="未审批" />
-      <item value="已审批" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="182" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
