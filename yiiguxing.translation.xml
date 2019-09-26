@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="库存预警" />
       <item value="type" />
       <item value="计算产能" />
       <item value="数量" />
@@ -50,12 +51,11 @@
       <item value="完成" />
       <item value="resize" />
       <item value="计算" />
-      <item value="列" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
