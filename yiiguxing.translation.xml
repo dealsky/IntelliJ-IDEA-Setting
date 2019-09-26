@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shuffle" />
       <item value="单位换算比率" />
       <item value="辅助单位" />
       <item value="库存预警" />
@@ -50,11 +51,10 @@
       <item value="解密" />
       <item value="月" />
       <item value="失效日期" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="186" />
         <entry key="PORTUGUESE" value="1" />
       </map>
