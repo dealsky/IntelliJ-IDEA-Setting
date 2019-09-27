@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="域" />
+      <item value="区域" />
+      <item value="桶" />
+      <item value="字段别名" />
+      <item value="别名" />
       <item value="shuffle" />
       <item value="单位换算比率" />
       <item value="辅助单位" />
@@ -46,16 +51,11 @@
       <item value="rebate" />
       <item value="预" />
       <item value="预先" />
-      <item value="自提" />
-      <item value="待自提" />
-      <item value="解密" />
-      <item value="月" />
-      <item value="失效日期" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="ENGLISH" value="189" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
