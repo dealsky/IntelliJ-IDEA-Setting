@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单价" />
+      <item value="费用单价" />
+      <item value="计件" />
+      <item value="计时" />
+      <item value="计费方式" />
+      <item value="计费点" />
+      <item value="报告点" />
+      <item value="工序" />
+      <item value="Process" />
       <item value="参数" />
       <item value="显示" />
       <item value="加载数据" />
@@ -42,20 +51,11 @@
       <item value="流水号" />
       <item value="原因" />
       <item value="inventory lock" />
-      <item value="库存记录" />
-      <item value="库存流水" />
-      <item value="采购" />
-      <item value="Purchase" />
-      <item value="Picking " />
-      <item value="Picking Stock" />
-      <item value="控制" />
-      <item value="buy Limit" />
-      <item value="限购" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="199" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
