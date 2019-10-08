@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数量" />
+      <item value="物料" />
+      <item value="produce" />
       <item value="工序计划" />
       <item value="车间看板" />
       <item value="车间" />
@@ -42,20 +45,17 @@
       <item value="库存预警" />
       <item value="type" />
       <item value="计算产能" />
-      <item value="数量" />
       <item value="打印" />
       <item value="导出" />
       <item value="作废" />
       <item value="审批" />
       <item value="收款" />
       <item value="级" />
-      <item value="孩子" />
-      <item value="排序因子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="219" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
