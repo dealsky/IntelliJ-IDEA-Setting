@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
       <item value="模拟" />
       <item value="列" />
       <item value="计费" />
@@ -9,7 +10,6 @@
       <item value="是否" />
       <item value="改" />
       <item value="退货" />
-      <item value="计算" />
       <item value="小计" />
       <item value="单价" />
       <item value="费用单价" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
