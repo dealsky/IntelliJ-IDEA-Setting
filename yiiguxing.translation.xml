@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lasted" />
+      <item value="lasted" />
+      <item value="最后一次" />
+      <item value="上一次" />
       <item value="是否展开菜单" />
       <item value="展开菜单" />
       <item value="宰杀" />
@@ -47,15 +51,11 @@
       <item value="单位换算比率" />
       <item value="辅助单位" />
       <item value="库存预警" />
-      <item value="type" />
-      <item value="计算产能" />
-      <item value="打印" />
-      <item value="导出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="222" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
