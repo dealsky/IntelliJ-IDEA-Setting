@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="轮播图" />
+      <item value="轮播" />
       <item value="inverted" />
       <item value="            String pickupPointIdsStr = goods.getPickupPointIdsStr(); " />
       <item value="Lasted" />
@@ -49,13 +51,11 @@
       <item value="桶" />
       <item value="字段别名" />
       <item value="别名" />
-      <item value="shuffle" />
-      <item value="单位换算比率" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
