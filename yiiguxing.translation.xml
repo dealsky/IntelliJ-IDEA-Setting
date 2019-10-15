@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="规格" />
       <item value="批量添加" />
       <item value="批量" />
       <item value="多规格" />
-      <item value="规格" />
       <item value="轮播图" />
       <item value="轮播" />
       <item value="inverted" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
