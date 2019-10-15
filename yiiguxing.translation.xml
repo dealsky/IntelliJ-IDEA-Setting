@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mail" />
+      <item value="邮箱" />
       <item value="规格" />
       <item value="批量添加" />
       <item value="批量" />
@@ -49,13 +51,11 @@
       <item value="参数" />
       <item value="显示" />
       <item value="加载数据" />
-      <item value="加载" />
-      <item value="域" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="226" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
