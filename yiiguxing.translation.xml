@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property" />
+      <item value="属性" />
+      <item value="配置项" />
+      <item value="配置" />
+      <item value="参数" />
       <item value="Ability" />
       <item value="Well, all information looks like noise until you break the code." />
       <item value="动态计算" />
@@ -8,7 +13,6 @@
       <item value="完成" />
       <item value="国家代码" />
       <item value="生成" />
-      <item value="配置" />
       <item value="小计" />
       <item value="联系方式" />
       <item value="列表" />
@@ -47,15 +51,11 @@
       <item value="车间看板" />
       <item value="车间" />
       <item value="工序追踪" />
-      <item value="生产类型" />
-      <item value="计划" />
-      <item value="计划开始时间" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="248" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
