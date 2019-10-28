@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="鸡蛋" />
       <item value="自定义" />
       <item value="property" />
       <item value="属性" />
@@ -50,12 +51,11 @@
       <item value="produce" />
       <item value="工序计划" />
       <item value="车间看板" />
-      <item value="车间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
