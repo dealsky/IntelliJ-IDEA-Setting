@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="常量" />
       <item value="consume" />
       <item value="消费" />
       <item value="proxy" />
@@ -50,12 +51,11 @@
       <item value="规格" />
       <item value="批量添加" />
       <item value="批量" />
-      <item value="多规格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="264" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
