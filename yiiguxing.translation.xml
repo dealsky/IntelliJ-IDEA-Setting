@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认人" />
       <item value="上传图片" />
       <item value="Receivable Log" />
       <item value="ReceivableLog" />
@@ -50,12 +51,11 @@
       <item value="执行" />
       <item value="the specific exporter class should be used directly." />
       <item value="发送" />
-      <item value="Mail" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
