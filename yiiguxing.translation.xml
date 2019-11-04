@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extract QR code" />
+      <item value="识别二维码" />
       <item value="合伙人" />
       <item value="selective" />
       <item value="Sticker" />
@@ -49,13 +51,11 @@
       <item value="鸡蛋" />
       <item value="自定义" />
       <item value="property" />
-      <item value="属性" />
-      <item value="配置项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="283" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
