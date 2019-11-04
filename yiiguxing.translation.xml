@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="selective" />
+      <item value="Sticker" />
       <item value="Venue" />
       <item value="verify" />
       <item value="验证" />
@@ -49,12 +51,10 @@
       <item value="属性" />
       <item value="配置项" />
       <item value="配置" />
-      <item value="参数" />
-      <item value="Ability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="105" />
         <entry key="ENGLISH" value="281" />
         <entry key="PORTUGUESE" value="1" />
       </map>
