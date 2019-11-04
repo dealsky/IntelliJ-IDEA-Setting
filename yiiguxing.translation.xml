@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="验证" />
       <item value="available stock" />
       <item value="可用库存" />
       <item value="操作" />
@@ -49,13 +51,11 @@
       <item value="参数" />
       <item value="Ability" />
       <item value="Well, all information looks like noise until you break the code." />
-      <item value="动态计算" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="281" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
