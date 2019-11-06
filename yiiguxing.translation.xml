@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credential" />
+      <item value="Logistic" />
       <item value="凭证" />
       <item value="物流信息" />
       <item value="物流凭证" />
@@ -49,13 +51,11 @@
       <item value="最后一次" />
       <item value="lately" />
       <item value="最近" />
-      <item value="上班打卡" />
-      <item value="Ohayo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="302" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
