@@ -14,6 +14,10 @@
           <option name="url" value="https://git.dev.tencent.com/dealsky/s-mall.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="dealsky000@outlook.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\cby\IdeaProjects" />
