@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="备货" />
+      <item value="备货状态" />
       <item value="待备货" />
       <item value="generic array" />
       <item value="generic" />
@@ -50,12 +51,11 @@
       <item value="Sticker" />
       <item value="Venue" />
       <item value="verify" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
