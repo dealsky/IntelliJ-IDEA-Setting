@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="出库" />
+      <item value="入库" />
+      <item value="出库 入库" />
+      <item value="确认出库" />
+      <item value="待出库" />
+      <item value="stay" />
+      <item value="待" />
       <item value="delivered" />
       <item value="已发货" />
       <item value="解密" />
@@ -19,7 +26,6 @@
       <item value="generic array" />
       <item value="generic" />
       <item value="declaring" />
-      <item value="入库" />
       <item value="采购量" />
       <item value="模板" />
       <item value="goods" />
@@ -45,17 +51,11 @@
       <item value="确认收货" />
       <item value="has Saved" />
       <item value="hasSaved" />
-      <item value="物流信息" />
-      <item value="credential" />
-      <item value="Logistic" />
-      <item value="凭证" />
-      <item value="物流凭证" />
-      <item value="Logistics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="333" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
