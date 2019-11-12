@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="完全" />
+      <item value="锁库" />
       <item value="发货" />
       <item value="last Receive" />
       <item value="lastReceive" />
@@ -49,13 +51,11 @@
       <item value="模式" />
       <item value="model" />
       <item value="合伙人" />
-      <item value="提成比例" />
-      <item value="Extract QR code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
