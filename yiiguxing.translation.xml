@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联系人" />
+      <item value="transport agent" />
+      <item value="good-transport agent" />
+      <item value="货运商" />
+      <item value="备注" />
+      <item value="体积" />
+      <item value="渠道" />
       <item value="lock" />
       <item value="警报" />
       <item value="库存警报" />
@@ -44,18 +51,11 @@
       <item value="point" />
       <item value="break" />
       <item value="breakpoint" />
-      <item value="断点" />
-      <item value="suspend" />
-      <item value="in-transit stock" />
-      <item value="在途库存" />
-      <item value="z" />
-      <item value="在途" />
-      <item value="草稿" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="348" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
