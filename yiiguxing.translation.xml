@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="警报" />
       <item value="库存警报" />
       <item value="region" />
       <item value="域" />
       <item value="特权" />
       <item value="角标" />
-      <item value="警报" />
       <item value="待入库" />
       <item value="待确认" />
       <item value="出库" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="ENGLISH" value="342" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
