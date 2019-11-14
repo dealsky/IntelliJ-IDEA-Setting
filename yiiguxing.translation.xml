@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设置已读" />
+      <item value="生成" />
       <item value="多" />
       <item value="少" />
       <item value="不足" />
@@ -49,13 +51,11 @@
       <item value="待备货" />
       <item value="generic array" />
       <item value="generic" />
-      <item value="declaring" />
-      <item value="采购量" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="ENGLISH" value="357" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
