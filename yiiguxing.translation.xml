@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digit" />
+      <item value="位数" />
+      <item value="补位" />
       <item value="lock" />
       <item value="设置已读" />
       <item value="生成" />
@@ -48,14 +51,11 @@
       <item value="采购" />
       <item value="备货" />
       <item value="备货状态" />
-      <item value="待备货" />
-      <item value="generic array" />
-      <item value="generic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="360" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
