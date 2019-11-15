@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="体积" />
+      <item value="weight" />
+      <item value="重量" />
+      <item value="箱数" />
+      <item value="发货记录" />
       <item value="Navigate" />
       <item value="valid" />
       <item value="来源" />
@@ -25,7 +30,6 @@
       <item value="good-transport agent" />
       <item value="货运商" />
       <item value="备注" />
-      <item value="体积" />
       <item value="渠道" />
       <item value="库存警报" />
       <item value="region" />
@@ -47,15 +51,11 @@
       <item value="nine" />
       <item value="完全" />
       <item value="rest" />
-      <item value="锁库" />
-      <item value="发货" />
-      <item value="last Receive" />
-      <item value="lastReceive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="368" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
