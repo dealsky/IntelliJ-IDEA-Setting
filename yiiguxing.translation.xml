@@ -1,7 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="give" />
+      <item value="给" />
+      <item value="获取" />
       <item value="exchange" />
+      <item value="赠送" />
+      <item value="issue" />
+      <item value="发放" />
+      <item value="作废" />
+      <item value="已确认" />
+      <item value="确认" />
+      <item value="未确认" />
+      <item value="minus" />
+      <item value="减去" />
+      <item value="减去福利金" />
       <item value="钱" />
       <item value="福利金" />
       <item value="福利" />
@@ -38,24 +51,11 @@
       <item value="递归" />
       <item value="联系人" />
       <item value="transport agent" />
-      <item value="good-transport agent" />
-      <item value="货运商" />
-      <item value="备注" />
-      <item value="库存警报" />
-      <item value="region" />
-      <item value="域" />
-      <item value="特权" />
-      <item value="角标" />
-      <item value="待入库" />
-      <item value="待确认" />
-      <item value="出库" />
-      <item value="入库" />
-      <item value="出库 入库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="384" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
