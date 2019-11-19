@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="give" />
       <item value="给" />
       <item value="获取" />
@@ -39,7 +40,6 @@
       <item value="补位" />
       <item value="lock" />
       <item value="设置已读" />
-      <item value="生成" />
       <item value="多" />
       <item value="少" />
       <item value="不足" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="385" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
