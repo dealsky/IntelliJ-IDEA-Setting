@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分享达人申请" />
       <item value="判断" />
       <item value="currency" />
       <item value="consume" />
@@ -50,12 +51,11 @@
       <item value="多" />
       <item value="少" />
       <item value="不足" />
-      <item value="警报" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
