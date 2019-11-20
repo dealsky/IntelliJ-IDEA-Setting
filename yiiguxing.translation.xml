@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consume" />
+      <item value="消耗" />
       <item value="已退" />
       <item value="扣除的" />
       <item value="扣除" />
@@ -49,13 +51,11 @@
       <item value="警报" />
       <item value="在途" />
       <item value="在途数" />
-      <item value="实际可用" />
-      <item value="链" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="390" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
