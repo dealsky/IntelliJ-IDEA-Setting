@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include" />
+      <item value="包含" />
       <item value="本地商家" />
       <item value="分享达人申请" />
       <item value="判断" />
@@ -49,13 +51,11 @@
       <item value="补位" />
       <item value="lock" />
       <item value="设置已读" />
-      <item value="多" />
-      <item value="少" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="395" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
