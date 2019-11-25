@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="自动上架" />
       <item value="shelves" />
       <item value="上架" />
       <item value="配货" />
@@ -50,12 +51,11 @@
       <item value="valid" />
       <item value="来源" />
       <item value="国家" />
-      <item value="digit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="398" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
