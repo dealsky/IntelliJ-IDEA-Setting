@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
+      <item value="上传" />
       <item value="referrer" />
       <item value="推荐人" />
       <item value="实际" />
@@ -49,13 +51,11 @@
       <item value="历史采购价格" />
       <item value="负" />
       <item value="负面" />
-      <item value="hidden" />
-      <item value="手续费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="406" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
