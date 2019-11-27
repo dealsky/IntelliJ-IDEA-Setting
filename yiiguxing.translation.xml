@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="文件夹" />
       <item value="后缀" />
       <item value="上传" />
       <item value="referrer" />
@@ -50,12 +51,11 @@
       <item value="福利" />
       <item value="历史采购价格" />
       <item value="负" />
-      <item value="负面" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
