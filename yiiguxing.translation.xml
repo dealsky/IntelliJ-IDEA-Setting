@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pub" />
+      <item value="convert" />
+      <item value="转换" />
+      <item value="execute" />
+      <item value="执行" />
+      <item value="Broker" />
+      <item value="消息推送器" />
+      <item value="推送器" />
       <item value="槽位" />
       <item value="参数" />
       <item value="命令" />
@@ -8,8 +16,6 @@
       <item value="回复" />
       <item value="消息" />
       <item value="生成" />
-      <item value="execute" />
-      <item value="执行" />
       <item value="任务" />
       <item value="操作" />
       <item value="接收" />
@@ -45,17 +51,11 @@
       <item value="扣除的" />
       <item value="扣除" />
       <item value="发放" />
-      <item value="give" />
-      <item value="给" />
-      <item value="获取" />
-      <item value="exchange" />
-      <item value="赠送" />
-      <item value="issue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="428" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
