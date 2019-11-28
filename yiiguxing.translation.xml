@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="命令" />
       <item value="接收" />
       <item value="子级" />
       <item value="下级" />
@@ -50,12 +51,11 @@
       <item value="减去福利金" />
       <item value="钱" />
       <item value="福利金" />
-      <item value="福利" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
