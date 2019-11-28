@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="参数" />
+      <item value="execute" />
+      <item value="执行" />
+      <item value="任务" />
+      <item value="操作" />
       <item value="命令" />
       <item value="接收" />
       <item value="子级" />
@@ -35,7 +41,6 @@
       <item value="扣除的" />
       <item value="扣除" />
       <item value="发放" />
-      <item value="生成" />
       <item value="give" />
       <item value="给" />
       <item value="获取" />
@@ -46,16 +51,11 @@
       <item value="已确认" />
       <item value="确认" />
       <item value="未确认" />
-      <item value="minus" />
-      <item value="减去" />
-      <item value="减去福利金" />
-      <item value="钱" />
-      <item value="福利金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="416" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
