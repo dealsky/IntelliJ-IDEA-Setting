@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provided" />
+      <item value="optional" />
       <item value="移动电源" />
       <item value="lock" />
       <item value="线" />
@@ -49,13 +51,11 @@
       <item value="junior" />
       <item value="自动上架" />
       <item value="shelves" />
-      <item value="上架" />
-      <item value="配货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="439" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
