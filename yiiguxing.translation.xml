@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="移动电源" />
+      <item value="lock" />
+      <item value="线" />
+      <item value="Exception" />
+      <item value="异常" />
+      <item value="锁异常" />
+      <item value="归还" />
+      <item value="借出" />
+      <item value="操作码" />
       <item value="Consume" />
       <item value="行为" />
       <item value="校验" />
@@ -42,20 +51,11 @@
       <item value="shelves" />
       <item value="上架" />
       <item value="配货" />
-      <item value="配货单" />
-      <item value="include" />
-      <item value="包含" />
-      <item value="本地商家" />
-      <item value="分享达人申请" />
-      <item value="判断" />
-      <item value="currency" />
-      <item value="consume" />
-      <item value="消耗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="438" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
