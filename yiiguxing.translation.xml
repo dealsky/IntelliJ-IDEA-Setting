@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结果码" />
       <item value="确认码" />
       <item value="property" />
       <item value="属性" />
@@ -50,12 +51,11 @@
       <item value="addres" />
       <item value="exclusive" />
       <item value="inclusive" />
-      <item value="团队" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
