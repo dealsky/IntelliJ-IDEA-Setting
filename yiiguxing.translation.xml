@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前部" />
+      <item value="后部" />
+      <item value="后" />
+      <item value="前" />
+      <item value="标点" />
       <item value="验证位" />
       <item value="distribute" />
       <item value="分发" />
@@ -46,16 +51,11 @@
       <item value="生成" />
       <item value="任务" />
       <item value="操作" />
-      <item value="接收" />
-      <item value="子级" />
-      <item value="下级" />
-      <item value="文件夹" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="ENGLISH" value="450" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
