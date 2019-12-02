@@ -2,7 +2,10 @@
   <component name="AppStorage">
     <histories>
       <item value="plug" />
+      <item value="满" />
+      <item value="in" />
       <item value="插入" />
+      <item value="是否拥有" />
       <item value="插" />
       <item value="插上的" />
       <item value="位置" />
@@ -48,14 +51,11 @@
       <item value="execute" />
       <item value="执行" />
       <item value="Broker" />
-      <item value="消息推送器" />
-      <item value="推送器" />
-      <item value="槽位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="461" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
