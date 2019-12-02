@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plug" />
+      <item value="插入" />
+      <item value="插" />
+      <item value="插上的" />
+      <item value="位置" />
+      <item value="存放" />
+      <item value="deposit" />
       <item value="编号" />
       <item value="前部" />
       <item value="后部" />
@@ -44,18 +51,11 @@
       <item value="消息推送器" />
       <item value="推送器" />
       <item value="槽位" />
-      <item value="参数" />
-      <item value="命令" />
-      <item value="replay" />
-      <item value="回复" />
-      <item value="消息" />
-      <item value="生成" />
-      <item value="任务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="458" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
