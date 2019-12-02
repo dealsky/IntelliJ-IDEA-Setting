@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收款记录" />
+      <item value="unreviewed" />
+      <item value="未审核" />
       <item value="消息接收器" />
       <item value="结果码" />
       <item value="确认码" />
@@ -48,14 +51,11 @@
       <item value="推荐人" />
       <item value="实际" />
       <item value="union" />
-      <item value="address" />
-      <item value="addres" />
-      <item value="exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="445" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
