@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="借出失败" />
+      <item value="已完成" />
+      <item value="已借出" />
+      <item value="创建" />
       <item value="plug" />
       <item value="满" />
       <item value="in" />
@@ -47,15 +51,11 @@
       <item value="校验密码" />
       <item value="pub" />
       <item value="convert" />
-      <item value="转换" />
-      <item value="execute" />
-      <item value="执行" />
-      <item value="Broker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="465" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
