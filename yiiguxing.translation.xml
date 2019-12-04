@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="描述" />
+      <item value="fault" />
+      <item value="fault信息" />
+      <item value="故障" />
       <item value="生成" />
       <item value="Forced" />
       <item value="强制弹出" />
@@ -47,15 +51,11 @@
       <item value="电量" />
       <item value="收款记录" />
       <item value="unreviewed" />
-      <item value="未审核" />
-      <item value="消息接收器" />
-      <item value="结果码" />
-      <item value="确认码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="483" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
