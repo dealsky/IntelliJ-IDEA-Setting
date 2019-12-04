@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全天营业" />
       <item value="create" />
       <item value="description" />
       <item value="描述" />
@@ -50,12 +51,11 @@
       <item value="分发" />
       <item value="lock" />
       <item value="electric quantity" />
-      <item value="电量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="485" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
