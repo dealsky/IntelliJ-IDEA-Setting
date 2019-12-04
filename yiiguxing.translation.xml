@@ -1,12 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forced" />
+      <item value="强制弹出" />
+      <item value="operator" />
+      <item value="操作人" />
+      <item value="归还" />
+      <item value="还" />
+      <item value="借" />
+      <item value="弹出" />
+      <item value="插入" />
       <item value="usage record" />
       <item value="使用记录" />
       <item value="execute" />
       <item value="执行" />
       <item value="执行队列" />
-      <item value="弹出" />
       <item value="别名" />
       <item value="可用数量" />
       <item value="店铺" />
@@ -18,7 +26,6 @@
       <item value="plug" />
       <item value="满" />
       <item value="in" />
-      <item value="插入" />
       <item value="是否拥有" />
       <item value="插" />
       <item value="插上的" />
@@ -44,18 +51,11 @@
       <item value="结果码" />
       <item value="确认码" />
       <item value="property" />
-      <item value="属性" />
-      <item value="provided" />
-      <item value="optional" />
-      <item value="移动电源" />
-      <item value="线" />
-      <item value="Exception" />
-      <item value="异常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="479" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
