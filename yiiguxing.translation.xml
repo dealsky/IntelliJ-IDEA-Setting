@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <histories>
       <item value="生成" />
+      <item value="consume" />
+      <item value="消费" />
+      <item value="recharge" />
+      <item value="充值" />
+      <item value="余额记录" />
+      <item value="余额" />
       <item value="交易订单" />
       <item value="交易" />
       <item value="interval" />
@@ -45,17 +51,11 @@
       <item value="可用数量" />
       <item value="店铺" />
       <item value="代理商" />
-      <item value="借出失败" />
-      <item value="已完成" />
-      <item value="已借出" />
-      <item value="创建" />
-      <item value="plug" />
-      <item value="满" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="506" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
