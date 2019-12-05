@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交易订单" />
+      <item value="交易" />
       <item value="interval" />
       <item value="间隔" />
       <item value="实付金额" />
@@ -49,13 +51,11 @@
       <item value="创建" />
       <item value="plug" />
       <item value="满" />
-      <item value="in" />
-      <item value="是否拥有" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="501" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
