@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="交易订单" />
       <item value="交易" />
       <item value="interval" />
@@ -29,7 +30,6 @@
       <item value="fault" />
       <item value="fault信息" />
       <item value="故障" />
-      <item value="生成" />
       <item value="Forced" />
       <item value="强制弹出" />
       <item value="operator" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
