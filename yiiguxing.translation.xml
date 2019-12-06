@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可放大" />
+      <item value="放大" />
       <item value="生成" />
       <item value="consume" />
       <item value="消费" />
@@ -49,13 +51,11 @@
       <item value="执行队列" />
       <item value="别名" />
       <item value="可用数量" />
-      <item value="店铺" />
-      <item value="代理商" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
