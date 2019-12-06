@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已过期" />
+      <item value="过期" />
       <item value="使用规则" />
       <item value="deduction" />
       <item value="Reduction" />
@@ -49,13 +51,11 @@
       <item value="description" />
       <item value="描述" />
       <item value="fault" />
-      <item value="fault信息" />
-      <item value="故障" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
