@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用规则" />
+      <item value="deduction" />
+      <item value="Reduction" />
+      <item value="直接抵扣" />
+      <item value="满减" />
+      <item value="金额" />
+      <item value="抵扣金额" />
       <item value="coupon" />
       <item value="lend" />
       <item value="是否可借" />
@@ -44,18 +51,11 @@
       <item value="fault" />
       <item value="fault信息" />
       <item value="故障" />
-      <item value="Forced" />
-      <item value="强制弹出" />
-      <item value="operator" />
-      <item value="操作人" />
-      <item value="弹出" />
-      <item value="插入" />
-      <item value="usage record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="518" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
