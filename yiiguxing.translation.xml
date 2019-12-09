@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="最近记录时间" />
       <item value="优惠金额" />
       <item value="支付失败" />
       <item value="同意" />
@@ -50,12 +51,11 @@
       <item value="coupon" />
       <item value="lend" />
       <item value="是否可借" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
