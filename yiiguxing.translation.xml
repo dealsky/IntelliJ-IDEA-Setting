@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未处理" />
       <item value="已拒绝" />
       <item value="已同意" />
-      <item value="未处理" />
       <item value="押金" />
       <item value="退款申请" />
       <item value="未完成" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
