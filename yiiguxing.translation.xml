@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同意" />
       <item value="未处理" />
       <item value="已拒绝" />
       <item value="已同意" />
@@ -50,12 +51,11 @@
       <item value="region" />
       <item value="经纬度" />
       <item value="精度" />
-      <item value="可放大" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="ENGLISH" value="552" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
