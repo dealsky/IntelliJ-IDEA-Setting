@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="启用" />
       <item value="详情" />
       <item value="Advertisement" />
       <item value="广告" />
@@ -50,12 +51,11 @@
       <item value="未完成" />
       <item value="差" />
       <item value="差距" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
