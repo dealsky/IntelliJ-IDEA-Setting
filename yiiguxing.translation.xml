@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同步" />
       <item value="发票" />
       <item value="connect" />
       <item value="连接" />
@@ -50,12 +51,11 @@
       <item value="支付失败" />
       <item value="同意" />
       <item value="未处理" />
-      <item value="已拒绝" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="ENGLISH" value="589" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
