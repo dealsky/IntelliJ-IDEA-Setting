@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declaring" />
       <item value="verify" />
       <item value="验证" />
       <item value="同步" />
@@ -50,11 +51,10 @@
       <item value="cabinet" />
       <item value="最近记录时间" />
       <item value="优惠金额" />
-      <item value="支付失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
+        <entry key="CHINESE" value="300" />
         <entry key="ENGLISH" value="590" />
         <entry key="PORTUGUESE" value="1" />
       </map>
