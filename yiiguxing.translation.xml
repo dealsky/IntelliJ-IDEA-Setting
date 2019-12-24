@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="underlying" />
       <item value="PESSIMISTIC FORCE INCREMENT" />
       <item value="PESSIMISTIC" />
       <item value="户头名称" />
@@ -50,11 +51,10 @@
       <item value="订阅消息" />
       <item value="一级" />
       <item value="consume" />
-      <item value="huge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
+        <entry key="CHINESE" value="305" />
         <entry key="ENGLISH" value="594" />
         <entry key="PORTUGUESE" value="1" />
       </map>
