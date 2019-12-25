@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="聚集" />
+      <item value="聚" />
+      <item value="集" />
+      <item value="集成" />
+      <item value="统计" />
       <item value="verify" />
       <item value="完成" />
       <item value="离线" />
@@ -46,16 +51,11 @@
       <item value="issue" />
       <item value="问题" />
       <item value="month" />
-      <item value="mouth" />
-      <item value="receipt" />
-      <item value="收款" />
-      <item value="明细" />
-      <item value="重新支付" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="603" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
