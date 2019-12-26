@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="日期库存" />
       <item value="lat" />
       <item value=";at" />
       <item value="申请" />
@@ -50,12 +51,11 @@
       <item value="验证" />
       <item value="同步" />
       <item value="发票" />
-      <item value="connect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="610" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
