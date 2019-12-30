@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" density" />
+      <item value="密度" />
+      <item value="温度" />
+      <item value="oilcan" />
+      <item value="olican" />
+      <item value="oli" />
+      <item value="油罐" />
       <item value="merchant" />
       <item value="manager" />
       <item value="设备管理员" />
@@ -44,18 +51,11 @@
       <item value="execute" />
       <item value="执行" />
       <item value="dealy" />
-      <item value="underlying" />
-      <item value="PESSIMISTIC FORCE INCREMENT" />
-      <item value="PESSIMISTIC" />
-      <item value="户头名称" />
-      <item value="户头" />
-      <item value="传真" />
-      <item value="鉴权" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="617" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
