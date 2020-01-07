@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="外勤" />
+      <item value="签到记录" />
+      <item value="lng" />
+      <item value="lat" />
       <item value="attendance" />
       <item value="考勤" />
       <item value="scope" />
@@ -31,7 +35,6 @@
       <item value="设备管理员" />
       <item value="预约" />
       <item value="日期库存" />
-      <item value="lat" />
       <item value=";at" />
       <item value="申请" />
       <item value="合作" />
@@ -48,14 +51,11 @@
       <item value="聚集" />
       <item value="聚" />
       <item value="集" />
-      <item value="集成" />
-      <item value="统计" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="625" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="628" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
