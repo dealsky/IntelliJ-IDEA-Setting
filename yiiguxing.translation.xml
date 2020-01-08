@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
       <item value="description" />
       <item value="描述" />
       <item value="客户应酬" />
@@ -50,12 +51,11 @@
       <item value=" density" />
       <item value="密度" />
       <item value="温度" />
-      <item value="oilcan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="646" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
