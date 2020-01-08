@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Leader" />
+      <item value="负责人" />
       <item value="function Introduction" />
       <item value="功能介绍" />
       <item value="外勤" />
@@ -49,13 +51,11 @@
       <item value="待审核" />
       <item value="withdraw deposit" />
       <item value="提现" />
-      <item value="提现明细" />
-      <item value="聚集" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="633" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
