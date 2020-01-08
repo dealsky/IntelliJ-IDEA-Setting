@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="description" />
+      <item value="描述" />
+      <item value="客户应酬" />
+      <item value="hotel accommodation" />
+      <item value="酒店住宿" />
+      <item value="activity funds" />
+      <item value="活动经费" />
+      <item value="采购经费" />
+      <item value="consume" />
+      <item value="消费" />
+      <item value="approved" />
+      <item value="have examined and approved" />
+      <item value="已审批" />
+      <item value="待审批" />
+      <item value="reimburse" />
+      <item value="reimbursement" />
+      <item value="apply for reimbursement" />
+      <item value="报销" />
       <item value="多选" />
       <item value="可操作公司" />
       <item value="Leader" />
@@ -33,29 +51,11 @@
       <item value="密度" />
       <item value="温度" />
       <item value="oilcan" />
-      <item value="olican" />
-      <item value="oli" />
-      <item value="油罐" />
-      <item value="merchant" />
-      <item value="manager" />
-      <item value="设备管理员" />
-      <item value="预约" />
-      <item value="日期库存" />
-      <item value=";at" />
-      <item value="申请" />
-      <item value="合作" />
-      <item value="合作信息" />
-      <item value="拒绝" />
-      <item value="决绝" />
-      <item value="通过" />
-      <item value="未审核" />
-      <item value="审核" />
-      <item value="待审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="645" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
