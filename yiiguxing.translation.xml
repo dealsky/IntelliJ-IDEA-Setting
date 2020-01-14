@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="运输损耗" />
+      <item value="Shipping date" />
+      <item value="运输日期" />
+      <item value="目的地" />
+      <item value="出发地" />
       <item value="statistics" />
       <item value="统计" />
       <item value="乘法" />
@@ -46,16 +51,11 @@
       <item value="logistics" />
       <item value="logistics provider" />
       <item value="available" />
-      <item value="distribution" />
-      <item value="element" />
-      <item value="成分" />
-      <item value="准备" />
-      <item value="delivery Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="656" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
