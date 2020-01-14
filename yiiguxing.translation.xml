@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="精简消息" />
       <item value="未安排" />
       <item value="已完成" />
       <item value="进行中" />
@@ -50,12 +51,11 @@
       <item value="scope" />
       <item value="范围" />
       <item value="公司" />
-      <item value="Logistics" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
