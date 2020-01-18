@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="load" />
+      <item value="装填" />
       <item value="交易" />
       <item value="payedAmount" />
       <item value="销售发票" />
@@ -49,13 +51,11 @@
       <item value="可操作公司" />
       <item value="Leader" />
       <item value="负责人" />
-      <item value="function Introduction" />
-      <item value="功能介绍" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="673" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
