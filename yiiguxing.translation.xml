@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="difference" />
+      <item value="减" />
+      <item value=" minus" />
+      <item value="rest" />
+      <item value="代收款" />
       <item value="收款" />
       <item value="load" />
       <item value="装填" />
@@ -46,16 +51,11 @@
       <item value="已审批" />
       <item value="reimburse" />
       <item value="reimbursement" />
-      <item value="apply for reimbursement" />
-      <item value="报销" />
-      <item value="多选" />
-      <item value="可操作公司" />
-      <item value="Leader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="679" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
