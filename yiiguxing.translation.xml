@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="form" />
+      <item value="类型" />
+      <item value="属于" />
+      <item value="generate" />
       <item value="decrease" />
       <item value="减少" />
       <item value="初始化" />
@@ -47,15 +51,11 @@
       <item value="审核" />
       <item value="description" />
       <item value="描述" />
-      <item value="客户应酬" />
-      <item value="hotel accommodation" />
-      <item value="酒店住宿" />
-      <item value="activity funds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="687" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
