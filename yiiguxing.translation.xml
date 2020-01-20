@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" summation" />
+      <item value=" summa" />
+      <item value="总和" />
+      <item value="总" />
+      <item value="综合" />
+      <item value="统计" />
+      <item value="总计" />
       <item value="欠款" />
       <item value="期初欠款" />
       <item value="收款" />
@@ -44,18 +51,11 @@
       <item value="待安排" />
       <item value="imageList" />
       <item value="运输损耗" />
-      <item value="Shipping date" />
-      <item value="运输日期" />
-      <item value="目的地" />
-      <item value="出发地" />
-      <item value="statistics" />
-      <item value="统计" />
-      <item value="乘法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="693" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
