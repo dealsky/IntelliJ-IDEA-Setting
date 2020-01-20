@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="期初欠款" />
       <item value="收款" />
       <item value="还款" />
       <item value="refund" />
@@ -50,12 +51,11 @@
       <item value="统计" />
       <item value="乘法" />
       <item value="来源" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
