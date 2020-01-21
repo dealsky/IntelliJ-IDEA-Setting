@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" denominator" />
+      <item value="分母" />
+      <item value="分子" />
+      <item value="小数" />
+      <item value="judge" />
+      <item value="判定" />
+      <item value="判断" />
+      <item value=" probability" />
+      <item value="概率" />
       <item value=" summation" />
       <item value=" summa" />
       <item value="总和" />
@@ -42,20 +51,11 @@
       <item value="实例" />
       <item value="示例" />
       <item value="transient" />
-      <item value="精简消息" />
-      <item value="未安排" />
-      <item value="已完成" />
-      <item value="进行中" />
-      <item value="待审批" />
-      <item value="be arranged" />
-      <item value="待安排" />
-      <item value="imageList" />
-      <item value="运输损耗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="698" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
