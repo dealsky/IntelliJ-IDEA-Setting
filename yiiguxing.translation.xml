@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="扣款" />
+      <item value="deposit-free" />
+      <item value="免押" />
       <item value="授权订单" />
       <item value="授权确认" />
       <item value="Extra Order" />
@@ -48,14 +51,11 @@
       <item value=" minus" />
       <item value="rest" />
       <item value="代收款" />
-      <item value="load" />
-      <item value="装填" />
-      <item value="交易" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="703" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
