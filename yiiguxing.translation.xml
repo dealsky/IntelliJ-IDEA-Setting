@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relieve" />
+      <item value="解除" />
       <item value="扣款" />
       <item value="deposit-free" />
       <item value="免押" />
@@ -49,13 +51,11 @@
       <item value="difference" />
       <item value="减" />
       <item value=" minus" />
-      <item value="rest" />
-      <item value="代收款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="704" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
