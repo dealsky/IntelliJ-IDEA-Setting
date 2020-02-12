@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权限" />
       <item value="遍历" />
       <item value="扫描" />
       <item value="文件夹" />
       <item value="single" />
       <item value="singletons" />
-      <item value="权限" />
       <item value="押金" />
       <item value="收到" />
       <item value="relieve" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
