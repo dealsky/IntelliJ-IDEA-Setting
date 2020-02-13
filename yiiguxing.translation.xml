@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检验" />
       <item value="权限" />
       <item value="遍历" />
       <item value="扫描" />
@@ -50,12 +51,11 @@
       <item value="decrease" />
       <item value="减少" />
       <item value="初始化" />
-      <item value="增" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
