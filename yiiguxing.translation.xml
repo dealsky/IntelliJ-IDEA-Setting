@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检验" />
       <item value="填充" />
       <item value="复杂" />
       <item value="作废" />
@@ -22,7 +23,6 @@
       <item value="短信" />
       <item value="腾讯" />
       <item value="预览" />
-      <item value="检验" />
       <item value="权限" />
       <item value="遍历" />
       <item value="扫描" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
