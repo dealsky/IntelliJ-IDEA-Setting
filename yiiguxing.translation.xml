@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="离线设备" />
       <item value="验证" />
       <item value="原有的" />
       <item value="检验" />
@@ -50,12 +51,11 @@
       <item value="分母" />
       <item value="分子" />
       <item value="小数" />
-      <item value="judge" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
