@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待确认" />
+      <item value="预" />
+      <item value="预订单" />
       <item value="离线设备" />
       <item value="验证" />
       <item value="原有的" />
@@ -48,14 +51,11 @@
       <item value="scoreConfirm" />
       <item value="trade" />
       <item value=" denominator" />
-      <item value="分母" />
-      <item value="分子" />
-      <item value="小数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="ENGLISH" value="735" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
