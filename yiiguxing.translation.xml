@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="行" />
+      <item value="自定义" />
       <item value="scale" />
       <item value="verify" />
       <item value="验证" />
@@ -49,13 +51,11 @@
       <item value="授权订单" />
       <item value="授权确认" />
       <item value="Extra Order" />
-      <item value="ExtraOrder" />
-      <item value="预付单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="737" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="739" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
