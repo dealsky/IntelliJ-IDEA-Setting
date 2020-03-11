@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="祖先" />
+      <item value="inherit" />
+      <item value="继承" />
+      <item value="链" />
+      <item value="前缀" />
       <item value="determine" />
       <item value="Authority" />
       <item value="预授权解冻" />
@@ -46,16 +51,11 @@
       <item value="文件夹" />
       <item value="single" />
       <item value="singletons" />
-      <item value="押金" />
-      <item value="收到" />
-      <item value="relieve" />
-      <item value="解除" />
-      <item value="扣款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="743" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="746" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
