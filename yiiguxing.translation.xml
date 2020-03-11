@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="侧边栏" />
       <item value="祖先" />
       <item value="inherit" />
       <item value="继承" />
@@ -50,12 +51,11 @@
       <item value="扫描" />
       <item value="文件夹" />
       <item value="single" />
-      <item value="singletons" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
