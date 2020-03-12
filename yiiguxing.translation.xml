@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="点" />
       <item value="list" />
       <item value="avail" />
       <item value="可用" />
@@ -50,12 +51,11 @@
       <item value="短信" />
       <item value="腾讯" />
       <item value="预览" />
-      <item value="权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="751" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="752" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
