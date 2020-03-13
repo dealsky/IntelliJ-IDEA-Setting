@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="roll" />
+      <item value="滚动" />
       <item value="在途" />
       <item value="subject" />
       <item value="主体" />
@@ -49,13 +51,11 @@
       <item value="复杂" />
       <item value="作废" />
       <item value="examine and approve" />
-      <item value="审批" />
-      <item value="重量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="764" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="765" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
