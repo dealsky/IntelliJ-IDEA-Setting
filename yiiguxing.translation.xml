@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="在途库存" />
+      <item value="锁定" />
+      <item value="可用" />
       <item value="重试" />
       <item value="multi" />
       <item value="多" />
       <item value="点" />
       <item value="list" />
       <item value="avail" />
-      <item value="可用" />
       <item value="部门" />
       <item value="侧边栏" />
       <item value="祖先" />
@@ -49,13 +51,11 @@
       <item value="shrink" />
       <item value="缩" />
       <item value="默认" />
-      <item value="navigate mode" />
-      <item value="导航方式" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="ENGLISH" value="757" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
