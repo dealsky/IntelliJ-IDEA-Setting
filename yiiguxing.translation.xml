@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize" />
+      <item value="初始化" />
       <item value="初始化库存" />
       <item value="description" />
       <item value="描述" />
@@ -49,13 +51,11 @@
       <item value="配色" />
       <item value="separate" />
       <item value="分离" />
-      <item value="roof" />
-      <item value="顶部" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="760" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
