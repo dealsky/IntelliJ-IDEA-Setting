@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refunded" />
+      <item value="已退款" />
+      <item value="退款" />
       <item value="specified" />
       <item value="手动" />
       <item value="roll" />
@@ -48,14 +51,11 @@
       <item value="预订单" />
       <item value="离线设备" />
       <item value="原有的" />
-      <item value="检验" />
-      <item value="填充" />
-      <item value="复杂" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="769" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
