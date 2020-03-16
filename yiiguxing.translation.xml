@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publisher" />
+      <item value="发布人" />
+      <item value="announcement" />
+      <item value="公告" />
+      <item value="状态" />
+      <item value="rent" />
+      <item value="租借" />
+      <item value="租借状态" />
       <item value="refunded" />
       <item value="已退款" />
       <item value="退款" />
@@ -43,19 +51,11 @@
       <item value="自定义" />
       <item value="scale" />
       <item value="verify" />
-      <item value="验证" />
-      <item value="trade" />
-      <item value="远程" />
-      <item value="待确认" />
-      <item value="预" />
-      <item value="预订单" />
-      <item value="离线设备" />
-      <item value="原有的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="769" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="773" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
