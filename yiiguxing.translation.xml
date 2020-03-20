@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提成" />
+      <item value="已拒绝" />
+      <item value="already passed" />
+      <item value="已通过" />
+      <item value="未审核" />
+      <item value="审核" />
       <item value="staff" />
       <item value="员工" />
       <item value="receipt" />
@@ -45,17 +51,11 @@
       <item value="description" />
       <item value="描述" />
       <item value="在途库存" />
-      <item value="锁定" />
-      <item value="可用" />
-      <item value="重试" />
-      <item value="multi" />
-      <item value="多" />
-      <item value="点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="792" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
