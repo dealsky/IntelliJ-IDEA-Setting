@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="道次" />
+      <item value="顺序" />
       <item value="Process" />
       <item value="Device" />
       <item value="设备" />
@@ -49,13 +51,11 @@
       <item value="已拒绝" />
       <item value="already passed" />
       <item value="已通过" />
-      <item value="未审核" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="825" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
