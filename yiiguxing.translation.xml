@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Production order" />
+      <item value="生产订单" />
       <item value="次要" />
       <item value="道次" />
       <item value="顺序" />
@@ -49,13 +51,11 @@
       <item value="合同照片" />
       <item value="营业执照" />
       <item value="提成" />
-      <item value="已拒绝" />
-      <item value="already passed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="827" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
