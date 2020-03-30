@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" production plan" />
+      <item value="生产计划" />
       <item value="receiver" />
       <item value="收款人" />
       <item value="shoukren " />
@@ -49,13 +51,11 @@
       <item value="业绩" />
       <item value="营收" />
       <item value="generate" />
-      <item value="提现发放" />
-      <item value="提现" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="834" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="835" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
