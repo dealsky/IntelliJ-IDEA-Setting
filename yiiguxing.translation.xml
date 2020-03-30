@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详情" />
+      <item value="描述" />
+      <item value="修饰" />
+      <item value="辅助" />
+      <item value="总计" />
       <item value="海啸" />
       <item value="h" />
       <item value="车间加工" />
@@ -46,16 +51,11 @@
       <item value="昨日在线时间" />
       <item value="在线" />
       <item value="设备上线" />
-      <item value="设备上限" />
-      <item value="横" />
-      <item value="suffix" />
-      <item value="订单查询" />
-      <item value="performance" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="838" />
+        <entry key="ENGLISH" value="839" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
