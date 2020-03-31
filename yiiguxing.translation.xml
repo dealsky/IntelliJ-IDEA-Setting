@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="analyze" />
+      <item value="分析" />
+      <item value="统计" />
       <item value="dealsky" />
       <item value="普通" />
       <item value="日常" />
@@ -48,14 +51,11 @@
       <item value="需要在线时间" />
       <item value="seconds" />
       <item value="足够" />
-      <item value="未达到指标" />
-      <item value="记录" />
-      <item value="statistics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="844" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
