@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dealsky" />
+      <item value="普通" />
+      <item value="日常" />
       <item value="发票" />
       <item value="详情" />
       <item value="描述" />
@@ -48,14 +51,11 @@
       <item value="未达到指标" />
       <item value="记录" />
       <item value="statistics" />
-      <item value="统计" />
-      <item value="昨日在线时间" />
-      <item value="在线" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="842" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
