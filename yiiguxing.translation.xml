@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否临时工" />
+      <item value="离职时间" />
+      <item value="hiredate" />
+      <item value="入职时间" />
+      <item value="entry time" />
+      <item value="present address" />
+      <item value="现居地" />
+      <item value="现在所居地" />
+      <item value="census register" />
+      <item value="户籍" />
+      <item value="koseki" />
+      <item value="registration" />
+      <item value="户籍地址" />
+      <item value="在职" />
+      <item value="在职状态" />
+      <item value="初中" />
+      <item value="小学" />
+      <item value="education" />
+      <item value="学历" />
       <item value="prod" />
       <item value=" number" />
       <item value="数" />
@@ -32,30 +51,11 @@
       <item value="交付时间" />
       <item value="Production order" />
       <item value="生产订单" />
-      <item value="次要" />
-      <item value="道次" />
-      <item value="顺序" />
-      <item value="Process" />
-      <item value="Device" />
-      <item value="设备" />
-      <item value="付款" />
-      <item value="receipt" />
-      <item value="付" />
-      <item value="采购应付" />
-      <item value="inbound" />
-      <item value="Outbound" />
-      <item value="approve" />
-      <item value="owner" />
-      <item value="amount received" />
-      <item value="已收金额" />
-      <item value="拥有者" />
-      <item value="所有者" />
-      <item value="suoyouz " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="858" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
