@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="主管" />
       <item value="organizational structure" />
       <item value="组织架构" />
       <item value="是否临时工" />
@@ -50,12 +51,11 @@
       <item value="职位" />
       <item value="联系人" />
       <item value="delivery time" />
-      <item value="交付时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="526" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="527" />
+        <entry key="ENGLISH" value="860" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
