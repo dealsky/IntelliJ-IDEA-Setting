@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="部门" />
+      <item value="数据可见性" />
+      <item value="可见" />
       <item value="记录" />
       <item value="付款" />
       <item value="receipt" />
@@ -48,14 +51,11 @@
       <item value="总量" />
       <item value="analyze" />
       <item value="分析" />
-      <item value="统计" />
-      <item value="dealsky" />
-      <item value="普通" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="ENGLISH" value="883" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
