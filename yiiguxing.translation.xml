@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
+      <item value="valid" />
+      <item value="invaild" />
+      <item value="nvaild" />
+      <item value="比较" />
       <item value="ranges" />
       <item value="validate" />
       <item value="验证" />
@@ -46,16 +51,11 @@
       <item value="registration" />
       <item value="户籍地址" />
       <item value="在职" />
-      <item value="在职状态" />
-      <item value="初中" />
-      <item value="小学" />
-      <item value="education" />
-      <item value="学历" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="888" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
