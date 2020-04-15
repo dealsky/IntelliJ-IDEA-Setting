@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contact" />
+      <item value="contrct" />
+      <item value="contract" />
       <item value="publishers" />
       <item value="publisher" />
       <item value="发布人" />
@@ -48,13 +51,10 @@
       <item value="present address" />
       <item value="现居地" />
       <item value="现在所居地" />
-      <item value="census register" />
-      <item value="户籍" />
-      <item value="koseki" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="549" />
+        <entry key="CHINESE" value="550" />
         <entry key="ENGLISH" value="890" />
         <entry key="PORTUGUESE" value="1" />
       </map>
