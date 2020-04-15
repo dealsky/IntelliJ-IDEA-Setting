@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publishers" />
+      <item value="publisher" />
+      <item value="发布人" />
       <item value="invalid" />
       <item value="valid" />
       <item value="invaild" />
@@ -48,14 +51,11 @@
       <item value="census register" />
       <item value="户籍" />
       <item value="koseki" />
-      <item value="registration" />
-      <item value="户籍地址" />
-      <item value="在职" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="888" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="890" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
