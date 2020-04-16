@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extra" />
+      <item value="extra-add" />
+      <item value="可扩展" />
+      <item value="advanced" />
+      <item value="高级" />
       <item value="announcement" />
       <item value="reference Cost Price" />
       <item value="referenceCostPrice" />
@@ -46,16 +51,11 @@
       <item value="主管" />
       <item value="organizational structure" />
       <item value="组织架构" />
-      <item value="是否临时工" />
-      <item value="离职时间" />
-      <item value="hiredate" />
-      <item value="入职时间" />
-      <item value="entry time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="890" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="892" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
