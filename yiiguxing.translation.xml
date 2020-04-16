@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="announcement" />
       <item value="reference Cost Price" />
       <item value="referenceCostPrice" />
       <item value="contact" />
@@ -50,11 +51,10 @@
       <item value="hiredate" />
       <item value="入职时间" />
       <item value="entry time" />
-      <item value="present address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
+        <entry key="CHINESE" value="552" />
         <entry key="ENGLISH" value="890" />
         <entry key="PORTUGUESE" value="1" />
       </map>
