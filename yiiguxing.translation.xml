@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="引用" />
+      <item value="外部" />
       <item value="注解" />
       <item value="执行方法" />
       <item value="extra" />
@@ -49,13 +51,11 @@
       <item value="description" />
       <item value="图纸" />
       <item value="CraftsRouting" />
-      <item value="导出" />
-      <item value="主管" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="ENGLISH" value="897" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
