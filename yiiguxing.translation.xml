@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lat" />
+      <item value="lng" />
       <item value="生成" />
       <item value="target" />
       <item value="前缀" />
@@ -49,13 +51,11 @@
       <item value="收款" />
       <item value="annocation" />
       <item value="属性" />
-      <item value="标识" />
-      <item value="模板" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="565" />
-        <entry key="ENGLISH" value="906" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="907" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
