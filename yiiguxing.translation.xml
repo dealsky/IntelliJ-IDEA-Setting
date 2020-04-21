@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="total" />
+      <item value="总计" />
       <item value="inherited" />
       <item value=" display" />
       <item value="显示" />
@@ -49,13 +51,11 @@
       <item value="creator Id" />
       <item value="creatorId" />
       <item value="creator" />
-      <item value="数据可见性" />
-      <item value="可见" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="573" />
+        <entry key="ENGLISH" value="911" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
