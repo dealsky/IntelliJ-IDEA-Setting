@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specification" />
+      <item value="规格" />
+      <item value="kiminona" />
+      <item value="kimino" />
+      <item value="kimono" />
+      <item value="kinino" />
+      <item value="娜娜" />
+      <item value="大六" />
+      <item value="大五" />
+      <item value="大四" />
+      <item value="大三" />
+      <item value="大二" />
+      <item value="大一" />
       <item value="触发者" />
       <item value="计算" />
       <item value="小计" />
@@ -38,24 +51,11 @@
       <item value="referenceCostPrice" />
       <item value="contact" />
       <item value="contrct" />
-      <item value="contract" />
-      <item value="publishers" />
-      <item value="publisher" />
-      <item value="发布人" />
-      <item value="invalid" />
-      <item value="valid" />
-      <item value="invaild" />
-      <item value="nvaild" />
-      <item value="比较" />
-      <item value="ranges" />
-      <item value="validate" />
-      <item value="验证" />
-      <item value="部门" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="916" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
