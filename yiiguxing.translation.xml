@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" account paid" />
+      <item value="已付款" />
+      <item value="已打款" />
       <item value="Specification" />
       <item value="规格" />
       <item value="kiminona" />
@@ -48,14 +51,11 @@
       <item value="高级" />
       <item value="announcement" />
       <item value="reference Cost Price" />
-      <item value="referenceCostPrice" />
-      <item value="contact" />
-      <item value="contrct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="916" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="917" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
