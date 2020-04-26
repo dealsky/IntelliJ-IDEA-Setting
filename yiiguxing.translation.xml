@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payment" />
       <item value="contract" />
       <item value="quote" />
       <item value="类别" />
@@ -50,11 +51,10 @@
       <item value="inherited" />
       <item value=" display" />
       <item value="显示" />
-      <item value="期初欠款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
+        <entry key="CHINESE" value="600" />
         <entry key="ENGLISH" value="933" />
         <entry key="PORTUGUESE" value="1" />
       </map>
