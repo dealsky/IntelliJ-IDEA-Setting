@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报警信息" />
       <item value="收益周期" />
       <item value="月" />
       <item value="最低收益" />
@@ -50,12 +51,11 @@
       <item value="大二" />
       <item value="大一" />
       <item value="触发者" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="603" />
-        <entry key="ENGLISH" value="939" />
+        <entry key="ENGLISH" value="940" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
