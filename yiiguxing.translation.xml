@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cargo" />
+      <item value="货" />
+      <item value="货地址" />
+      <item value="县" />
+      <item value="区" />
       <item value="交易流水" />
       <item value="报警信息" />
       <item value="收益周期" />
@@ -46,16 +51,11 @@
       <item value="kinino" />
       <item value="娜娜" />
       <item value="大六" />
-      <item value="大五" />
-      <item value="大四" />
-      <item value="大三" />
-      <item value="大二" />
-      <item value="大一" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="603" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="CHINESE" value="604" />
+        <entry key="ENGLISH" value="944" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
