@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stock" />
+      <item value="点" />
+      <item value="节点" />
+      <item value="receipt" />
+      <item value="收款" />
       <item value="调和计划" />
       <item value="Reconcile" />
       <item value="concoct" />
@@ -46,16 +51,11 @@
       <item value="预计" />
       <item value="预计开始时间" />
       <item value="目的地" />
-      <item value="始发地" />
-      <item value="Lindisfarne" />
-      <item value="provenance" />
-      <item value="transport" />
-      <item value="tran" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="977" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="980" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
