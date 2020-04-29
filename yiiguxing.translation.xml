@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decant" />
+      <item value="Decanting" />
       <item value="出货仓库" />
       <item value="出货" />
       <item value="Planned Start Time" />
@@ -10,7 +12,6 @@
       <item value="plan" />
       <item value="Reconcile" />
       <item value="调和计划" />
-      <item value="Decanting" />
       <item value="倒灌" />
       <item value="预" />
       <item value="预先" />
@@ -50,12 +51,11 @@
       <item value="区" />
       <item value="交易流水" />
       <item value="报警信息" />
-      <item value="收益周期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="970" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
