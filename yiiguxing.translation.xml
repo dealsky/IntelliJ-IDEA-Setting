@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="出货仓库" />
+      <item value="出货" />
+      <item value="Planned Start Time" />
+      <item value="计划开始时间" />
+      <item value="执行人" />
+      <item value="operator" />
+      <item value="plan" />
+      <item value="Reconcile" />
+      <item value="调和计划" />
+      <item value="Decanting" />
+      <item value="倒灌" />
       <item value="预" />
       <item value="预先" />
       <item value="产品税率" />
@@ -23,8 +34,6 @@
       <item value="expect" />
       <item value="预计" />
       <item value="预计开始时间" />
-      <item value="Planned Start Time" />
-      <item value="计划开始时间" />
       <item value="目的地" />
       <item value="始发地" />
       <item value="Lindisfarne" />
@@ -42,20 +51,11 @@
       <item value="交易流水" />
       <item value="报警信息" />
       <item value="收益周期" />
-      <item value="月" />
-      <item value="最低收益" />
-      <item value="multiple choice" />
-      <item value="多选" />
-      <item value="转移" />
-      <item value="payment" />
-      <item value="contract" />
-      <item value="quote" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="CHINESE" value="621" />
+        <entry key="ENGLISH" value="969" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
