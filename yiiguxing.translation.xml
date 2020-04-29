@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="产品税率" />
+      <item value="含税价" />
+      <item value="税价" />
+      <item value="税价格" />
+      <item value="税" />
       <item value="损耗范围" />
       <item value="损耗" />
       <item value="预计体积" />
@@ -46,16 +51,11 @@
       <item value="类别" />
       <item value="verify" />
       <item value="验证" />
-      <item value="transient" />
-      <item value="比例" />
-      <item value=" ratio" />
-      <item value="remark" />
-      <item value="备注" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="960" />
+        <entry key="ENGLISH" value="962" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
