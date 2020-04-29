@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调和计划" />
+      <item value="Reconcile" />
+      <item value="concoct" />
+      <item value="concoce" />
+      <item value="concoc3" />
+      <item value="concoc" />
+      <item value="调和物" />
+      <item value="mixture" />
+      <item value="混合" />
       <item value="库存转移" />
       <item value="verify" />
       <item value="验证" />
@@ -13,8 +22,6 @@
       <item value="执行人" />
       <item value="operator" />
       <item value="plan" />
-      <item value="Reconcile" />
-      <item value="调和计划" />
       <item value="倒灌" />
       <item value="预" />
       <item value="预先" />
@@ -44,18 +51,11 @@
       <item value="provenance" />
       <item value="transport" />
       <item value="tran" />
-      <item value="trans" />
-      <item value="transport contract" />
-      <item value="运输合同" />
-      <item value="cargo" />
-      <item value="货" />
-      <item value="货地址" />
-      <item value="县" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="972" />
+        <entry key="CHINESE" value="629" />
+        <entry key="ENGLISH" value="977" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
