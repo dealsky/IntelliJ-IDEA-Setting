@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="验证" />
       <item value="铁含量" />
       <item value="锰含量" />
       <item value="锰含董" />
@@ -49,13 +51,11 @@
       <item value="竖" />
       <item value="最低库存" />
       <item value="stock" />
-      <item value="点" />
-      <item value="节点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="1011" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
