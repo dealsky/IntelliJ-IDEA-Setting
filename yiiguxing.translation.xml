@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="many " />
+      <item value="many body" />
+      <item value="lot's of body" />
+      <item value="a lot of body" />
+      <item value="the body" />
+      <item value="body" />
+      <item value="尸体" />
+      <item value="运输价格" />
       <item value="verify" />
       <item value="验证" />
       <item value="铁含量" />
@@ -43,19 +51,11 @@
       <item value="shipment" />
       <item value="装船" />
       <item value="倒灌" />
-      <item value="标准时间" />
-      <item value="kisekii" />
-      <item value="kiseki" />
-      <item value="キセキ" />
-      <item value="液位" />
-      <item value="竖" />
-      <item value="最低库存" />
-      <item value="stock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="1011" />
+        <entry key="CHINESE" value="658" />
+        <entry key="ENGLISH" value="1014" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
