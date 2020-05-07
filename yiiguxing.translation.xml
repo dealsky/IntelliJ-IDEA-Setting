@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="铁含量" />
+      <item value="锰含量" />
+      <item value="锰含董" />
+      <item value="甲醇含量" />
+      <item value="氧含量" />
+      <item value="烯烃含量" />
+      <item value="烯烃含景" />
+      <item value="芳烃含量" />
+      <item value="苯含量" />
+      <item value="铜片腐蚀" />
+      <item value="Mercaptan" />
+      <item value="硫醇硫含量" />
+      <item value="硫含量" />
+      <item value="诱导期" />
+      <item value="未洗" />
+      <item value="gum level" />
+      <item value="胶质含量" />
+      <item value="残留" />
+      <item value="蒸发" />
+      <item value="蒸发温度" />
       <item value=" quality" />
       <item value="品质" />
       <item value="供货信息" />
@@ -31,31 +51,11 @@
       <item value="stock" />
       <item value="点" />
       <item value="节点" />
-      <item value="receipt" />
-      <item value="收款" />
-      <item value="调和计划" />
-      <item value="Reconcile" />
-      <item value="concoct" />
-      <item value="concoce" />
-      <item value="concoc3" />
-      <item value="concoc" />
-      <item value="调和物" />
-      <item value="mixture" />
-      <item value="混合" />
-      <item value="库存转移" />
-      <item value="verify" />
-      <item value="验证" />
-      <item value="Decant" />
-      <item value="Decanting" />
-      <item value="出货仓库" />
-      <item value="出货" />
-      <item value="Planned Start Time" />
-      <item value="计划开始时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="996" />
+        <entry key="CHINESE" value="654" />
+        <entry key="ENGLISH" value="1010" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
