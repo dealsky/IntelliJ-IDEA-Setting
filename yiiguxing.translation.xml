@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
+      <item value="地点" />
       <item value="vacate" />
       <item value="请假" />
       <item value="假" />
@@ -49,13 +51,11 @@
       <item value="goods" />
       <item value="物品" />
       <item value="用品" />
-      <item value="depot" />
-      <item value="仓库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="1018" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="1019" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
