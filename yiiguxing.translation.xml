@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vacate" />
+      <item value="请假" />
+      <item value="假" />
+      <item value="出差" />
       <item value="Attend" />
       <item value="Attendance" />
       <item value="考勤" />
@@ -47,15 +51,11 @@
       <item value="用品" />
       <item value="depot" />
       <item value="仓库" />
-      <item value=" entrepot" />
-      <item value="discharge" />
-      <item value="discharge a cargo from a ship" />
-      <item value="卸船" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="1016" />
+        <entry key="CHINESE" value="662" />
+        <entry key="ENGLISH" value="1018" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
