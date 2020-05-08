@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attend" />
+      <item value="Attendance" />
+      <item value="考勤" />
       <item value="many " />
       <item value="many body" />
       <item value="lot's of body" />
@@ -48,14 +51,11 @@
       <item value="discharge" />
       <item value="discharge a cargo from a ship" />
       <item value="卸船" />
-      <item value="shipment" />
-      <item value="装船" />
-      <item value="倒灌" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="658" />
-        <entry key="ENGLISH" value="1014" />
+        <entry key="CHINESE" value="660" />
+        <entry key="ENGLISH" value="1016" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
