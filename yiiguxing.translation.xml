@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cash pledge" />
+      <item value="押金" />
       <item value="遍历" />
       <item value="节点" />
       <item value="Huffman" />
@@ -49,13 +51,11 @@
       <item value="品质" />
       <item value="供货信息" />
       <item value="repertory" />
-      <item value="库存" />
-      <item value="Commodity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
