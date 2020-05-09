@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send to" />
+      <item value="送到" />
+      <item value="pick up in a store" />
+      <item value="自提" />
+      <item value="delivery type" />
+      <item value="交货方式" />
       <item value="装船计划" />
       <item value="decode" />
       <item value="解码" />
@@ -45,17 +51,11 @@
       <item value="芳烃含量" />
       <item value="苯含量" />
       <item value="铜片腐蚀" />
-      <item value="Mercaptan" />
-      <item value="硫醇硫含量" />
-      <item value="硫含量" />
-      <item value="诱导期" />
-      <item value="未洗" />
-      <item value="gum level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="1034" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
