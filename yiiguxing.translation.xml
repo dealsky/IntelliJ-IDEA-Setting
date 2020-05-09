@@ -1,12 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decode" />
+      <item value="解码" />
+      <item value=" encoding" />
+      <item value="编码" />
+      <item value="规则" />
+      <item value="解析" />
+      <item value="哈夫曼树" />
+      <item value="哈夫曼" />
       <item value="cash pledge" />
       <item value="押金" />
       <item value="遍历" />
       <item value="节点" />
       <item value="Huffman" />
-      <item value="哈夫曼" />
       <item value="business" />
       <item value="place" />
       <item value="地点" />
@@ -44,18 +51,11 @@
       <item value="未洗" />
       <item value="gum level" />
       <item value="胶质含量" />
-      <item value="残留" />
-      <item value="蒸发" />
-      <item value="蒸发温度" />
-      <item value=" quality" />
-      <item value="品质" />
-      <item value="供货信息" />
-      <item value="repertory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="1030" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
