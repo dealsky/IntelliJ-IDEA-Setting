@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DELIMITER" />
       <item value="department" />
       <item value="arrival time" />
       <item value="到货时间" />
@@ -50,11 +51,10 @@
       <item value="甲醇含量" />
       <item value="氧含量" />
       <item value="烯烃含量" />
-      <item value="烯烃含景" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
+        <entry key="CHINESE" value="684" />
         <entry key="ENGLISH" value="1035" />
         <entry key="PORTUGUESE" value="1" />
       </map>
