@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已支付" />
+      <item value="paid" />
+      <item value="已发送金额" />
+      <item value="grant" />
+      <item value="发放" />
       <item value="DELIMITER" />
       <item value="department" />
       <item value="arrival time" />
@@ -46,16 +51,11 @@
       <item value="verify" />
       <item value="验证" />
       <item value="铁含量" />
-      <item value="锰含量" />
-      <item value="锰含董" />
-      <item value="甲醇含量" />
-      <item value="氧含量" />
-      <item value="烯烃含量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="1035" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
