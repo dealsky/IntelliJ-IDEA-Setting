@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收款记录" />
+      <item value="利润" />
+      <item value="汇总" />
       <item value="费用" />
       <item value="其他费用" />
       <item value="其他" />
@@ -48,14 +51,11 @@
       <item value="vacate" />
       <item value="请假" />
       <item value="假" />
-      <item value="出差" />
-      <item value="Attend" />
-      <item value="Attendance" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="1047" />
+        <entry key="ENGLISH" value="1050" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
