@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" ratio" />
+      <item value="比例" />
       <item value="document" />
       <item value="Documents" />
       <item value="单据" />
@@ -49,13 +51,11 @@
       <item value="解析" />
       <item value="哈夫曼树" />
       <item value="哈夫曼" />
-      <item value="cash pledge" />
-      <item value="押金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="1061" />
+        <entry key="CHINESE" value="699" />
+        <entry key="ENGLISH" value="1062" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
