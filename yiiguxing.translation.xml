@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票记录" />
       <item value="批量" />
       <item value="同步" />
       <item value="计算" />
@@ -50,12 +51,11 @@
       <item value="Huffman" />
       <item value="business" />
       <item value="place" />
-      <item value="地点" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="1055" />
+        <entry key="ENGLISH" value="1056" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
