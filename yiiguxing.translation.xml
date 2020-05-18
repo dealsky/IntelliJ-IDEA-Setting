@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="phone" />
+      <item value="联系电话" />
+      <item value="联系人" />
+      <item value="community" />
+      <item value="社区" />
       <item value="Inspection" />
       <item value="商检公司" />
       <item value="商检" />
@@ -46,16 +51,11 @@
       <item value="送到" />
       <item value="pick up in a store" />
       <item value="自提" />
-      <item value="delivery type" />
-      <item value="交货方式" />
-      <item value="装船计划" />
-      <item value="decode" />
-      <item value="解码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="701" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
