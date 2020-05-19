@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="说明" />
+      <item value="违规" />
+      <item value="ViolationInfo" />
+      <item value="Violation" />
+      <item value="违规信息" />
       <item value="准备" />
       <item value="检出" />
       <item value="创建" />
@@ -46,16 +51,11 @@
       <item value="其他费用" />
       <item value="其他" />
       <item value="计算提成 " />
-      <item value="计算提成" />
-      <item value="提成" />
-      <item value="交货日期" />
-      <item value="调和" />
-      <item value="提醒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="713" />
-        <entry key="ENGLISH" value="1083" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
