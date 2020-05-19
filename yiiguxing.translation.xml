@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单价" />
+      <item value="垃圾袋" />
       <item value="待付款" />
       <item value="已付款" />
       <item value="green" />
       <item value="black" />
-      <item value="垃圾袋" />
       <item value="街道" />
-      <item value="单价" />
       <item value="投放" />
       <item value="verify" />
       <item value="验证" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="713" />
-        <entry key="ENGLISH" value="1079" />
+        <entry key="ENGLISH" value="1081" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
