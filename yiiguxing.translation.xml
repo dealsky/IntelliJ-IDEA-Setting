@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contour" />
+      <item value="Coord" />
       <item value="panel" />
       <item value="联系" />
       <item value="练习" />
@@ -49,12 +51,10 @@
       <item value="verify" />
       <item value="验证" />
       <item value="发售机" />
-      <item value="phone" />
-      <item value="联系电话" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
+        <entry key="CHINESE" value="733" />
         <entry key="ENGLISH" value="1111" />
         <entry key="PORTUGUESE" value="1" />
       </map>
