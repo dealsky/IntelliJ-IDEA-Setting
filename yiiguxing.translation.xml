@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联系" />
+      <item value="练习" />
+      <item value="关联" />
       <item value="垃圾袋" />
       <item value="throw in" />
       <item value="投放" />
@@ -48,14 +51,11 @@
       <item value="phone" />
       <item value="联系电话" />
       <item value="联系人" />
-      <item value="社区" />
-      <item value="Inspection" />
-      <item value="商检公司" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="1109" />
+        <entry key="ENGLISH" value="1110" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
