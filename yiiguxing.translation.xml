@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="满桶" />
       <item value="community" />
       <item value="board" />
       <item value="看板" />
@@ -50,12 +51,11 @@
       <item value="管线计划" />
       <item value="管线假话" />
       <item value="码头计划" />
-      <item value=" ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="721" />
-        <entry key="ENGLISH" value="1103" />
+        <entry key="CHINESE" value="724" />
+        <entry key="ENGLISH" value="1104" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
