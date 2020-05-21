@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="垃圾袋" />
+      <item value="throw in" />
+      <item value="投放" />
+      <item value="judge" />
+      <item value="开门" />
+      <item value=" binding" />
+      <item value="绑定" />
       <item value="满桶" />
       <item value="community" />
       <item value="board" />
@@ -16,9 +23,7 @@
       <item value="扔垃圾" />
       <item value="扔垃圾记录" />
       <item value="投放记录" />
-      <item value="投放" />
       <item value="权限" />
-      <item value="judge" />
       <item value="有权限" />
       <item value="小区" />
       <item value="调整" />
@@ -32,7 +37,6 @@
       <item value="检出" />
       <item value="创建" />
       <item value="单价" />
-      <item value="垃圾袋" />
       <item value="待付款" />
       <item value="已付款" />
       <item value="green" />
@@ -47,15 +51,11 @@
       <item value="社区" />
       <item value="Inspection" />
       <item value="商检公司" />
-      <item value="商检" />
-      <item value="管线计划" />
-      <item value="管线假话" />
-      <item value="码头计划" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="1104" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
