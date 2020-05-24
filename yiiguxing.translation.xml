@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="纬度" />
+      <item value="经度" />
+      <item value="精度" />
+      <item value="lat" />
+      <item value="lng" />
       <item value="七" />
       <item value="Expected" />
       <item value="地区" />
@@ -46,16 +51,11 @@
       <item value="检出" />
       <item value="创建" />
       <item value="单价" />
-      <item value="待付款" />
-      <item value="已付款" />
-      <item value="green" />
-      <item value="black" />
-      <item value="街道" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="736" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="1117" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
