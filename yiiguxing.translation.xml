@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collect" />
+      <item value="收藏" />
+      <item value="星" />
+      <item value="点赞" />
+      <item value="回复" />
       <item value="roam" />
       <item value="纬度" />
       <item value="经度" />
@@ -46,16 +51,11 @@
       <item value="说明" />
       <item value="违规" />
       <item value="ViolationInfo" />
-      <item value="Violation" />
-      <item value="违规信息" />
-      <item value="准备" />
-      <item value="检出" />
-      <item value="创建" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="1118" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="1121" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
