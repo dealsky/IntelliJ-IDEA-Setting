@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="钻石" />
       <item value="reply" />
       <item value="collect" />
       <item value="收藏" />
@@ -50,12 +51,11 @@
       <item value="调整" />
       <item value="销量" />
       <item value="说明" />
-      <item value="违规" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="1121" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="1122" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
