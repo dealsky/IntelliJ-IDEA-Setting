@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
+      <item value="小数" />
+      <item value=" percent" />
+      <item value="百分比" />
       <item value="prod" />
       <item value="yesterday" />
       <item value="昨天" />
@@ -47,15 +51,11 @@
       <item value="panel" />
       <item value="联系" />
       <item value="练习" />
-      <item value="关联" />
-      <item value="垃圾袋" />
-      <item value="throw in" />
-      <item value="投放" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="757" />
-        <entry key="ENGLISH" value="1139" />
+        <entry key="CHINESE" value="761" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
