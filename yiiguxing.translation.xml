@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="命令" />
+      <item value="掉落垃圾袋" />
+      <item value="掉落垃圾" />
+      <item value="掉垃圾" />
+      <item value="drop" />
       <item value="publish" />
       <item value="OPTIMISTIC" />
       <item value="数字" />
@@ -46,16 +51,11 @@
       <item value="专享" />
       <item value="新人专享" />
       <item value="领取" />
-      <item value="fresh" />
-      <item value="新人" />
-      <item value="新人价" />
-      <item value="couple" />
-      <item value="新人价格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="1159" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="1161" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
