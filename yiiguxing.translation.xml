@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unverified" />
+      <item value="未验证" />
+      <item value="未核" />
       <item value="趋势" />
       <item value="粘贴" />
       <item value="未分配" />
@@ -48,14 +51,11 @@
       <item value="verify" />
       <item value="验证" />
       <item value="sub-branch" />
-      <item value="支行" />
-      <item value="开户支行名称" />
-      <item value="开户银行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="1172" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="1173" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
