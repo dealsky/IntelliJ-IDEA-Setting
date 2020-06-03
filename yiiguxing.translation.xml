@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未完成" />
+      <item value="库存" />
+      <item value="出库未完成" />
       <item value="unverified" />
       <item value="未验证" />
       <item value="未核" />
@@ -48,14 +51,11 @@
       <item value="分钟" />
       <item value="满足" />
       <item value="合同" />
-      <item value="verify" />
-      <item value="验证" />
-      <item value="sub-branch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="774" />
-        <entry key="ENGLISH" value="1173" />
+        <entry key="CHINESE" value="775" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
