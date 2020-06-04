@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expire" />
+      <item value="过期" />
       <item value="合同" />
       <item value="audit" />
       <item value="withdraw deposit" />
@@ -49,13 +51,11 @@
       <item value="divide" />
       <item value="小数" />
       <item value=" percent" />
-      <item value="百分比" />
-      <item value="prod" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="778" />
-        <entry key="ENGLISH" value="1180" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="1181" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
