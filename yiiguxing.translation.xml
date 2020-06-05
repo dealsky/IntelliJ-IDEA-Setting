@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="品质参数" />
+      <item value="品质" />
       <item value="单价差" />
       <item value="要求交期" />
       <item value="expire" />
@@ -49,13 +51,11 @@
       <item value="甲方" />
       <item value="联系人" />
       <item value="乙方" />
-      <item value="合同模板" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="780" />
-        <entry key="ENGLISH" value="1183" />
+        <entry key="ENGLISH" value="1184" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
