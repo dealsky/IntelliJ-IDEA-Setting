@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected" />
       <item value="加权平均" />
       <item value="容量" />
       <item value="罐存量" />
@@ -50,12 +51,11 @@
       <item value="未核" />
       <item value="趋势" />
       <item value="粘贴" />
-      <item value="未分配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="1214" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="1216" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
