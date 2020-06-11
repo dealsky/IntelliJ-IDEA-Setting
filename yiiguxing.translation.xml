@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="汇总" />
+      <item value="batch" />
+      <item value="modify the price" />
+      <item value="修改价格" />
       <item value="reason" />
       <item value="原因" />
       <item value="Violation" />
@@ -47,15 +51,11 @@
       <item value="氯含量" />
       <item value="机械杂质及水分" />
       <item value="水溶性酸碱" />
-      <item value="doctor test" />
-      <item value="博士试验" />
-      <item value="lead content" />
-      <item value="铅含量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="806" />
-        <entry key="ENGLISH" value="1232" />
+        <entry key="CHINESE" value="810" />
+        <entry key="ENGLISH" value="1234" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
