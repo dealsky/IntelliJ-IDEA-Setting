@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Violation" />
       <item value="violation" />
       <item value="联系人" />
       <item value="已打款" />
@@ -50,11 +51,10 @@
       <item value="铅含量" />
       <item value="硅含量" />
       <item value="碳酸二甲酯" />
-      <item value="甲缩醛" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
+        <entry key="CHINESE" value="804" />
         <entry key="ENGLISH" value="1231" />
         <entry key="PORTUGUESE" value="1" />
       </map>
