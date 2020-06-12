@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rational" />
+      <item value="合理" />
+      <item value="合理损耗比例" />
       <item value="from" />
       <item value="form" />
       <item value="deviceDescription" />
@@ -48,14 +51,11 @@
       <item value="前缀" />
       <item value="生成" />
       <item value="诱导期" />
-      <item value="蒸发指数" />
-      <item value="二烯值" />
-      <item value="乙醇" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="812" />
-        <entry key="ENGLISH" value="1235" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="1237" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
