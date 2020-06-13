@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="品质状态" />
+      <item value="State" />
+      <item value="仓库状态" />
+      <item value="stat" />
+      <item value="logistics" />
+      <item value="logist" />
+      <item value="物流" />
       <item value="实际" />
       <item value="待入库" />
       <item value="检测" />
@@ -44,18 +51,11 @@
       <item value="monitor" />
       <item value="processor" />
       <item value="TERMINATED" />
-      <item value="operation" />
-      <item value="操作" />
-      <item value="处理" />
-      <item value="上下架" />
-      <item value="批量" />
-      <item value="merchant" />
-      <item value="expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="1250" />
+        <entry key="CHINESE" value="825" />
+        <entry key="ENGLISH" value="1255" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
