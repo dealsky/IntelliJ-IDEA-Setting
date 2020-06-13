@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="待入库" />
       <item value="实际" />
+      <item value="待入库" />
       <item value="检测" />
       <item value="arranged" />
       <item value="待安排" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="1249" />
+        <entry key="ENGLISH" value="1250" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
