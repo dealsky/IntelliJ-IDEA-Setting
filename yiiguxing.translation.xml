@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可用" />
       <item value="品质" />
       <item value="交货点" />
       <item value="交货地" />
@@ -50,12 +51,11 @@
       <item value="receipt" />
       <item value="收款" />
       <item value=" residue" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="1241" />
+        <entry key="ENGLISH" value="1242" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
