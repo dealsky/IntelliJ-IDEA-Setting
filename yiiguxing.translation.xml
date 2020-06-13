@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待安排" />
+      <item value="待安排运输任务" />
       <item value="可用" />
       <item value="品质" />
       <item value="交货点" />
@@ -49,13 +51,11 @@
       <item value="罐存量" />
       <item value="是否分成" />
       <item value="receipt" />
-      <item value="收款" />
-      <item value=" residue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="1242" />
+        <entry key="ENGLISH" value="1243" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
