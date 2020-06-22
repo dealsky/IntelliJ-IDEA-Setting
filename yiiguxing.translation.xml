@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amend" />
+      <item value="amemd" />
+      <item value="recursive" />
       <item value="海外" />
       <item value="international" />
       <item value="国际快递单号" />
@@ -48,14 +51,11 @@
       <item value="待检验" />
       <item value="待安排运输任务" />
       <item value="可用" />
-      <item value="交货点" />
-      <item value="交货地" />
-      <item value="rational" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="839" />
-        <entry key="ENGLISH" value="1282" />
+        <entry key="CHINESE" value="841" />
+        <entry key="ENGLISH" value="1283" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
