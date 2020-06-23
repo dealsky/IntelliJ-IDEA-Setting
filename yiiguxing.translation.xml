@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the lid" />
+      <item value="盖子" />
+      <item value="lid" />
+      <item value="盖" />
       <item value="check_open" />
       <item value="check" />
       <item value="amend" />
@@ -47,15 +51,11 @@
       <item value="物流" />
       <item value="实际" />
       <item value="待入库" />
-      <item value="检测" />
-      <item value="arranged" />
-      <item value="to be tested" />
-      <item value="待检验" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
-        <entry key="ENGLISH" value="1283" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="1288" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
