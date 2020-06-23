@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check_open" />
+      <item value="check" />
       <item value="amend" />
       <item value="amemd" />
       <item value="recursive" />
@@ -49,12 +51,10 @@
       <item value="arranged" />
       <item value="to be tested" />
       <item value="待检验" />
-      <item value="待安排运输任务" />
-      <item value="可用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="841" />
+        <entry key="CHINESE" value="842" />
         <entry key="ENGLISH" value="1283" />
         <entry key="PORTUGUESE" value="1" />
       </map>
