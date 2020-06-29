@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通道" />
       <item value="虚拟" />
       <item value="生成" />
       <item value="Community" />
@@ -50,12 +51,11 @@
       <item value="合格" />
       <item value="品质状态" />
       <item value="State" />
-      <item value="仓库状态" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="1295" />
+        <entry key="ENGLISH" value="1296" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
