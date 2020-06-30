@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="black" />
       <item value="CHECKED OUT" />
       <item value="已取出" />
       <item value="未绑定" />
-      <item value="black" />
       <item value="满" />
       <item value="桶" />
       <item value="通道" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="853" />
+        <entry key="CHINESE" value="854" />
         <entry key="ENGLISH" value="1301" />
         <entry key="PORTUGUESE" value="1" />
       </map>
