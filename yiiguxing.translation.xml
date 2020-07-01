@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通道" />
+      <item value="channal" />
+      <item value="通知" />
+      <item value="未取走" />
       <item value="警报" />
       <item value="out of bounds " />
       <item value="库存报警" />
@@ -17,7 +21,6 @@
       <item value="未绑定" />
       <item value="满" />
       <item value="桶" />
-      <item value="通道" />
       <item value="虚拟" />
       <item value="生成" />
       <item value="Community" />
@@ -48,14 +51,11 @@
       <item value="修正" />
       <item value="调整" />
       <item value="真实" />
-      <item value="参考成本价" />
-      <item value="material" />
-      <item value="基础物料" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="861" />
-        <entry key="ENGLISH" value="1309" />
+        <entry key="CHINESE" value="862" />
+        <entry key="ENGLISH" value="1313" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
