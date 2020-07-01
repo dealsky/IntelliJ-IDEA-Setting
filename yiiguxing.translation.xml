@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delivery" />
       <item value="未取走" />
       <item value="通道" />
       <item value="channal" />
@@ -50,12 +51,11 @@
       <item value="计划中" />
       <item value="修正" />
       <item value="调整" />
-      <item value="真实" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="1315" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="1316" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
