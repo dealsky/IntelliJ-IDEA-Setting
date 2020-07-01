@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="警报" />
       <item value="out of bounds " />
       <item value="库存报警" />
       <item value="alarm message" />
@@ -50,12 +51,11 @@
       <item value="参考成本价" />
       <item value="material" />
       <item value="基础物料" />
-      <item value=" value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
-        <entry key="ENGLISH" value="1308" />
+        <entry key="CHINESE" value="861" />
+        <entry key="ENGLISH" value="1309" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
