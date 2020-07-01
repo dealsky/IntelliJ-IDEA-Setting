@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未取走" />
       <item value="通道" />
       <item value="channal" />
       <item value="通知" />
-      <item value="未取走" />
       <item value="警报" />
       <item value="out of bounds " />
       <item value="库存报警" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="1313" />
+        <entry key="ENGLISH" value="1315" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
