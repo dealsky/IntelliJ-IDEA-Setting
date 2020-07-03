@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="仪表盘" />
+      <item value="mouth" />
+      <item value="yesterday" />
+      <item value="昨天" />
       <item value="整体概况" />
       <item value="delivery" />
       <item value="未取走" />
@@ -47,15 +51,11 @@
       <item value="开盖" />
       <item value="handle" />
       <item value="订阅" />
-      <item value="调配" />
-      <item value="损耗信息" />
-      <item value="计划中" />
-      <item value="修正" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="864" />
-        <entry key="ENGLISH" value="1317" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="1319" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
