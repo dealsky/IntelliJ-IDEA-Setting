@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="趋势" />
       <item value="仪表盘" />
       <item value="mouth" />
       <item value="yesterday" />
@@ -50,12 +51,11 @@
       <item value="前" />
       <item value="开盖" />
       <item value="handle" />
-      <item value="订阅" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="1319" />
+        <entry key="ENGLISH" value="1320" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
