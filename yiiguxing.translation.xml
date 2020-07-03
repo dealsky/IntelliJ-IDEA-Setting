@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="虚拟" />
       <item value="联系人" />
       <item value="上午" />
       <item value="商家申请" />
@@ -31,7 +32,6 @@
       <item value="未绑定" />
       <item value="满" />
       <item value="桶" />
-      <item value="虚拟" />
       <item value="生成" />
       <item value="Community" />
       <item value="强制收款" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="1324" />
+        <entry key="ENGLISH" value="1325" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
