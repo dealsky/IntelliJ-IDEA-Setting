@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入库数量" />
+      <item value="入货" />
+      <item value="入库" />
       <item value="出库" />
       <item value="到货" />
       <item value="执行状况" />
@@ -48,14 +51,11 @@
       <item value="check_open" />
       <item value="check" />
       <item value="amend" />
-      <item value="amemd" />
-      <item value="recursive" />
-      <item value="海外" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="1328" />
+        <entry key="ENGLISH" value="1329" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
