@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" profit" />
+      <item value="利润" />
+      <item value="成本税费合计" />
       <item value="float" />
       <item value="平均" />
       <item value="financial cost" />
@@ -26,7 +29,6 @@
       <item value="仓储" />
       <item value="船运" />
       <item value="汽运" />
-      <item value="利润" />
       <item value="合计" />
       <item value="Profit" />
       <item value="利润核算" />
@@ -49,13 +51,11 @@
       <item value="整体概况" />
       <item value="delivery" />
       <item value="未取走" />
-      <item value="通道" />
-      <item value="channal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="1352" />
+        <entry key="CHINESE" value="885" />
+        <entry key="ENGLISH" value="1354" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
