@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="float" />
+      <item value="平均" />
+      <item value="financial cost" />
+      <item value="财务费用" />
+      <item value="财务" />
+      <item value="c" />
       <item value="财务费" />
       <item value="利息" />
       <item value="手续费" />
@@ -45,17 +51,11 @@
       <item value="未取走" />
       <item value="通道" />
       <item value="channal" />
-      <item value="通知" />
-      <item value="警报" />
-      <item value="out of bounds " />
-      <item value="库存报警" />
-      <item value="alarm message" />
-      <item value="报警信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="878" />
-        <entry key="ENGLISH" value="1348" />
+        <entry key="CHINESE" value="882" />
+        <entry key="ENGLISH" value="1352" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
