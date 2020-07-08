@@ -1,10 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="财务费" />
+      <item value="利息" />
+      <item value="手续费" />
+      <item value=" stamp tax" />
+      <item value="印花税" />
+      <item value="附加费" />
+      <item value=" added-value tax" />
+      <item value="增值税" />
+      <item value="费用" />
+      <item value="其他" />
+      <item value="损耗" />
+      <item value="化验" />
+      <item value="change ticket" />
+      <item value="换票" />
+      <item value="港口" />
+      <item value="storage" />
+      <item value="仓储" />
+      <item value="船运" />
+      <item value="汽运" />
+      <item value="利润" />
       <item value="合计" />
       <item value="Profit" />
       <item value="利润核算" />
-      <item value="利润" />
       <item value="入库数量" />
       <item value="入货" />
       <item value="入库" />
@@ -32,30 +51,11 @@
       <item value="库存报警" />
       <item value="alarm message" />
       <item value="报警信息" />
-      <item value="报警" />
-      <item value="剩余" />
-      <item value="calc" />
-      <item value="取走" />
-      <item value="待取货" />
-      <item value="black" />
-      <item value="CHECKED OUT" />
-      <item value="已取出" />
-      <item value="未绑定" />
-      <item value="满" />
-      <item value="桶" />
-      <item value="生成" />
-      <item value="Community" />
-      <item value="强制收款" />
-      <item value="密度" />
-      <item value="位置" />
-      <item value="the lid" />
-      <item value="盖子" />
-      <item value="lid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="1332" />
+        <entry key="CHINESE" value="878" />
+        <entry key="ENGLISH" value="1348" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
