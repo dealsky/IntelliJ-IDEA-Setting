@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recipt" />
+      <item value="收款计划" />
+      <item value="收款" />
+      <item value="付款" />
       <item value="均价" />
       <item value="均" />
       <item value="质量" />
@@ -47,15 +51,11 @@
       <item value="上午" />
       <item value="商家申请" />
       <item value="趋势" />
-      <item value="仪表盘" />
-      <item value="mouth" />
-      <item value="yesterday" />
-      <item value="昨天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="1357" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="1358" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
