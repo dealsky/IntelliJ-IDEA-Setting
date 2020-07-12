@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="material density" />
+      <item value="材料密度" />
+      <item value="生产周期" />
+      <item value="金额合计" />
+      <item value="加工费合计" />
+      <item value="难度系数" />
+      <item value="利润" />
+      <item value="税费" />
+      <item value="管理费" />
+      <item value="其它工艺" />
+      <item value="outside processing" />
+      <item value="外加工" />
+      <item value="表面处理" />
+      <item value="五金件" />
+      <item value="打磨" />
+      <item value="焊接" />
+      <item value="钳工" />
+      <item value="折弯" />
+      <item value="激光下料" />
+      <item value="材料单价" />
+      <item value="材料" />
+      <item value="厚" />
+      <item value="宽" />
+      <item value="长" />
+      <item value="单位" />
+      <item value="材质" />
       <item value="汇总" />
       <item value="操作" />
       <item value="库存" />
@@ -13,7 +39,6 @@
       <item value="均" />
       <item value="质量" />
       <item value=" profit" />
-      <item value="利润" />
       <item value="成本税费合计" />
       <item value="float" />
       <item value="平均" />
@@ -26,36 +51,11 @@
       <item value="手续费" />
       <item value=" stamp tax" />
       <item value="印花税" />
-      <item value="附加费" />
-      <item value=" added-value tax" />
-      <item value="增值税" />
-      <item value="费用" />
-      <item value="其他" />
-      <item value="损耗" />
-      <item value="化验" />
-      <item value="change ticket" />
-      <item value="换票" />
-      <item value="港口" />
-      <item value="storage" />
-      <item value="仓储" />
-      <item value="船运" />
-      <item value="汽运" />
-      <item value="合计" />
-      <item value="Profit" />
-      <item value="利润核算" />
-      <item value="入库数量" />
-      <item value="入货" />
-      <item value="入库" />
-      <item value="出库" />
-      <item value="到货" />
-      <item value="执行状况" />
-      <item value="执行状态" />
-      <item value="虚拟" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="889" />
-        <entry key="ENGLISH" value="1362" />
+        <entry key="CHINESE" value="892" />
+        <entry key="ENGLISH" value="1386" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
