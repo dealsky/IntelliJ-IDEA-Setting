@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="利润比" />
+      <item value="税费比" />
+      <item value=" scale" />
+      <item value="比例" />
+      <item value="管理费比" />
       <item value="打印" />
       <item value="自定义" />
       <item value="material density" />
@@ -46,16 +51,11 @@
       <item value="平均" />
       <item value="financial cost" />
       <item value="财务费用" />
-      <item value="财务" />
-      <item value="c" />
-      <item value="财务费" />
-      <item value="利息" />
-      <item value="手续费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="893" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="1392" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
