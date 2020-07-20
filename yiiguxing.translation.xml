@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boundary Gap" />
       <item value=" density" />
       <item value="密度" />
       <item value="protocol error" />
@@ -50,11 +51,10 @@
       <item value="材质" />
       <item value="汇总" />
       <item value="操作" />
-      <item value="库存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
+        <entry key="CHINESE" value="905" />
         <entry key="ENGLISH" value="1402" />
         <entry key="PORTUGUESE" value="1" />
       </map>
