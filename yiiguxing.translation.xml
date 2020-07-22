@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调整" />
       <item value="assign" />
       <item value="指定" />
       <item value="operate" />
@@ -50,12 +51,11 @@
       <item value="打磨" />
       <item value="焊接" />
       <item value="钳工" />
-      <item value="折弯" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="911" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="912" />
+        <entry key="ENGLISH" value="1411" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
