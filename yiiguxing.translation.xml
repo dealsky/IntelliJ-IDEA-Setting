@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
       <item value="原来" />
       <item value="产品混合" />
       <item value="调整" />
@@ -49,13 +51,11 @@
       <item value="outside processing" />
       <item value="外加工" />
       <item value="表面处理" />
-      <item value="五金件" />
-      <item value="打磨" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="912" />
-        <entry key="ENGLISH" value="1413" />
+        <entry key="CHINESE" value="913" />
+        <entry key="ENGLISH" value="1414" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
