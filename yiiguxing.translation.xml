@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="full" />
+      <item value="完整" />
       <item value="Chain" />
       <item value="rendered" />
       <item value="statistics" />
@@ -49,13 +51,11 @@
       <item value="利润" />
       <item value="税费" />
       <item value="管理费" />
-      <item value="其它工艺" />
-      <item value="outside processing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="1414" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="1415" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
