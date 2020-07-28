@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="安排" />
+      <item value="安排就绪" />
       <item value="已入库" />
       <item value="已出库" />
       <item value="full" />
@@ -50,12 +51,11 @@
       <item value="生产周期" />
       <item value="金额合计" />
       <item value="加工费合计" />
-      <item value="难度系数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="918" />
-        <entry key="ENGLISH" value="1418" />
+        <entry key="ENGLISH" value="1419" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
