@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" added-value tax" />
+      <item value="增值税" />
       <item value="权限" />
       <item value="纬度" />
       <item value="lat" />
@@ -49,13 +51,11 @@
       <item value="住所" />
       <item value="利润比" />
       <item value="税费比" />
-      <item value=" scale" />
-      <item value="比例" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
-        <entry key="ENGLISH" value="1429" />
+        <entry key="CHINESE" value="921" />
+        <entry key="ENGLISH" value="1430" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
