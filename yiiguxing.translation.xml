@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入库价格" />
+      <item value="出厂价格" />
+      <item value="价格录入" />
+      <item value="价格" />
       <item value="合同截止时间" />
       <item value="inspection" />
       <item value="均价" />
@@ -47,15 +51,11 @@
       <item value="每日" />
       <item value="throw in" />
       <item value="投放" />
-      <item value="终端提交" />
-      <item value="违规" />
-      <item value="完成" />
-      <item value="interpolation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="925" />
-        <entry key="ENGLISH" value="1433" />
+        <entry key="ENGLISH" value="1436" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
