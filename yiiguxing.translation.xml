@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Terminal" />
+      <item value="终端垃圾场" />
+      <item value="终端垃圾车" />
+      <item value="终端来几次" />
+      <item value="终端" />
       <item value="主管" />
       <item value="失败" />
       <item value="examine and approve" />
@@ -46,16 +51,11 @@
       <item value="指定" />
       <item value="operate" />
       <item value="操作" />
-      <item value="后" />
-      <item value="操作后数量" />
-      <item value="分配" />
-      <item value="百分比" />
-      <item value="percent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="1446" />
+        <entry key="CHINESE" value="928" />
+        <entry key="ENGLISH" value="1447" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
