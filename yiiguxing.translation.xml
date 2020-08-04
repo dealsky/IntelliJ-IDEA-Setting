@@ -1,8 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="来源" />
+      <item value="失败" />
+      <item value="examine and approve" />
       <item value="审批" />
+      <item value="完成" />
+      <item value="财务" />
+      <item value="总经办" />
+      <item value="待审批" />
+      <item value="部门待审批" />
+      <item value="来源" />
       <item value="入库价格" />
       <item value="出厂价格" />
       <item value="价格录入" />
@@ -44,18 +51,11 @@
       <item value="百分比" />
       <item value="percent" />
       <item value="准确率" />
-      <item value="boundary Gap" />
-      <item value=" density" />
-      <item value="密度" />
-      <item value="protocol error" />
-      <item value="confirm" />
-      <item value="CONFIRM" />
-      <item value="每日" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="925" />
-        <entry key="ENGLISH" value="1438" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="1445" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
