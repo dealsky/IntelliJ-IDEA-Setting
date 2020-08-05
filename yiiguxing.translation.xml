@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审批中" />
       <item value="总经办" />
       <item value="商务部" />
       <item value="latest" />
@@ -50,12 +51,11 @@
       <item value="lat" />
       <item value="类型" />
       <item value="经度" />
-      <item value="日历" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="1464" />
+        <entry key="ENGLISH" value="1465" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
