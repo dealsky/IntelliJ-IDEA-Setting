@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通过" />
       <item value="大类" />
       <item value="Institution" />
       <item value="Institutions" />
@@ -21,7 +22,6 @@
       <item value="发起" />
       <item value="分配" />
       <item value="pass" />
-      <item value="通过" />
       <item value="状态" />
       <item value="操作时间" />
       <item value="operator" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="941" />
-        <entry key="ENGLISH" value="1470" />
+        <entry key="ENGLISH" value="1471" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
