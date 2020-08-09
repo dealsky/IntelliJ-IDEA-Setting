@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="物流" />
+      <item value="contract approve" />
+      <item value="合同审批" />
+      <item value="市场" />
       <item value="make a copy for" />
       <item value="抄送" />
       <item value="序号" />
@@ -46,16 +51,11 @@
       <item value="主管" />
       <item value="失败" />
       <item value="examine and approve" />
-      <item value="审批" />
-      <item value="完成" />
-      <item value="财务" />
-      <item value="待审批" />
-      <item value="部门待审批" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="946" />
-        <entry key="ENGLISH" value="1478" />
+        <entry key="CHINESE" value="949" />
+        <entry key="ENGLISH" value="1482" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
