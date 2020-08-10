@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="归档" />
       <item value="商务" />
       <item value="审批中" />
       <item value="序号" />
@@ -50,12 +51,11 @@
       <item value="终端来几次" />
       <item value="终端" />
       <item value="主管" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="951" />
-        <entry key="ENGLISH" value="1487" />
+        <entry key="ENGLISH" value="1488" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
