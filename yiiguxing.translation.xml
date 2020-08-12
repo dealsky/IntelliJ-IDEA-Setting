@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="进度" />
       <item value="付款说明" />
       <item value="bank name" />
       <item value="开户银行" />
@@ -31,7 +32,6 @@
       <item value="Institutions" />
       <item value="Public Institutions" />
       <item value="单位" />
-      <item value="进度" />
       <item value="绑定" />
       <item value="总经办" />
       <item value="商务部" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="1498" />
+        <entry key="ENGLISH" value="1499" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
