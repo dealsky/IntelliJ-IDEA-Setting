@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实际卸货量" />
+      <item value="实际卸货了" />
+      <item value="计划量" />
+      <item value="license plate number" />
+      <item value="车牌号" />
+      <item value="车辆信息" />
+      <item value="车辆消息" />
       <item value="附件" />
       <item value="进度" />
       <item value="付款说明" />
@@ -44,18 +51,11 @@
       <item value="上" />
       <item value="递归" />
       <item value="分配" />
-      <item value="pass" />
-      <item value="状态" />
-      <item value="操作时间" />
-      <item value="operator" />
-      <item value="操作人" />
-      <item value="handler" />
-      <item value="处理人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="1500" />
+        <entry key="CHINESE" value="955" />
+        <entry key="ENGLISH" value="1504" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
