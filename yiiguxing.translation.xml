@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reservoir" />
+      <item value="库区" />
+      <item value="损耗数量" />
+      <item value="损耗" />
       <item value="催办" />
       <item value="吨数" />
       <item value="category" />
@@ -47,15 +51,11 @@
       <item value="单位" />
       <item value="绑定" />
       <item value="总经办" />
-      <item value="商务部" />
-      <item value="latest" />
-      <item value="最近的" />
-      <item value="lately" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="1510" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="1512" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
