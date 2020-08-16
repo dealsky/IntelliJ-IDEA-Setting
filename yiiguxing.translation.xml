@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="小区排行" />
       <item value="纳税人识别号" />
       <item value="纳税人" />
       <item value="reservoir" />
@@ -50,12 +51,11 @@
       <item value="Institution" />
       <item value="Institutions" />
       <item value="Public Institutions" />
-      <item value="单位" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="959" />
-        <entry key="ENGLISH" value="1513" />
+        <entry key="ENGLISH" value="1514" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
