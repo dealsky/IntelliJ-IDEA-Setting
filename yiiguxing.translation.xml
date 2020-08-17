@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="质检" />
       <item value="待审批" />
       <item value="Source of logistics" />
-      <item value="质检" />
       <item value="小区排行" />
       <item value="纳税人识别号" />
       <item value="纳税人" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="961" />
-        <entry key="ENGLISH" value="1518" />
+        <entry key="ENGLISH" value="1519" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
