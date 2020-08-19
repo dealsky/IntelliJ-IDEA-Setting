@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="省" />
       <item value="准确率" />
       <item value="statistics" />
       <item value="统计" />
       <item value="小区" />
       <item value="区" />
       <item value="市" />
-      <item value="省" />
       <item value="链" />
       <item value="document" />
       <item value="单证" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="1528" />
+        <entry key="ENGLISH" value="1529" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
