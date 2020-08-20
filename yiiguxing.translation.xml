@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discharged" />
+      <item value="discharging" />
+      <item value="已卸船" />
+      <item value="in execution" />
+      <item value="执行中" />
+      <item value="载具" />
+      <item value="找船" />
       <item value="vessel" />
       <item value="仓容" />
       <item value="船载重吨" />
@@ -44,18 +51,11 @@
       <item value="付款说明" />
       <item value="bank name" />
       <item value="开户银行" />
-      <item value="完成" />
-      <item value="敲章" />
-      <item value="发起" />
-      <item value="过滤" />
-      <item value="归档" />
-      <item value="商务" />
-      <item value="审批中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="966" />
-        <entry key="ENGLISH" value="1535" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="1539" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
