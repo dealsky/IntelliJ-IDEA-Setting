@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="跳转" />
       <item value="损耗类别" />
       <item value="省" />
       <item value="准确率" />
@@ -50,12 +51,11 @@
       <item value="make a copy for" />
       <item value="抄送" />
       <item value="生成" />
-      <item value="物流" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="1530" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
