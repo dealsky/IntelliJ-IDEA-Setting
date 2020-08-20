@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="损耗类别" />
       <item value="省" />
       <item value="准确率" />
       <item value="statistics" />
@@ -50,12 +51,11 @@
       <item value="抄送" />
       <item value="生成" />
       <item value="物流" />
-      <item value="contract approve" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="ENGLISH" value="1530" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
