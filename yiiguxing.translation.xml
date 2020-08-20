@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="催办" />
       <item value="跳转" />
       <item value="损耗类别" />
       <item value="省" />
@@ -23,7 +24,6 @@
       <item value="库区" />
       <item value="损耗数量" />
       <item value="损耗" />
-      <item value="催办" />
       <item value="吨数" />
       <item value="category" />
       <item value="出纳" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
