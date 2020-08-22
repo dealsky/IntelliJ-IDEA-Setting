@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="物流" />
+      <item value="计划" />
       <item value="绑定" />
       <item value="Failed" />
       <item value="approvalFailed" />
@@ -49,13 +51,11 @@
       <item value="计划量" />
       <item value="license plate number" />
       <item value="车牌号" />
-      <item value="车辆信息" />
-      <item value="车辆消息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="1543" />
+        <entry key="ENGLISH" value="1544" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
