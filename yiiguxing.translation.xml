@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待付款" />
       <item value="发票" />
       <item value="付款" />
       <item value="statistics" />
@@ -50,12 +51,11 @@
       <item value="库区" />
       <item value="损耗数量" />
       <item value="损耗" />
-      <item value="吨数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="980" />
-        <entry key="ENGLISH" value="1551" />
+        <entry key="ENGLISH" value="1553" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
