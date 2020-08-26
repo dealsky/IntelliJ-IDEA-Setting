@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="押运员" />
+      <item value="driver" />
+      <item value="主驾驶" />
+      <item value="license plate number" />
+      <item value="车牌号" />
+      <item value="实际" />
+      <item value="waybill number" />
+      <item value="运单号" />
+      <item value="载具" />
+      <item value="装" />
+      <item value="装车" />
+      <item value="装卸计划" />
+      <item value="装卸" />
+      <item value="物流计划" />
       <item value="作废" />
       <item value="approve" />
       <item value="待付款" />
@@ -26,7 +40,6 @@
       <item value="已卸船" />
       <item value="in execution" />
       <item value="执行中" />
-      <item value="载具" />
       <item value="找船" />
       <item value="vessel" />
       <item value="仓容" />
@@ -38,24 +51,11 @@
       <item value="省" />
       <item value="准确率" />
       <item value="小区" />
-      <item value="区" />
-      <item value="市" />
-      <item value="链" />
-      <item value="document" />
-      <item value="单证" />
-      <item value="质检" />
-      <item value="待审批" />
-      <item value="Source of logistics" />
-      <item value="小区排行" />
-      <item value="纳税人识别号" />
-      <item value="纳税人" />
-      <item value="reservoir" />
-      <item value="库区" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="982" />
-        <entry key="ENGLISH" value="1555" />
+        <entry key="CHINESE" value="988" />
+        <entry key="ENGLISH" value="1562" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
