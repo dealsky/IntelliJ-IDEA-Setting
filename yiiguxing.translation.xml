@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="物流" />
       <item value="实际入库数控" />
       <item value="vehicle" />
       <item value="车" />
@@ -32,7 +33,6 @@
       <item value="资金部" />
       <item value="multi" />
       <item value="多" />
-      <item value="物流" />
       <item value="计划" />
       <item value="绑定" />
       <item value="Failed" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="990" />
-        <entry key="ENGLISH" value="1565" />
+        <entry key="ENGLISH" value="1566" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
