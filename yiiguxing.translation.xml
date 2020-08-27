@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不需要合同" />
+      <item value="不需要" />
+      <item value="合同" />
       <item value="Finance" />
       <item value="财务部" />
       <item value="已审批" />
       <item value="审批" />
-      <item value="合同" />
       <item value="from" />
       <item value="运输方式" />
       <item value="物流" />
@@ -49,13 +51,11 @@
       <item value="discharged" />
       <item value="discharging" />
       <item value="已卸船" />
-      <item value="in execution" />
-      <item value="执行中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="993" />
-        <entry key="ENGLISH" value="1572" />
+        <entry key="CHINESE" value="995" />
+        <entry key="ENGLISH" value="1573" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
