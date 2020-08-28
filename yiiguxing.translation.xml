@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="品质" />
+      <item value="实际数量" />
       <item value="收款" />
       <item value="付款" />
       <item value="单独" />
@@ -49,13 +51,11 @@
       <item value="Failed" />
       <item value="approvalFailed" />
       <item value="审批失败" />
-      <item value="序号" />
-      <item value="discharged" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="995" />
-        <entry key="ENGLISH" value="1576" />
+        <entry key="ENGLISH" value="1578" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
