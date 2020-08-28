@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实际" />
       <item value="品质" />
       <item value="实际数量" />
       <item value="收款" />
@@ -25,7 +26,6 @@
       <item value="主驾驶" />
       <item value="license plate number" />
       <item value="车牌号" />
-      <item value="实际" />
       <item value="waybill number" />
       <item value="运单号" />
       <item value="载具" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="995" />
-        <entry key="ENGLISH" value="1578" />
+        <entry key="ENGLISH" value="1579" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
