@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票" />
+      <item value="未完成" />
+      <item value="已完成" />
       <item value="statistics" />
       <item value="统计" />
       <item value="实际" />
@@ -39,7 +42,6 @@
       <item value="作废" />
       <item value="approve" />
       <item value="待付款" />
-      <item value="发票" />
       <item value="settlement" />
       <item value="结算" />
       <item value="结算量" />
@@ -49,13 +51,11 @@
       <item value="计划" />
       <item value="绑定" />
       <item value="Failed" />
-      <item value="approvalFailed" />
-      <item value="审批失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="997" />
-        <entry key="ENGLISH" value="1580" />
+        <entry key="CHINESE" value="998" />
+        <entry key="ENGLISH" value="1584" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
