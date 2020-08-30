@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operate" />
+      <item value="操作" />
+      <item value="合同" />
       <item value="审批中" />
       <item value="advance fund" />
       <item value="垫资" />
@@ -18,7 +21,6 @@
       <item value="单独" />
       <item value="不需要合同" />
       <item value="不需要" />
-      <item value="合同" />
       <item value="Finance" />
       <item value="财务部" />
       <item value="已审批" />
@@ -49,13 +51,11 @@
       <item value="settlement" />
       <item value="结算" />
       <item value="结算量" />
-      <item value="资金部" />
-      <item value="multi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1000" />
-        <entry key="ENGLISH" value="1588" />
+        <entry key="CHINESE" value="1001" />
+        <entry key="ENGLISH" value="1590" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
