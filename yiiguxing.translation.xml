@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待办" />
       <item value="章" />
       <item value="发票" />
-      <item value="待办" />
       <item value="visible" />
       <item value="可见" />
       <item value="意见" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1004" />
-        <entry key="ENGLISH" value="1596" />
+        <entry key="ENGLISH" value="1597" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
