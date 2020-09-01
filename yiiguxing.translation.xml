@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票" />
       <item value="待办" />
       <item value="visible" />
       <item value="可见" />
@@ -12,7 +13,6 @@
       <item value="advance fund" />
       <item value="垫资" />
       <item value="合同类型" />
-      <item value="发票" />
       <item value="未完成" />
       <item value="已完成" />
       <item value="statistics" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1004" />
-        <entry key="ENGLISH" value="1594" />
+        <entry key="ENGLISH" value="1595" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
