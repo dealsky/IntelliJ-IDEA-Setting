@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="杂" />
+      <item value="繁杂" />
+      <item value="费用" />
+      <item value="mix" />
+      <item value="杂费" />
       <item value="rebuild" />
       <item value="单证部" />
       <item value="商检付款审批" />
@@ -46,16 +51,11 @@
       <item value="押运员" />
       <item value="driver" />
       <item value="主驾驶" />
-      <item value="license plate number" />
-      <item value="车牌号" />
-      <item value="waybill number" />
-      <item value="运单号" />
-      <item value="载具" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1604" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="1609" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
