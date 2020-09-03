@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operate" />
+      <item value="操作" />
+      <item value="内部" />
+      <item value="库存" />
       <item value="发货单量" />
       <item value="甲板" />
       <item value="岸罐" />
@@ -19,7 +23,6 @@
       <item value="jilu" />
       <item value="记录" />
       <item value="录入" />
-      <item value="库存" />
       <item value="杂" />
       <item value="繁杂" />
       <item value="费用" />
@@ -37,8 +40,6 @@
       <item value="visible" />
       <item value="可见" />
       <item value="意见" />
-      <item value="operate" />
-      <item value="操作" />
       <item value="合同" />
       <item value="审批中" />
       <item value="advance fund" />
@@ -50,12 +51,11 @@
       <item value="统计" />
       <item value="实际" />
       <item value="品质" />
-      <item value="实际数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1010" />
-        <entry key="ENGLISH" value="1617" />
+        <entry key="CHINESE" value="1011" />
+        <entry key="ENGLISH" value="1620" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
