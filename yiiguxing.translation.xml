@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bink" />
+      <item value="泛点" />
+      <item value="香港记者跑的快" />
+      <item value="香港记者" />
+      <item value="lianren" />
+      <item value="jiangzeming" />
+      <item value="kongtiao" />
+      <item value="shouji" />
+      <item value="xitong" />
+      <item value="changcheng" />
+      <item value="hama" />
+      <item value="muzhu" />
+      <item value="jilu" />
+      <item value="记录" />
       <item value="录入" />
       <item value="库存" />
       <item value="杂" />
@@ -37,25 +51,11 @@
       <item value="收款" />
       <item value="付款" />
       <item value="单独" />
-      <item value="不需要合同" />
-      <item value="不需要" />
-      <item value="Finance" />
-      <item value="财务部" />
-      <item value="已审批" />
-      <item value="审批" />
-      <item value="from" />
-      <item value="运输方式" />
-      <item value="物流" />
-      <item value="实际入库数控" />
-      <item value="vehicle" />
-      <item value="车" />
-      <item value="船编号" />
-      <item value="押运员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1007" />
-        <entry key="ENGLISH" value="1611" />
+        <entry key="CHINESE" value="1009" />
+        <entry key="ENGLISH" value="1614" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
