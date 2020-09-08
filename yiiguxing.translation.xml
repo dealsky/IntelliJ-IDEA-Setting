@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="车牌号" />
+      <item value="使用者" />
+      <item value="use the car" />
+      <item value="用车" />
       <item value="petty cash" />
       <item value="备用金" />
       <item value="water" />
@@ -47,15 +51,11 @@
       <item value="rebuild" />
       <item value="单证部" />
       <item value="商检付款审批" />
-      <item value="创建船计划" />
-      <item value="附件" />
-      <item value="船板量" />
-      <item value="待办" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1017" />
-        <entry key="ENGLISH" value="1635" />
+        <entry key="CHINESE" value="1020" />
+        <entry key="ENGLISH" value="1638" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
