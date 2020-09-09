@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待付款金额" />
+      <item value="Cleared" />
+      <item value="已结清" />
+      <item value="uncleared" />
+      <item value="未结清" />
+      <item value="金额状态" />
+      <item value="付款状态" />
       <item value="Short Name" />
       <item value="简称" />
       <item value="车牌号" />
@@ -44,18 +51,11 @@
       <item value="muzhu" />
       <item value="jilu" />
       <item value="记录" />
-      <item value="录入" />
-      <item value="杂" />
-      <item value="繁杂" />
-      <item value="费用" />
-      <item value="mix" />
-      <item value="杂费" />
-      <item value="rebuild" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1639" />
+        <entry key="CHINESE" value="1026" />
+        <entry key="ENGLISH" value="1644" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
