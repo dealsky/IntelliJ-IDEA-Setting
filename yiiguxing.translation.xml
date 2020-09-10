@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="副" />
+      <item value="主要" />
       <item value=" printer" />
       <item value="打印机" />
       <item value="局部" />
@@ -49,13 +51,11 @@
       <item value="kongtiao" />
       <item value="shouji" />
       <item value="xitong" />
-      <item value="changcheng" />
-      <item value="hama" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1027" />
-        <entry key="ENGLISH" value="1646" />
+        <entry key="CHINESE" value="1028" />
+        <entry key="ENGLISH" value="1648" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
