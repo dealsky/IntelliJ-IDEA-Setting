@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" printer" />
+      <item value="打印机" />
       <item value="局部" />
       <item value="待付款金额" />
       <item value="Cleared" />
@@ -49,13 +51,11 @@
       <item value="xitong" />
       <item value="changcheng" />
       <item value="hama" />
-      <item value="muzhu" />
-      <item value="jilu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1026" />
-        <entry key="ENGLISH" value="1645" />
+        <entry key="CHINESE" value="1027" />
+        <entry key="ENGLISH" value="1646" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
