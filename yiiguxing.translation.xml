@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Floating ticket obtained." />
+      <item value="obtained" />
       <item value="confirm" />
       <item value="中古" />
       <item value="副" />
@@ -49,12 +51,10 @@
       <item value="香港记者跑的快" />
       <item value="香港记者" />
       <item value="lianren" />
-      <item value="jiangzeming" />
-      <item value="kongtiao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
+        <entry key="CHINESE" value="1031" />
         <entry key="ENGLISH" value="1650" />
         <entry key="PORTUGUESE" value="1" />
       </map>
