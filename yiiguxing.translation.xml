@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请" />
       <item value="latest" />
       <item value="最近的" />
       <item value="退款" />
@@ -50,12 +51,11 @@
       <item value="甲板" />
       <item value="岸罐" />
       <item value="bink" />
-      <item value="泛点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1033" />
-        <entry key="ENGLISH" value="1653" />
+        <entry key="CHINESE" value="1034" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
