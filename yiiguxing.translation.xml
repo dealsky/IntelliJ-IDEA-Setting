@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="进出库记录" />
       <item value="已结算" />
       <item value="Receive payment" />
       <item value="收付款" />
@@ -50,12 +51,11 @@
       <item value="简称" />
       <item value="车牌号" />
       <item value="使用者" />
-      <item value="use the car" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1042" />
-        <entry key="ENGLISH" value="1678" />
+        <entry key="ENGLISH" value="1679" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
