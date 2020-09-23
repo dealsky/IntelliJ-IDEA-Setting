@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票库存" />
+      <item value="发票" />
       <item value="运输损耗" />
       <item value="sales Order " />
       <item value="salesOrder " />
@@ -49,13 +51,11 @@
       <item value="待付款金额" />
       <item value="Cleared" />
       <item value="已结清" />
-      <item value="uncleared" />
-      <item value="未结清" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1044" />
-        <entry key="ENGLISH" value="1685" />
+        <entry key="ENGLISH" value="1686" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
