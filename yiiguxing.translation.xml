@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="underlying" />
       <item value="Pessimistic" />
       <item value="提醒" />
       <item value="提现" />
@@ -50,11 +51,10 @@
       <item value="中古" />
       <item value="副" />
       <item value="主要" />
-      <item value=" printer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1045" />
+        <entry key="CHINESE" value="1046" />
         <entry key="ENGLISH" value="1690" />
         <entry key="PORTUGUESE" value="1" />
       </map>
