@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="包装" />
       <item value="difference" />
       <item value="product" />
       <item value="pack" />
-      <item value="包装" />
       <item value="underlying" />
       <item value="Pessimistic" />
       <item value="提醒" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1051" />
-        <entry key="ENGLISH" value="1691" />
+        <entry key="CHINESE" value="1052" />
+        <entry key="ENGLISH" value="1692" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
