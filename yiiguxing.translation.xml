@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="final statement" />
+      <item value="结算单" />
+      <item value="结算" />
       <item value="appropriate" />
       <item value="包装" />
       <item value="difference" />
@@ -48,14 +51,11 @@
       <item value="船期变化" />
       <item value="申请" />
       <item value="latest" />
-      <item value="最近的" />
-      <item value="退款" />
-      <item value="Floating ticket obtained." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1053" />
-        <entry key="ENGLISH" value="1693" />
+        <entry key="CHINESE" value="1055" />
+        <entry key="ENGLISH" value="1694" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
