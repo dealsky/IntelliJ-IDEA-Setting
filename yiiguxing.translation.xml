@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="write-off" />
+      <item value="销账" />
+      <item value="purpose" />
+      <item value="用途" />
+      <item value="用款日期" />
+      <item value="Usage" />
       <item value="final statement" />
       <item value="结算单" />
       <item value="结算" />
@@ -45,17 +51,11 @@
       <item value="卸货了" />
       <item value="outturn" />
       <item value="shipment" />
-      <item value="装货量" />
-      <item value="起止地" />
-      <item value="结算函" />
-      <item value="船期变化" />
-      <item value="申请" />
-      <item value="latest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1055" />
-        <entry key="ENGLISH" value="1694" />
+        <entry key="CHINESE" value="1061" />
+        <entry key="ENGLISH" value="1699" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
