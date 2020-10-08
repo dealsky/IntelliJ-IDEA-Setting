@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign" />
       <item value="待办" />
       <item value="Remind" />
       <item value="货转" />
@@ -50,12 +51,11 @@
       <item value="货物单价" />
       <item value="合理" />
       <item value="合理损耗" />
-      <item value="实际" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1067" />
-        <entry key="ENGLISH" value="1705" />
+        <entry key="CHINESE" value="1068" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
