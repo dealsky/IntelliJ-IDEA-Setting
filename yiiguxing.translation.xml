@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注册" />
       <item value="Zoom In" />
       <item value="放大" />
       <item value="适应" />
@@ -50,12 +51,11 @@
       <item value="审批进度" />
       <item value="单独" />
       <item value="单独付款" />
-      <item value="retrieved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1070" />
-        <entry key="ENGLISH" value="1709" />
+        <entry key="CHINESE" value="1071" />
+        <entry key="ENGLISH" value="1710" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
