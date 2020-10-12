@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="钱" />
+      <item value="款爷" />
+      <item value="款" />
+      <item value="receive" />
+      <item value="收" />
+      <item value="收款" />
       <item value="检测项目" />
       <item value="观察者" />
       <item value="结算函" />
@@ -45,17 +51,11 @@
       <item value="salesOrder" />
       <item value="转账" />
       <item value="合同" />
-      <item value="进出库记录" />
-      <item value="已结算" />
-      <item value="Receive payment" />
-      <item value="收付款" />
-      <item value="敲章申请" />
-      <item value="库内交割" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="CHINESE" value="1072" />
+        <entry key="ENGLISH" value="1718" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
