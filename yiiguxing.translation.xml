@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="second" />
       <item value="报销时间" />
       <item value="问号" />
       <item value="Separate" />
@@ -50,12 +51,11 @@
       <item value="发票" />
       <item value="运输损耗" />
       <item value="sales Order " />
-      <item value="salesOrder " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1075" />
-        <entry key="ENGLISH" value="1721" />
+        <entry key="CHINESE" value="1076" />
+        <entry key="ENGLISH" value="1722" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
