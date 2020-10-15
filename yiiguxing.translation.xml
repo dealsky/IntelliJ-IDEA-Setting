@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="账" />
+      <item value="挂" />
       <item value="挂账" />
       <item value="second" />
       <item value="报销时间" />
@@ -49,13 +51,11 @@
       <item value="最后一次" />
       <item value="活跃" />
       <item value="发票库存" />
-      <item value="发票" />
-      <item value="运输损耗" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1077" />
-        <entry key="ENGLISH" value="1723" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
