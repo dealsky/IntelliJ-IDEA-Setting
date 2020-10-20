@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="归档" />
       <item value="内部" />
       <item value="contract" />
       <item value="adapt" />
@@ -50,12 +51,11 @@
       <item value="结算" />
       <item value="appropriate" />
       <item value="包装" />
-      <item value="difference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1082" />
-        <entry key="ENGLISH" value="1732" />
+        <entry key="ENGLISH" value="1733" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
