@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
+      <item value="验收数" />
       <item value="shoreTank" />
       <item value="deck" />
       <item value="盈亏量" />
@@ -49,13 +51,11 @@
       <item value="purpose" />
       <item value="用途" />
       <item value="用款日期" />
-      <item value="Usage" />
-      <item value="final statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1084" />
-        <entry key="ENGLISH" value="1738" />
+        <entry key="CHINESE" value="1085" />
+        <entry key="ENGLISH" value="1740" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
