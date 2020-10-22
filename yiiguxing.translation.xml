@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检测项目" />
       <item value="排序因子" />
       <item value="马达法辛烷值" />
       <item value="MTBE纯度" />
@@ -41,7 +42,6 @@
       <item value="receive" />
       <item value="收" />
       <item value="收款" />
-      <item value="检测项目" />
       <item value="观察者" />
       <item value="结算函" />
       <item value="二次靠泊费" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1751" />
+        <entry key="ENGLISH" value="1752" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
