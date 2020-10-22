@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="马达法辛烷值" />
+      <item value="MTBE纯度" />
+      <item value="甲苯" />
+      <item value="material" />
+      <item value="一烯值" />
+      <item value="气味" />
+      <item value="蒸汽压" />
+      <item value="馏程" />
+      <item value="抗暴指数" />
+      <item value="品质" />
       <item value="原始" />
       <item value="验收数" />
       <item value="shoreTank" />
@@ -41,21 +51,11 @@
       <item value="sign" />
       <item value="待办" />
       <item value="Remind" />
-      <item value="货转" />
-      <item value="货转申请" />
-      <item value="write-off" />
-      <item value="销账" />
-      <item value="已领" />
-      <item value="已销金额" />
-      <item value="calc" />
-      <item value="purpose" />
-      <item value="用途" />
-      <item value="用款日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1085" />
-        <entry key="ENGLISH" value="1740" />
+        <entry key="CHINESE" value="1087" />
+        <entry key="ENGLISH" value="1750" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
