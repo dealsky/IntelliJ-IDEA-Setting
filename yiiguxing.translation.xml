@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票" />
+      <item value="抵用" />
+      <item value="发票抵用" />
       <item value="price excluding tax" />
       <item value="不含税金额" />
       <item value="Taxes" />
@@ -48,14 +51,11 @@
       <item value="Adjust" />
       <item value="行政" />
       <item value="客户赠送" />
-      <item value="账" />
-      <item value="挂" />
-      <item value="挂账" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1096" />
-        <entry key="ENGLISH" value="1768" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1769" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
