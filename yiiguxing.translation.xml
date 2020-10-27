@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guaranteed" />
+      <item value="保底" />
       <item value="chartered boat" />
       <item value="包船" />
       <item value="快速" />
@@ -49,13 +51,11 @@
       <item value="问号" />
       <item value="Separate" />
       <item value="钱" />
-      <item value="款爷" />
-      <item value="款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1090" />
-        <entry key="ENGLISH" value="1763" />
+        <entry key="CHINESE" value="1092" />
+        <entry key="ENGLISH" value="1764" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
