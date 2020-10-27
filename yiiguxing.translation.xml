@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="快速" />
+      <item value="快去" />
       <item value="入库" />
       <item value="货权" />
       <item value="货主单位" />
@@ -49,13 +51,11 @@
       <item value="款" />
       <item value="receive" />
       <item value="收" />
-      <item value="收款" />
-      <item value="观察者" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1761" />
+        <entry key="ENGLISH" value="1762" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
