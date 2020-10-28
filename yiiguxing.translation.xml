@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manually create" />
+      <item value="手动创建" />
       <item value="internal" />
       <item value="degression" />
       <item value="成本" />
@@ -49,13 +51,11 @@
       <item value="盈亏量" />
       <item value="外部地址" />
       <item value="归档" />
-      <item value="内部" />
-      <item value="contract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1099" />
-        <entry key="ENGLISH" value="1775" />
+        <entry key="CHINESE" value="1101" />
+        <entry key="ENGLISH" value="1776" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
