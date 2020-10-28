@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="移动平均单价" />
+      <item value="期初" />
+      <item value="成本" />
+      <item value="入库" />
+      <item value="入库成本" />
       <item value="库存成本" />
       <item value="抵用" />
       <item value="发票" />
@@ -16,7 +21,6 @@
       <item value="包船" />
       <item value="快速" />
       <item value="快去" />
-      <item value="入库" />
       <item value="货权" />
       <item value="货主单位" />
       <item value="倒出" />
@@ -47,15 +51,11 @@
       <item value="contract" />
       <item value="adapt" />
       <item value="合同" />
-      <item value="未审批" />
-      <item value="资金" />
-      <item value="Adjust" />
-      <item value="行政" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1097" />
-        <entry key="ENGLISH" value="1771" />
+        <entry key="ENGLISH" value="1774" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
