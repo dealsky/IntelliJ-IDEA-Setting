@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="degression" />
+      <item value="成本" />
       <item value="移动平均单价" />
       <item value="期初" />
-      <item value="成本" />
       <item value="入库" />
       <item value="入库成本" />
       <item value="库存成本" />
@@ -50,12 +51,11 @@
       <item value="内部" />
       <item value="contract" />
       <item value="adapt" />
-      <item value="合同" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1097" />
-        <entry key="ENGLISH" value="1774" />
+        <entry key="CHINESE" value="1098" />
+        <entry key="ENGLISH" value="1775" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
