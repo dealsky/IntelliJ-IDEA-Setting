@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用途" />
+      <item value="opposite" />
+      <item value="对方" />
+      <item value="户名" />
+      <item value="balance" />
+      <item value="余额" />
+      <item value="银行账号" />
+      <item value="账户" />
+      <item value="fund balance" />
+      <item value="资金余额" />
       <item value="挂" />
       <item value="挂账" />
       <item value="质检" />
@@ -41,21 +51,11 @@
       <item value="Reconcile" />
       <item value="检测项目" />
       <item value="排序因子" />
-      <item value="马达法辛烷值" />
-      <item value="MTBE纯度" />
-      <item value="甲苯" />
-      <item value="material" />
-      <item value="一烯值" />
-      <item value="气味" />
-      <item value="蒸汽压" />
-      <item value="馏程" />
-      <item value="抗暴指数" />
-      <item value="品质" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1102" />
-        <entry key="ENGLISH" value="1783" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1791" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
