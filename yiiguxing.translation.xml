@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expend" />
+      <item value="支出" />
+      <item value="收入" />
       <item value="用途" />
       <item value="opposite" />
       <item value="对方" />
@@ -48,14 +51,11 @@
       <item value="对象" />
       <item value="计划数量" />
       <item value="生产通知单" />
-      <item value="Reconcile" />
-      <item value="检测项目" />
-      <item value="排序因子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1108" />
-        <entry key="ENGLISH" value="1791" />
+        <entry key="CHINESE" value="1109" />
+        <entry key="ENGLISH" value="1793" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
