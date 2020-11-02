@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="analyse" />
+      <item value="分析" />
+      <item value="全分析" />
+      <item value="全项目" />
       <item value="redirect" />
       <item value="结果录入" />
       <item value="质检结果" />
@@ -47,15 +51,11 @@
       <item value="入库" />
       <item value="入库成本" />
       <item value="库存成本" />
-      <item value="抵用" />
-      <item value="发票" />
-      <item value="发票抵用" />
-      <item value="price excluding tax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1116" />
-        <entry key="ENGLISH" value="1806" />
+        <entry key="CHINESE" value="1118" />
+        <entry key="ENGLISH" value="1809" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
