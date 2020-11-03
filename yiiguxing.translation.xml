@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="船板" />
+      <item value="罐" />
+      <item value="发" />
+      <item value="结算" />
+      <item value="保底" />
+      <item value="保底情况" />
+      <item value="航线" />
       <item value="Ledger" />
       <item value="台账" />
       <item value="赔偿" />
-      <item value="罐" />
       <item value="analyse" />
       <item value="分析" />
       <item value="全分析" />
@@ -21,7 +27,6 @@
       <item value="税费统计" />
       <item value="实例" />
       <item value="记录是否挂账" />
-      <item value="结算" />
       <item value="结算量" />
       <item value="storage" />
       <item value="仓储" />
@@ -46,16 +51,11 @@
       <item value="确认" />
       <item value="盈亏量" />
       <item value="Manually create" />
-      <item value="手动创建" />
-      <item value="internal" />
-      <item value="degression" />
-      <item value="成本" />
-      <item value="移动平均单价" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1120" />
-        <entry key="ENGLISH" value="1812" />
+        <entry key="CHINESE" value="1121" />
+        <entry key="ENGLISH" value="1816" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
