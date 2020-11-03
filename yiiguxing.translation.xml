@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ledger" />
+      <item value="台账" />
       <item value="赔偿" />
       <item value="罐" />
       <item value="analyse" />
@@ -49,13 +51,11 @@
       <item value="degression" />
       <item value="成本" />
       <item value="移动平均单价" />
-      <item value="期初" />
-      <item value="入库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1119" />
-        <entry key="ENGLISH" value="1811" />
+        <entry key="CHINESE" value="1120" />
+        <entry key="ENGLISH" value="1812" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
