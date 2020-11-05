@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公章" />
+      <item value="公" />
+      <item value="合同" />
+      <item value="业务" />
       <item value="样品来源" />
       <item value="内部" />
       <item value="符号" />
@@ -47,15 +51,11 @@
       <item value="balance" />
       <item value="余额" />
       <item value="银行账号" />
-      <item value="账户" />
-      <item value="fund balance" />
-      <item value="资金余额" />
-      <item value="挂" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1121" />
-        <entry key="ENGLISH" value="1821" />
+        <entry key="ENGLISH" value="1825" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
