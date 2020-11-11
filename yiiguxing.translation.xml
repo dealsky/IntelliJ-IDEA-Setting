@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联系人" />
+      <item value="职位" />
+      <item value="入住申请" />
+      <item value="入住" />
+      <item value="住" />
+      <item value="宿舍" />
+      <item value="check" />
+      <item value="宿舍入住" />
       <item value="用途" />
       <item value="实际数量" />
       <item value="manually" />
@@ -43,19 +51,11 @@
       <item value="结算" />
       <item value="保底" />
       <item value="保底情况" />
-      <item value="航线" />
-      <item value="台账" />
-      <item value="赔偿" />
-      <item value="analyse" />
-      <item value="分析" />
-      <item value="全分析" />
-      <item value="全项目" />
-      <item value="redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1131" />
-        <entry key="ENGLISH" value="1846" />
+        <entry key="CHINESE" value="1132" />
+        <entry key="ENGLISH" value="1851" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
