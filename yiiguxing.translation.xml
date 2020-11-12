@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否启用" />
       <item value="verify" />
       <item value="验证" />
       <item value="Attempted" />
@@ -50,12 +51,11 @@
       <item value="车辆计划号" />
       <item value="航次时间" />
       <item value="船板" />
-      <item value="罐" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1135" />
-        <entry key="ENGLISH" value="1854" />
+        <entry key="CHINESE" value="1136" />
+        <entry key="ENGLISH" value="1855" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
