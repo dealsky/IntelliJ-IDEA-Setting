@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="高级" />
       <item value="结余成本金额" />
       <item value="Excluding" />
       <item value="财务" />
@@ -50,12 +51,11 @@
       <item value="合理" />
       <item value="合理损耗" />
       <item value="卸货量" />
-      <item value="装货量" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1140" />
-        <entry key="ENGLISH" value="1875" />
+        <entry key="ENGLISH" value="1876" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
