@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通用" />
+      <item value="财务" />
+      <item value="invoices" />
+      <item value="单据" />
+      <item value="生产" />
+      <item value="生成" />
+      <item value="商务" />
       <item value="高级" />
       <item value="结余成本金额" />
       <item value="Excluding" />
-      <item value="财务" />
       <item value="实际" />
       <item value="实际品名" />
       <item value="常量" />
@@ -45,17 +51,11 @@
       <item value="receipt" />
       <item value="收款" />
       <item value="保险" />
-      <item value="发票" />
-      <item value="Fap " />
-      <item value="对账情况" />
-      <item value="合理" />
-      <item value="合理损耗" />
-      <item value="卸货量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1140" />
-        <entry key="ENGLISH" value="1876" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1881" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
