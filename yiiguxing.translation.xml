@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decimal places" />
+      <item value="小数点位数" />
+      <item value="精度" />
       <item value="税费统计" />
       <item value="装船计划" />
       <item value="卸船计划" />
@@ -48,14 +51,11 @@
       <item value="check" />
       <item value="宿舍入住" />
       <item value="用途" />
-      <item value="实际数量" />
-      <item value="manually" />
-      <item value="提醒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1885" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1887" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
