@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="化混" />
+      <item value="化" />
       <item value="管线" />
       <item value="结算" />
       <item value="simulate" />
@@ -49,13 +51,11 @@
       <item value="Attempted" />
       <item value="负数" />
       <item value="联系人" />
-      <item value="职位" />
-      <item value="入住申请" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1146" />
-        <entry key="ENGLISH" value="1893" />
+        <entry key="ENGLISH" value="1894" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
