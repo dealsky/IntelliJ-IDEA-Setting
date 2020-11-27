@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实际" />
       <item value="强力" />
       <item value="expense" />
       <item value="支出" />
@@ -31,7 +32,6 @@
       <item value="高级" />
       <item value="结余成本金额" />
       <item value="Excluding" />
-      <item value="实际" />
       <item value="实际品名" />
       <item value="常量" />
       <item value="汽油" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1148" />
-        <entry key="ENGLISH" value="1898" />
+        <entry key="ENGLISH" value="1899" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
