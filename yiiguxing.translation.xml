@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结算" />
       <item value="出纳" />
       <item value="内部" />
       <item value="内部合同" />
@@ -14,7 +15,6 @@
       <item value="化混" />
       <item value="化" />
       <item value="管线" />
-      <item value="结算" />
       <item value="simulate" />
       <item value="模拟" />
       <item value="结算函" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1148" />
-        <entry key="ENGLISH" value="1904" />
+        <entry key="ENGLISH" value="1905" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
