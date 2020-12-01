@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calc" />
       <item value="goal" />
       <item value="结算" />
       <item value="出纳" />
@@ -50,11 +51,10 @@
       <item value="温度" />
       <item value="体积" />
       <item value="底水" />
-      <item value="检尺" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1149" />
+        <entry key="CHINESE" value="1150" />
         <entry key="ENGLISH" value="1906" />
         <entry key="PORTUGUESE" value="1" />
       </map>
