@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通用批量申请" />
       <item value="付款日期" />
       <item value="开票日期" />
       <item value="商检费" />
@@ -50,12 +51,11 @@
       <item value="重量" />
       <item value="标准体积" />
       <item value="钢膨系数" />
-      <item value="钢膨洗漱" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1154" />
-        <entry key="ENGLISH" value="1909" />
+        <entry key="ENGLISH" value="1910" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
