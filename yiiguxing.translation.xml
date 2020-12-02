@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="付款日期" />
+      <item value="开票日期" />
+      <item value="商检费" />
       <item value="This field may only be specified for a dependency with system scope." />
       <item value="must be omitted" />
       <item value="omitted" />
@@ -48,14 +51,11 @@
       <item value="标准体积" />
       <item value="钢膨系数" />
       <item value="钢膨洗漱" />
-      <item value="静压力修正" />
-      <item value="标准密度" />
-      <item value="标密" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1153" />
-        <entry key="ENGLISH" value="1906" />
+        <entry key="CHINESE" value="1154" />
+        <entry key="ENGLISH" value="1909" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
