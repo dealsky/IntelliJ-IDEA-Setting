@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="质检" />
       <item value="批量" />
       <item value="通用批量申请" />
@@ -42,7 +43,6 @@
       <item value="invoices" />
       <item value="单据" />
       <item value="生产" />
-      <item value="生成" />
       <item value="商务" />
       <item value="高级" />
       <item value="结余成本金额" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1154" />
-        <entry key="ENGLISH" value="1912" />
+        <entry key="ENGLISH" value="1913" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
