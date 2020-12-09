@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="利润" />
       <item value="所属期" />
       <item value="profit" />
-      <item value="利润" />
       <item value=" zero fill" />
       <item value="补零" />
       <item value="毫米" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1158" />
-        <entry key="ENGLISH" value="1927" />
+        <entry key="ENGLISH" value="1928" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
