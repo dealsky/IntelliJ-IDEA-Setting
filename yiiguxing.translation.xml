@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="利息" />
+      <item value="一半" />
       <item value="投资利息" />
       <item value="投资" />
       <item value="费用" />
@@ -9,7 +11,6 @@
       <item value="资金余额" />
       <item value="affiliation" />
       <item value="归属" />
-      <item value="利息" />
       <item value="Interest" />
       <item value="绑定" />
       <item value="垫资" />
@@ -50,12 +51,11 @@
       <item value="其他" />
       <item value="实际" />
       <item value="强力" />
-      <item value="expense" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1163" />
-        <entry key="ENGLISH" value="1946" />
+        <entry key="ENGLISH" value="1948" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
