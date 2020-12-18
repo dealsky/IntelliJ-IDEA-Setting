@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="物流费" />
+      <item value="装卸费" />
+      <item value="装卸" />
+      <item value="车费" />
+      <item value="储罐罐容" />
+      <item value=" usage mode" />
+      <item value="使用方式" />
+      <item value="损耗" />
+      <item value="收货数量标准" />
+      <item value="进货方式" />
+      <item value="来    源" />
+      <item value="trade" />
+      <item value="Nature" />
+      <item value="贸易性质" />
+      <item value="保管人" />
+      <item value="保管" />
+      <item value="存货方" />
+      <item value="仓储合同" />
       <item value="Statement" />
       <item value="收入" />
       <item value="同步" />
@@ -33,29 +51,11 @@
       <item value="厘米" />
       <item value="容积" />
       <item value="区间" />
-      <item value="油罐" />
-      <item value="标量" />
-      <item value="空气浮力修正" />
-      <item value="生成" />
-      <item value="质检" />
-      <item value="批量" />
-      <item value="通用批量申请" />
-      <item value="付款日期" />
-      <item value="开票日期" />
-      <item value="商检费" />
-      <item value="This field may only be specified for a dependency with system scope." />
-      <item value="must be omitted" />
-      <item value="omitted" />
-      <item value="Calc" />
-      <item value="goal" />
-      <item value="结算" />
-      <item value="出纳" />
-      <item value="内部" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1164" />
-        <entry key="ENGLISH" value="1953" />
+        <entry key="CHINESE" value="1169" />
+        <entry key="ENGLISH" value="1965" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
