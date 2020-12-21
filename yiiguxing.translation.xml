@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="毛利" />
+      <item value="物产违约金" />
+      <item value="仓储费" />
+      <item value="商检费" />
       <item value="仓储" />
       <item value="成本" />
       <item value="销售运输" />
@@ -47,15 +51,11 @@
       <item value="卸货量" />
       <item value="利润" />
       <item value="所属期" />
-      <item value="profit" />
-      <item value=" zero fill" />
-      <item value="补零" />
-      <item value="毫米" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1169" />
-        <entry key="ENGLISH" value="1969" />
+        <entry key="ENGLISH" value="1973" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
