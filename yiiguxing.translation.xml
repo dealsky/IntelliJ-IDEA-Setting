@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert" />
+      <item value="转换" />
+      <item value="conver" />
       <item value="汇总" />
       <item value="手续费" />
       <item value="付款账户" />
@@ -48,14 +51,11 @@
       <item value="affiliation" />
       <item value="归属" />
       <item value="Interest" />
-      <item value="绑定" />
-      <item value="垫资" />
-      <item value="垫支" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1169" />
-        <entry key="ENGLISH" value="1981" />
+        <entry key="CHINESE" value="1172" />
+        <entry key="ENGLISH" value="1983" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
