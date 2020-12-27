@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内部" />
       <item value="物流" />
       <item value="商务" />
       <item value="商户" />
@@ -8,7 +9,6 @@
       <item value="发票" />
       <item value="货物合同" />
       <item value="出库" />
-      <item value="内部" />
       <item value="外部" />
       <item value="修改" />
       <item value="净利润" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1998" />
+        <entry key="ENGLISH" value="1999" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
