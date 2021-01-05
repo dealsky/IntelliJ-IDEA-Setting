@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Excluding" />
       <item value="待开票数量" />
       <item value="现有" />
       <item value="chartered" />
@@ -50,12 +51,11 @@
       <item value="毛利" />
       <item value="物产违约金" />
       <item value="仓储费" />
-      <item value="商检费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1185" />
-        <entry key="ENGLISH" value="2020" />
+        <entry key="CHINESE" value="1186" />
+        <entry key="ENGLISH" value="2021" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
