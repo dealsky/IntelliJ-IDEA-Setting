@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="入账时间&#10;" />
+      <item value="ru'zhang" />
       <item value="已领用&#10;" />
       <item value="yi" />
       <item value="添加剂&#10;" />
@@ -51,8 +53,6 @@
       <item value="外部" />
       <item value="修改" />
       <item value="净利润" />
-      <item value="利息" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
