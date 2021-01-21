@@ -3,6 +3,25 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="associated" />
+      <item value="associat" />
+      <item value="associate" />
+      <item value="关联" />
+      <item value="guan'lian" />
+      <item value="guan'x" />
+      <item value="联系" />
+      <item value="lian'xi" />
+      <item value="关系&#10;" />
+      <item value="t" />
+      <item value="Transport Ship" />
+      <item value="TransportShip" />
+      <item value="Transport" />
+      <item value="货物合同&#10;" />
+      <item value="h" />
+      <item value="huo" />
+      <item value="货物" />
+      <item value="物流" />
+      <item value="huo'wu" />
       <item value="校验&#10;" />
       <item value="资讯" />
       <item value="zi'xun" />
@@ -34,25 +53,6 @@
       <item value="海关保证金&#10;" />
       <item value="通关&#10;" />
       <item value="利息&#10;" />
-      <item value="li" />
-      <item value="资金利息&#10;" />
-      <item value="zi" />
-      <item value="资金&#10;" />
-      <item value="zi'j" />
-      <item value="占用资金&#10;" />
-      <item value="利率&#10;" />
-      <item value="li'r" />
-      <item value="资金利息" />
-      <item value="指令要求&#10;" />
-      <item value="valence" />
-      <item value="成交价&#10;" />
-      <item value="cheng'jiao" />
-      <item value="点价&#10;" />
-      <item value="承兑&#10;" />
-      <item value="信用证&#10;" />
-      <item value="信用zheng" />
-      <item value="信用zeng" />
-      <item value="xi" />
     </histories>
     <option name="languageScores">
       <map>
