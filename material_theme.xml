@@ -1,7 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="24" />
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-493a7a3:17728f81033:-8000" />
