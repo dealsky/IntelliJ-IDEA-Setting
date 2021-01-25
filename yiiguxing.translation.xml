@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="章" />
+      <item value="zhang" />
       <item value="原始" />
       <item value="事项&#10;" />
       <item value="shi'xiang" />
@@ -51,8 +53,6 @@
       <item value="zi'xun" />
       <item value="咨询&#10;" />
       <item value="文章" />
-      <item value="wen'z" />
-      <item value="consult" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611123241197" />
+    <option name="lastTrimTime" value="1611568805585" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
