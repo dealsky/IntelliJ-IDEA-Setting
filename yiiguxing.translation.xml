@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="全局&#10;" />
+      <item value="quan" />
       <item value="桶吨比" />
       <item value="桶吨bi" />
       <item value="桶吨" />
@@ -51,8 +53,6 @@
       <item value=" SpecifiedPrice" />
       <item value=" Specified Price" />
       <item value=" Specifie dPrice" />
-      <item value=" specifiedPrice" />
-      <item value=" specified" />
     </histories>
     <option name="languageScores">
       <map>
