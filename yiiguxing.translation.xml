@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="导入&#10;" />
       <item value="perform" />
       <item value="binary&#10;" />
       <item value="操作人&#10;" />
@@ -52,7 +53,6 @@
       <item value="zhang" />
       <item value="原始" />
       <item value="事项&#10;" />
-      <item value="shi'xiang" />
     </histories>
     <option name="languageScores">
       <map>
