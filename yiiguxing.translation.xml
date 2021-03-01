@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="模拟" />
       <item value="fill" />
       <item value="补" />
       <item value="bu" />
@@ -52,7 +53,6 @@
       <item value="执行&#10;" />
       <item value="zhi'x" />
       <item value="启用&#10;" />
-      <item value="qi" />
     </histories>
     <option name="languageScores">
       <map>
