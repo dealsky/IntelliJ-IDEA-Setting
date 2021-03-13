@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="可用&#10;" />
       <item value="车牌号&#10;" />
       <item value="所属期" />
       <item value="phase" />
@@ -52,7 +53,6 @@
       <item value="实例&#10;" />
       <item value="实例" />
       <item value="sh" />
-      <item value="服务器" />
     </histories>
     <option name="languageScores">
       <map>
