@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="s" />
       <item value="访问" />
       <item value="项" />
       <item value="xiang" />
@@ -51,7 +52,6 @@
       <item value="质量" />
       <item value="zhi" />
       <item value="商检类型" />
-      <item value="s" />
       <item value="direct" />
     </histories>
     <option name="languageScores">
