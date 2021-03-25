@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="rou'k&#10;" />
+      <item value="出口&#10;" />
+      <item value="转入方&#10;" />
+      <item value="转ru方&#10;" />
+      <item value="转出方&#10;" />
       <item value="资金结转" />
       <item value="资金jie'zhuan" />
       <item value="资金jie'shuan" />
@@ -48,11 +53,6 @@
       <item value="dai" />
       <item value="d" />
       <item value="收款确认" />
-      <item value="s'ho" />
-      <item value="出纳&#10;" />
-      <item value="supplement&#10;" />
-      <item value="可用&#10;" />
-      <item value="车牌号&#10;" />
     </histories>
     <option name="languageScores">
       <map>
