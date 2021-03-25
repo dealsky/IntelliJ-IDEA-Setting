@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="资金结转" />
+      <item value="资金jie'zhuan" />
+      <item value="资金jie'shuan" />
+      <item value="zi'jin" />
+      <item value="zhi'jin" />
       <item value="收款确认通知" />
       <item value="付款确认通知" />
       <item value="直接confirm&#10;" />
@@ -48,11 +53,6 @@
       <item value="supplement&#10;" />
       <item value="可用&#10;" />
       <item value="车牌号&#10;" />
-      <item value="所属期" />
-      <item value="phase" />
-      <item value="合成&#10;" />
-      <item value="he'chen&#10;" />
-      <item value="成品&#10;" />
     </histories>
     <option name="languageScores">
       <map>
