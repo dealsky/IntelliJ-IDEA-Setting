@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="收款" />
       <item value="payload" />
       <item value="Circular" />
       <item value="全局改价" />
@@ -17,7 +18,6 @@
       <item value="事项" />
       <item value="收" />
       <item value="会收" />
-      <item value="收款" />
       <item value="跳转" />
       <item value="tiao'z" />
       <item value="jump" />
