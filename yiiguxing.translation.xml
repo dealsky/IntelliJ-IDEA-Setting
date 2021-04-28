@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="577" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="入库" />
+      <item value="ru库" />
+      <item value="出库" />
+      <item value="出入库" />
+      <item value="chu" />
       <item value="页面" />
       <item value="小数点" />
       <item value="同意" />
@@ -48,11 +53,6 @@
       <item value="discharge Quantity" />
       <item value="discharg eQuantity" />
       <item value="dischargeQuantity" />
-      <item value="loadingQuantity&#10;" />
-      <item value="rou'k&#10;" />
-      <item value="出口&#10;" />
-      <item value="转入方&#10;" />
-      <item value="转ru方&#10;" />
     </histories>
     <option name="languageScores">
       <map>
