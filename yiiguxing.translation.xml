@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="673" />
     <option name="newTranslationDialogY" value="292" />
     <histories>
+      <item value="统计" />
       <item value="导出" />
       <item value="inverted" />
       <item value="上班时间" />
@@ -52,7 +53,6 @@
       <item value="yi" />
       <item value="用户手册" />
       <item value="用户手册&#10;" />
-      <item value="y" />
     </histories>
     <option name="languageScores">
       <map>
