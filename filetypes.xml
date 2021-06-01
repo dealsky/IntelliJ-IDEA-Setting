@@ -4,6 +4,7 @@
       <mapping pattern="student_data" type="PLAIN_TEXT" />
       <mapping pattern="inventoryUnfinished.html" type="PLAIN_TEXT" />
       <mapping pattern="group-fake.txt" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
