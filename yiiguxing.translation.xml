@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="673" />
     <option name="newTranslationDialogY" value="292" />
     <histories>
+      <item value="questionnaire" />
+      <item value="发货" />
+      <item value="配送" />
+      <item value="fah" />
+      <item value="fahuo" />
       <item value="直接" />
       <item value="不需要" />
       <item value="bu" />
@@ -48,11 +53,6 @@
       <item value="销量" />
       <item value="Decimal" />
       <item value="入库" />
-      <item value="ru库" />
-      <item value="出库" />
-      <item value="出入库" />
-      <item value="chu" />
-      <item value="页面" />
     </histories>
     <option name="languageScores">
       <map>
