@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="673" />
     <option name="newTranslationDialogY" value="292" />
     <histories>
+      <item value="bundle" />
+      <item value="捆" />
+      <item value="kun" />
+      <item value="k" />
+      <item value="集合" />
+      <item value="ji" />
+      <item value="ji'c" />
       <item value="remark" />
       <item value="memo" />
       <item value="mo" />
@@ -29,7 +36,6 @@
       <item value="结算函" />
       <item value="结算" />
       <item value="jie's" />
-      <item value="ji" />
       <item value="lasted" />
       <item value="last" />
       <item value="a's" />
@@ -47,12 +53,6 @@
       <item value="zhuang" />
       <item value="转货" />
       <item value="zhuan'huo" />
-      <item value="buttons&#10;" />
-      <item value="Period" />
-      <item value="Lasted" />
-      <item value="销量统计" />
-      <item value="采购量" />
-      <item value="采购l" />
     </histories>
     <option name="languageScores">
       <map>
