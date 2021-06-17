@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="243" />
     <option name="newTranslationDialogX" value="673" />
     <option name="newTranslationDialogY" value="292" />
     <histories>
+      <item value="预计" />
+      <item value="预计结算时间" />
+      <item value="预计jie's" />
       <item value="集港" />
       <item value="ji" />
       <item value="Data truncated&#10;" />
@@ -51,9 +55,6 @@
       <item value="结算" />
       <item value="jie's" />
       <item value="lasted" />
-      <item value="last" />
-      <item value="a's" />
-      <item value="最后的" />
     </histories>
     <option name="languageScores">
       <map>
