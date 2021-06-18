@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="收入" />
+      <item value="统计成本" />
+      <item value="统计" />
       <item value="预计" />
       <item value="预计结算时间" />
       <item value="预计jie's" />
@@ -45,7 +48,6 @@
       <item value="j" />
       <item value="遍历" />
       <item value="b" />
-      <item value="统计" />
       <item value="导出" />
       <item value="inverted" />
       <item value="上班时间" />
@@ -53,8 +55,6 @@
       <item value="bing" />
       <item value="结算函" />
       <item value="结算" />
-      <item value="jie's" />
-      <item value="lasted" />
     </histories>
     <option name="languageScores">
       <map>
