@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="請求" />
+      <item value="请求" />
+      <item value="qing'xiu" />
+      <item value="q" />
+      <item value="request" />
       <item value="物产违约金" />
       <item value="物产违约jin" />
       <item value="物产违约" />
@@ -50,11 +55,6 @@
       <item value="直接" />
       <item value="不需要" />
       <item value="bu" />
-      <item value="后门" />
-      <item value="hou'm" />
-      <item value="校验&#10;" />
-      <item value="j" />
-      <item value="遍历" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623727491642" />
+    <option name="lastTrimTime" value="1624252467051" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
