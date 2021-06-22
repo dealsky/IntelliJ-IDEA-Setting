@@ -5,9 +5,14 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
-      <item value="税" />
-      <item value="sui" />
+      <item value="Tax date belongs" />
+      <item value="所属期" />
+      <item value="税费核对" />
+      <item value="税费核算" />
+      <item value="税费he's" />
       <item value="s" />
+      <item value="sui" />
+      <item value="税" />
       <item value="税费" />
       <item value="請求" />
       <item value="请求" />
@@ -50,11 +55,6 @@
       <item value="ji'c" />
       <item value="remark" />
       <item value="memo" />
-      <item value="mo" />
-      <item value="questionnaire" />
-      <item value="发货" />
-      <item value="配送" />
-      <item value="fah" />
     </histories>
     <option name="languageScores">
       <map>
