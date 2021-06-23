@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="daily cost" />
+      <item value="日常开销" />
+      <item value="日常k" />
       <item value="approve&#10;" />
       <item value="Tax date belongs" />
       <item value="所属期" />
@@ -52,9 +55,6 @@
       <item value="捆" />
       <item value="kun" />
       <item value="k" />
-      <item value="集合" />
-      <item value="ji'c" />
-      <item value="remark" />
     </histories>
     <option name="languageScores">
       <map>
