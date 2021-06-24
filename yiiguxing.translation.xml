@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="operate" />
+      <item value="操作&#10;" />
       <item value="特殊" />
       <item value="speaial" />
       <item value="佣金" />
@@ -53,8 +55,6 @@
       <item value="物产违约" />
       <item value="物产wei" />
       <item value="物产" />
-      <item value="wu'c" />
-      <item value="杂" />
     </histories>
     <option name="languageScores">
       <map>
