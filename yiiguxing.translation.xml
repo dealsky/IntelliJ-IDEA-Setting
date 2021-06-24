@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="QuerySyntaxException: unexpected end of subtree" />
       <item value="operate" />
       <item value="操作&#10;" />
       <item value="特殊" />
@@ -54,7 +55,6 @@
       <item value="物产违约jin" />
       <item value="物产违约" />
       <item value="物产wei" />
-      <item value="物产" />
     </histories>
     <option name="languageScores">
       <map>
