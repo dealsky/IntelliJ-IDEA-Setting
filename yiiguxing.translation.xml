@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="质检费用" />
+      <item value="z" />
       <item value="折扣" />
       <item value="zhe'kuo" />
       <item value="zhe" />
@@ -53,8 +55,6 @@
       <item value="税" />
       <item value="税费" />
       <item value="請求" />
-      <item value="请求" />
-      <item value="qing'xiu" />
     </histories>
     <option name="languageScores">
       <map>
