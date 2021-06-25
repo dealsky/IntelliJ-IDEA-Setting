@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="折扣" />
+      <item value="zhe'kuo" />
+      <item value="zhe" />
+      <item value="关联" />
+      <item value="guan'l" />
       <item value="&lt;operator&gt; or AS expected, got '('" />
       <item value="QuerySyntaxException: unexpected end of subtree" />
       <item value="operate" />
@@ -50,11 +55,6 @@
       <item value="請求" />
       <item value="请求" />
       <item value="qing'xiu" />
-      <item value="q" />
-      <item value="request" />
-      <item value="物产违约金" />
-      <item value="物产违约jin" />
-      <item value="物产违约" />
     </histories>
     <option name="languageScores">
       <map>
