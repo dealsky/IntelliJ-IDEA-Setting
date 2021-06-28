@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="Profit" />
+      <item value="P" />
       <item value="佚名" />
       <item value="yi'ming" />
       <item value=" accumulative total" />
@@ -53,8 +55,6 @@
       <item value="所属期" />
       <item value="税费核对" />
       <item value="税费核算" />
-      <item value="税费he's" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
