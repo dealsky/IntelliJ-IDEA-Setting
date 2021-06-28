@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="graph" />
+      <item value="图" />
+      <item value="tu" />
       <item value="Profit" />
       <item value="P" />
       <item value="佚名" />
@@ -52,9 +55,6 @@
       <item value="日常k" />
       <item value="approve&#10;" />
       <item value="Tax date belongs" />
-      <item value="所属期" />
-      <item value="税费核对" />
-      <item value="税费核算" />
     </histories>
     <option name="languageScores">
       <map>
