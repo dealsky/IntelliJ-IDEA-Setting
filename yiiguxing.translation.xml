@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="hook" />
       <item value="graph" />
       <item value="图" />
       <item value="tu" />
@@ -54,7 +55,6 @@
       <item value="日常开销" />
       <item value="日常k" />
       <item value="approve&#10;" />
-      <item value="Tax date belongs" />
     </histories>
     <option name="languageScores">
       <map>
