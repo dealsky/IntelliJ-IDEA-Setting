@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="210" />
+    <option name="newTranslationDialogHeight" value="205" />
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="sign" />
+      <item value="标记" />
       <item value="重发消息" />
       <item value="reliably" />
       <item value="re" />
@@ -44,7 +46,6 @@
       <item value="shang'ji" />
       <item value="Subordinate&#10;" />
       <item value="Subordinate" />
-      <item value="标记" />
       <item value="方言" />
       <item value="コンサート" />
       <item value=" check" />
@@ -54,7 +55,6 @@
       <item value="Recipient" />
       <item value="抗氧化剂" />
       <item value="抗yang'hua" />
-      <item value="抗" />
     </histories>
     <option name="languageScores">
       <map>
