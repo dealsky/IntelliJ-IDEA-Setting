@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="superclass" />
+      <item value="super class" />
+      <item value="retry Count" />
+      <item value="retryCount" />
       <item value="sign" />
       <item value="标记" />
       <item value="重发消息" />
@@ -51,10 +55,6 @@
       <item value=" check" />
       <item value="盘点" />
       <item value="o" />
-      <item value="p" />
-      <item value="Recipient" />
-      <item value="抗氧化剂" />
-      <item value="抗yang'hua" />
     </histories>
     <option name="languageScores">
       <map>
