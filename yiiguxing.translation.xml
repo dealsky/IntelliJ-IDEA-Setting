@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="预估" />
       <item value="superclass" />
       <item value="super class" />
       <item value="retry Count" />
@@ -54,7 +55,6 @@
       <item value="コンサート" />
       <item value=" check" />
       <item value="盘点" />
-      <item value="o" />
     </histories>
     <option name="languageScores">
       <map>
