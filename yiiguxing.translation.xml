@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="205" />
+    <option name="newTranslationDialogHeight" value="200" />
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="status" />
+      <item value="s" />
+      <item value="stat" />
+      <item value="已完成" />
       <item value="xi'jie" />
       <item value="breadcrumb" />
       <item value="预估" />
@@ -51,10 +55,6 @@
       <item value="凌" />
       <item value="上级标记" />
       <item value="shang'ji" />
-      <item value="Subordinate&#10;" />
-      <item value="Subordinate" />
-      <item value="方言" />
-      <item value="コンサート" />
     </histories>
     <option name="languageScores">
       <map>
