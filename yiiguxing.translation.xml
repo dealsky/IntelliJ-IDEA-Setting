@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="blurry" />
       <item value="clearable" />
       <item value="未知" />
       <item value="不知道" />
@@ -54,7 +55,6 @@
       <item value="guan'l" />
       <item value="&lt;operator&gt; or AS expected, got '('" />
       <item value="QuerySyntaxException: unexpected end of subtree" />
-      <item value="operate" />
     </histories>
     <option name="languageScores">
       <map>
