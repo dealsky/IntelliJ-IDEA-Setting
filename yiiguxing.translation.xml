@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="page tool" />
+      <item value="page Init&#10;" />
+      <item value="pageInit&#10;" />
       <item value="blurry" />
       <item value="clearable" />
       <item value="未知" />
@@ -52,9 +55,6 @@
       <item value="zhe'kuo" />
       <item value="zhe" />
       <item value="关联" />
-      <item value="guan'l" />
-      <item value="&lt;operator&gt; or AS expected, got '('" />
-      <item value="QuerySyntaxException: unexpected end of subtree" />
     </histories>
     <option name="languageScores">
       <map>
