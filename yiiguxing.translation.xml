@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="打卡次数" />
+      <item value="打卡ci" />
       <item value="考勤" />
       <item value="kao'q'q" />
       <item value="kao" />
@@ -53,8 +55,6 @@
       <item value="breadcrumb" />
       <item value="superclass" />
       <item value="super class" />
-      <item value="retry Count" />
-      <item value="retryCount" />
     </histories>
     <option name="languageScores">
       <map>
