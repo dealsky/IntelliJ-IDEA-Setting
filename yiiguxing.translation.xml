@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="预估" />
+      <item value="yu" />
       <item value="菊次郎的夏天" />
       <item value="summer" />
       <item value="Mutable variable is accessible from closure" />
@@ -42,7 +44,6 @@
       <item value="已完成" />
       <item value="xi'jie" />
       <item value="breadcrumb" />
-      <item value="预估" />
       <item value="superclass" />
       <item value="super class" />
       <item value="retry Count" />
@@ -54,7 +55,6 @@
       <item value="re" />
       <item value="费用统计表" />
       <item value="To the point" />
-      <item value="中肯" />
     </histories>
     <option name="languageScores">
       <map>
