@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="193" />
+    <option name="newTranslationDialogHeight" value="188" />
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="考勤" />
+      <item value="kao'q'q" />
+      <item value="kao" />
       <item value="公式" />
       <item value="gong's" />
       <item value="公司" />
@@ -52,9 +55,6 @@
       <item value="super class" />
       <item value="retry Count" />
       <item value="retryCount" />
-      <item value="sign" />
-      <item value="标记" />
-      <item value="重发消息" />
     </histories>
     <option name="languageScores">
       <map>
