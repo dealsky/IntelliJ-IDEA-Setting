@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="popup" />
       <item value="minute" />
       <item value="秒" />
       <item value="打卡次数" />
@@ -54,7 +55,6 @@
       <item value="stat" />
       <item value="已完成" />
       <item value="xi'jie" />
-      <item value="breadcrumb" />
     </histories>
     <option name="languageScores">
       <map>
