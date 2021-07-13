@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="display Type" />
+      <item value="displayType" />
       <item value="popup" />
       <item value="minute" />
       <item value="秒" />
@@ -53,8 +55,6 @@
       <item value="status" />
       <item value="s" />
       <item value="stat" />
-      <item value="已完成" />
-      <item value="xi'jie" />
     </histories>
     <option name="languageScores">
       <map>
