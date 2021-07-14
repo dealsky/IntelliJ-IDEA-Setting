@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="Article" />
       <item value="控制" />
       <item value="k" />
       <item value="筛选" />
@@ -54,7 +55,6 @@
       <item value="know" />
       <item value="unknow" />
       <item value="un know" />
-      <item value="男" />
     </histories>
     <option name="languageScores">
       <map>
