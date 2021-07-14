@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="manage" />
       <item value="海外" />
       <item value="构造" />
       <item value="发布时间" />
@@ -54,7 +55,6 @@
       <item value="blurry" />
       <item value="clearable" />
       <item value="未知" />
-      <item value="不知道" />
     </histories>
     <option name="languageScores">
       <map>
