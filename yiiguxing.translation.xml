@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="No transactional EntityManager available" />
       <item value="enable" />
       <item value="isopen" />
       <item value="是否开启" />
@@ -54,7 +55,6 @@
       <item value="sa权限" />
       <item value="data权限" />
       <item value="data" />
-      <item value="导航" />
     </histories>
     <option name="languageScores">
       <map>
