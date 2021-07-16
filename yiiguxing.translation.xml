@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="加载数据" />
       <item value="permission" />
       <item value="权限" />
       <item value="q" />
@@ -54,7 +55,6 @@
       <item value="directly" />
       <item value="预估" />
       <item value="yu" />
-      <item value="菊次郎的夏天" />
     </histories>
     <option name="languageScores">
       <map>
