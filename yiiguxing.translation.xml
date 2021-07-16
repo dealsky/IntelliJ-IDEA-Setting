@@ -5,11 +5,13 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="authority" />
+      <item value="权限" />
+      <item value="authoritie" />
       <item value="common&#10;" />
       <item value="通用" />
       <item value="加载数据" />
       <item value="permission" />
-      <item value="权限" />
       <item value="q" />
       <item value="操作" />
       <item value="c" />
@@ -53,8 +55,6 @@
       <item value="kao" />
       <item value="公式" />
       <item value="gong's" />
-      <item value="公司" />
-      <item value="directly" />
     </histories>
     <option name="languageScores">
       <map>
