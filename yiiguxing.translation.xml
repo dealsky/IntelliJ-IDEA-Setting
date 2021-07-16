@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="181" />
+    <option name="newTranslationDialogHeight" value="173" />
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="permission" />
+      <item value="权限" />
+      <item value="q" />
+      <item value="操作" />
+      <item value="c" />
+      <item value="模块" />
+      <item value="mo'kuai" />
+      <item value="mu" />
+      <item value="mod" />
+      <item value="endpoint" />
       <item value="trigger" />
       <item value="too large" />
       <item value="配置" />
@@ -45,16 +55,6 @@
       <item value="预估" />
       <item value="yu" />
       <item value="菊次郎的夏天" />
-      <item value="summer" />
-      <item value="Mutable variable is accessible from closure" />
-      <item value="wrapper" />
-      <item value="字段数据" />
-      <item value="字段" />
-      <item value="字段Record" />
-      <item value="字段实体" />
-      <item value="字段显示" />
-      <item value="字段权限" />
-      <item value="字段控制" />
     </histories>
     <option name="languageScores">
       <map>
