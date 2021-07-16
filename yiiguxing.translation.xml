@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="trigger" />
       <item value="too large" />
       <item value="配置" />
       <item value="Field " />
@@ -54,7 +55,6 @@
       <item value="字段显示" />
       <item value="字段权限" />
       <item value="字段控制" />
-      <item value="可见" />
     </histories>
     <option name="languageScores">
       <map>
