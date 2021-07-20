@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="基本的&#10;" />
       <item value="annotations" />
       <item value="NoSuchBeanDefinitionException" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0" />
@@ -54,7 +55,6 @@
       <item value="k" />
       <item value="筛选" />
       <item value="display Type" />
-      <item value="displayType" />
     </histories>
     <option name="languageScores">
       <map>
