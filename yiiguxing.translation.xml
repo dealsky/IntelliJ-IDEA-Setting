@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="检测" />
       <item value="扫描" />
       <item value="s" />
       <item value="模块" />
@@ -54,7 +55,6 @@
       <item value="海外" />
       <item value="构造" />
       <item value="发布时间" />
-      <item value="Article" />
     </histories>
     <option name="languageScores">
       <map>
