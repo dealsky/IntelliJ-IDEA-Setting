@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="601" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="Encountered" />
       <item value="上" />
       <item value="Retains only the elements in this set that are contained in the&#10;     * specified collection (optional operation).  In other words, removes&#10;     * from this set all of its elements that are not contained in the&#10;     * specified collection.  If the specified collection is also a set, this&#10;     * operation effectively modifies this set so that its value is the&#10;     * &lt;i&gt;intersection&lt;/i&gt; of the two sets." />
       <item value="Retains" />
@@ -54,7 +55,6 @@
       <item value="slider bar" />
       <item value="sliderbar" />
       <item value="slider" />
-      <item value="manage" />
     </histories>
     <option name="languageScores">
       <map>
