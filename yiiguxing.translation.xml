@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="Embedded" />
       <item value="EXISTS" />
       <item value="Columns of type 'INTEGER' cannot hold values of type 'CHAR'" />
       <item value="Encountered" />
@@ -54,7 +55,6 @@
       <item value="isopen" />
       <item value="是否开启" />
       <item value="侧边栏" />
-      <item value="slider bar" />
     </histories>
     <option name="languageScores">
       <map>
