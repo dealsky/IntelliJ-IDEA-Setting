@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="managed" />
       <item value="trigger" />
       <item value="trig" />
       <item value="tigger" />
@@ -54,7 +55,6 @@
       <item value="Field Control" />
       <item value="FieldControl" />
       <item value="数量变动" />
-      <item value="No transactional EntityManager available" />
     </histories>
     <option name="languageScores">
       <map>
