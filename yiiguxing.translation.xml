@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="trigger" />
+      <item value="trig" />
+      <item value="tigger" />
       <item value="meaning a page number of 0 in the request equals the first page." />
       <item value="Whether to expose and assume 1-based page number indexes. Defaults to &quot;false&quot;," />
       <item value="Embedded" />
@@ -45,7 +48,6 @@
       <item value="mu" />
       <item value="mod" />
       <item value="endpoint" />
-      <item value="trigger" />
       <item value="too large" />
       <item value="配置" />
       <item value="Field " />
@@ -53,8 +55,6 @@
       <item value="FieldControl" />
       <item value="数量变动" />
       <item value="No transactional EntityManager available" />
-      <item value="enable" />
-      <item value="isopen" />
     </histories>
     <option name="languageScores">
       <map>
