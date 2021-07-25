@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="代码模板" />
+      <item value="代码mo'ban" />
+      <item value="代码" />
+      <item value="dai" />
+      <item value="d" />
       <item value="managed" />
       <item value="trigger" />
       <item value="trig" />
@@ -50,11 +55,6 @@
       <item value="mod" />
       <item value="endpoint" />
       <item value="too large" />
-      <item value="配置" />
-      <item value="Field " />
-      <item value="Field Control" />
-      <item value="FieldControl" />
-      <item value="数量变动" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626679912390" />
+    <option name="lastTrimTime" value="1627201130718" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
