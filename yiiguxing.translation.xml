@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="158" />
+    <option name="newTranslationDialogHeight" value="156" />
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="生成" />
+      <item value="乘车" />
       <item value="代码模板" />
       <item value="代码mo'ban" />
       <item value="代码" />
@@ -53,8 +55,6 @@
       <item value="mo'kuai" />
       <item value="mu" />
       <item value="mod" />
-      <item value="endpoint" />
-      <item value="too large" />
     </histories>
     <option name="languageScores">
       <map>
