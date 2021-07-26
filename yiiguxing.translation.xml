@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="后缀" />
       <item value="mi" />
       <item value="模板组" />
       <item value="模板zhu" />
@@ -54,7 +55,6 @@
       <item value="加载数据" />
       <item value="permission" />
       <item value="q" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
