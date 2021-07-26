@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="模板组" />
+      <item value="模板zhu" />
+      <item value="mu'ban" />
       <item value="生成" />
       <item value="乘车" />
       <item value="代码模板" />
@@ -52,9 +55,6 @@
       <item value="q" />
       <item value="操作" />
       <item value="c" />
-      <item value="mo'kuai" />
-      <item value="mu" />
-      <item value="mod" />
     </histories>
     <option name="languageScores">
       <map>
