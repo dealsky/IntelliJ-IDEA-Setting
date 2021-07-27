@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="154" />
+    <option name="newTranslationDialogHeight" value="152" />
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="生成&#10;" />
+      <item value="cheng'c" />
       <item value="Bundle" />
       <item value="生成" />
       <item value="后缀" />
@@ -53,8 +55,6 @@
       <item value="authoritie" />
       <item value="common&#10;" />
       <item value="通用" />
-      <item value="加载数据" />
-      <item value="permission" />
     </histories>
     <option name="languageScores">
       <map>
