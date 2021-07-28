@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="preview" />
+      <item value="pre" />
+      <item value="预览" />
+      <item value="yu" />
       <item value="生成&#10;" />
       <item value="cheng'c" />
       <item value="Bundle" />
@@ -51,10 +55,6 @@
       <item value="fund" />
       <item value="顶级" />
       <item value="authority" />
-      <item value="权限" />
-      <item value="authoritie" />
-      <item value="common&#10;" />
-      <item value="通用" />
     </histories>
     <option name="languageScores">
       <map>
