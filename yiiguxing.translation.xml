@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="extra" />
       <item value="preview" />
       <item value="pre" />
       <item value="预览" />
@@ -54,7 +55,6 @@
       <item value="stock" />
       <item value="fund" />
       <item value="顶级" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
