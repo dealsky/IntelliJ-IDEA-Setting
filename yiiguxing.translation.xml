@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="render" />
+      <item value="re" />
       <item value="exception" />
       <item value="extend" />
       <item value="扩展" />
@@ -53,8 +55,6 @@
       <item value="annotations" />
       <item value="NoSuchBeanDefinitionException" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0" />
-      <item value="expected at least 1 bean" />
-      <item value="expected at least 1 bea" />
     </histories>
     <option name="languageScores">
       <map>
