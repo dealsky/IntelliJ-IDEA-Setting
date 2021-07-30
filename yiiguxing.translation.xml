@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="injection violation" />
       <item value="render" />
       <item value="re" />
       <item value="exception" />
@@ -54,7 +55,6 @@
       <item value="基本的&#10;" />
       <item value="annotations" />
       <item value="NoSuchBeanDefinitionException" />
-      <item value="Unsatisfied dependency expressed through constructor parameter 0" />
     </histories>
     <option name="languageScores">
       <map>
