@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="artifact Id" />
+      <item value="artifactId" />
       <item value="obfuscate" />
       <item value="obfus" />
       <item value="obf" />
@@ -53,8 +55,6 @@
       <item value="Retains" />
       <item value="检测" />
       <item value="扫描" />
-      <item value="s" />
-      <item value="模块" />
     </histories>
     <option name="languageScores">
       <map>
