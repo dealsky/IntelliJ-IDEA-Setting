@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="obfuscate" />
+      <item value="obfus" />
+      <item value="obf" />
+      <item value="混淆" />
+      <item value="h" />
       <item value="injection violation" />
       <item value="render" />
       <item value="re" />
@@ -50,11 +55,6 @@
       <item value="扫描" />
       <item value="s" />
       <item value="模块" />
-      <item value="模块实体" />
-      <item value="模块shi" />
-      <item value="基本的&#10;" />
-      <item value="annotations" />
-      <item value="NoSuchBeanDefinitionException" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627201130718" />
+    <option name="lastTrimTime" value="1627956333090" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
