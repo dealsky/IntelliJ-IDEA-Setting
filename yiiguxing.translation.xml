@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="port" />
       <item value="framework" />
       <item value="反馈" />
       <item value="fa" />
@@ -54,7 +55,6 @@
       <item value="EXISTS" />
       <item value="Columns of type 'INTEGER' cannot hold values of type 'CHAR'" />
       <item value="Encountered" />
-      <item value="上" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627956333090" />
+    <option name="lastTrimTime" value="1628486574341" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
