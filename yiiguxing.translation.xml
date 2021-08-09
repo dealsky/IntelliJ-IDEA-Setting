@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="introspect" />
       <item value="at least 39 redeploys/restarts saving you about 1.6 hours." />
       <item value="Over the last 7 days JRebel prevented" />
       <item value="prevented" />
@@ -54,7 +55,6 @@
       <item value="d" />
       <item value="managed" />
       <item value="trigger" />
-      <item value="trig" />
     </histories>
     <option name="languageScores">
       <map>
