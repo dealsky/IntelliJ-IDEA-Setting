@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="deliveryDate" />
       <item value="protocol" />
       <item value="introspect" />
       <item value="at least 39 redeploys/restarts saving you about 1.6 hours." />
@@ -54,7 +55,6 @@
       <item value="代码" />
       <item value="dai" />
       <item value="d" />
-      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
