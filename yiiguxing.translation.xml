@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="已退款" />
+      <item value="未付款" />
+      <item value="we" />
+      <item value="付款时间" />
       <item value="earnest money" />
       <item value="保证金" />
       <item value="margin" />
@@ -51,10 +55,6 @@
       <item value="Bundle" />
       <item value="后缀" />
       <item value="mi" />
-      <item value="模板组" />
-      <item value="模板zhu" />
-      <item value="mu'ban" />
-      <item value="乘车" />
     </histories>
     <option name="languageScores">
       <map>
