@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="declaring" />
       <item value="已退款" />
       <item value="未付款" />
       <item value="we" />
@@ -54,7 +55,6 @@
       <item value="cheng'c" />
       <item value="Bundle" />
       <item value="后缀" />
-      <item value="mi" />
     </histories>
     <option name="languageScores">
       <map>
