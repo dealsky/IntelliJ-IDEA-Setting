@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="depositFreePay" />
+      <item value="depositFreePayv" />
       <item value="保证金" />
       <item value="declaring" />
       <item value="已退款" />
@@ -53,8 +55,6 @@
       <item value="yu" />
       <item value="生成&#10;" />
       <item value="cheng'c" />
-      <item value="Bundle" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628486574341" />
+    <option name="lastTrimTime" value="1628923909717" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
