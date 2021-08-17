@@ -5,14 +5,18 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="价格超越" />
+      <item value="价格ca" />
+      <item value="价格cao'yue" />
+      <item value="价格" />
+      <item value="竞拍" />
+      <item value="jing'p" />
       <item value="物流发货" />
       <item value="物流发huo" />
       <item value="物流发" />
       <item value="物流发出" />
       <item value="repair" />
       <item value="Auction" />
-      <item value="竞拍" />
-      <item value="jing'p" />
       <item value="republish" />
       <item value="publish" />
       <item value="SIGNATURE SCENE" />
@@ -51,10 +55,6 @@
       <item value="optional" />
       <item value="artifact Id" />
       <item value="artifactId" />
-      <item value="obfuscate" />
-      <item value="obfus" />
-      <item value="obf" />
-      <item value="混淆" />
     </histories>
     <option name="languageScores">
       <map>
