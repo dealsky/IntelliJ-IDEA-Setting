@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="物流发货" />
+      <item value="物流发huo" />
+      <item value="物流发" />
+      <item value="物流发出" />
+      <item value="repair" />
       <item value="Auction" />
       <item value="竞拍" />
       <item value="jing'p" />
@@ -50,11 +55,6 @@
       <item value="obfus" />
       <item value="obf" />
       <item value="混淆" />
-      <item value="h" />
-      <item value="injection violation" />
-      <item value="render" />
-      <item value="re" />
-      <item value="exception" />
     </histories>
     <option name="languageScores">
       <map>
