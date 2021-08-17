@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="republish" />
+      <item value="publish" />
       <item value="SIGNATURE SCENE" />
       <item value="SIGNATURE_SCENE" />
       <item value="ILLEGAL" />
@@ -53,8 +55,6 @@
       <item value="extend" />
       <item value="扩展" />
       <item value="expend" />
-      <item value="面板" />
-      <item value="extra" />
     </histories>
     <option name="languageScores">
       <map>
