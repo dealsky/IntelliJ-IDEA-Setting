@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="SIGNATURE SCENE" />
+      <item value="SIGNATURE_SCENE" />
+      <item value="ILLEGAL" />
+      <item value="_ILLEGAL" />
+      <item value="isv.SMS_TEMPLATE" />
+      <item value="isv.SMS_TEMPLATE_ILLEGAL" />
       <item value="depositFreePay" />
       <item value="depositFreePayv" />
       <item value="保证金" />
@@ -49,12 +55,6 @@
       <item value="expend" />
       <item value="面板" />
       <item value="extra" />
-      <item value="preview" />
-      <item value="pre" />
-      <item value="预览" />
-      <item value="yu" />
-      <item value="生成&#10;" />
-      <item value="cheng'c" />
     </histories>
     <option name="languageScores">
       <map>
