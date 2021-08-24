@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="coyote" />
       <item value="Repository" />
       <item value="高级" />
       <item value="bidding Pending Pay" />
@@ -54,7 +55,6 @@
       <item value="deliveryDate" />
       <item value="protocol" />
       <item value="introspect" />
-      <item value="at least 39 redeploys/restarts saving you about 1.6 hours." />
     </histories>
     <option name="languageScores">
       <map>
