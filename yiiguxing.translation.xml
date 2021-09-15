@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="146" />
+    <option name="newTranslationDialogHeight" value="142" />
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="化工" />
+      <item value="油品" />
+      <item value="freight" />
+      <item value="货物" />
+      <item value="油品化工" />
+      <item value="油品hua" />
+      <item value="油品huo'gong" />
+      <item value="货物类型" />
+      <item value="h" />
       <item value="coyote" />
       <item value="Repository" />
       <item value="高级" />
@@ -46,26 +55,17 @@
       <item value="declaring" />
       <item value="已退款" />
       <item value="未付款" />
-      <item value="we" />
-      <item value="付款时间" />
-      <item value="earnest money" />
-      <item value="margin" />
-      <item value="取样 " />
-      <item value="qu" />
-      <item value="deliveryDate" />
-      <item value="protocol" />
-      <item value="introspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
-        <entry key="ENGLISH" value="2025" />
+        <entry key="CHINESE" value="1191" />
+        <entry key="ENGLISH" value="2026" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629777182791" />
+    <option name="lastTrimTime" value="1631689363144" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
