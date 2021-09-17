@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="142" />
+    <option name="newTranslationDialogHeight" value="136" />
     <option name="newTranslationDialogX" value="597" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="Profile" />
+      <item value="个人信息" />
+      <item value="profile" />
       <item value="化工" />
       <item value="油品" />
       <item value="freight" />
@@ -52,14 +55,11 @@
       <item value="depositFreePay" />
       <item value="depositFreePayv" />
       <item value="保证金" />
-      <item value="declaring" />
-      <item value="已退款" />
-      <item value="未付款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1191" />
-        <entry key="ENGLISH" value="2026" />
+        <entry key="CHINESE" value="1192" />
+        <entry key="ENGLISH" value="2027" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
