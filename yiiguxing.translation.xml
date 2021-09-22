@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="常见问题" />
+      <item value="常见" />
       <item value=" 退款规则" />
       <item value="券使用规则" />
       <item value="隐私政策" />
@@ -53,8 +55,6 @@
       <item value="物流发huo" />
       <item value="物流发" />
       <item value="物流发出" />
-      <item value="repair" />
-      <item value="Auction" />
     </histories>
     <option name="languageScores">
       <map>
