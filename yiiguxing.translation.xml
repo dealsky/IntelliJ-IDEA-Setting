@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="232" />
+    <option name="newTranslationDialogHeight" value="226" />
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="经验" />
+      <item value="ji" />
       <item value="常见问题" />
       <item value="常见" />
       <item value=" 退款规则" />
@@ -53,8 +55,6 @@
       <item value="jing'p" />
       <item value="物流发货" />
       <item value="物流发huo" />
-      <item value="物流发" />
-      <item value="物流发出" />
     </histories>
     <option name="languageScores">
       <map>
