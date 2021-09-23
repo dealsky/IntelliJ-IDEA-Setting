@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="合法性校验" />
+      <item value="valid" />
+      <item value="va" />
+      <item value="校验" />
+      <item value="jioa'y" />
+      <item value="相同" />
+      <item value="contain" />
       <item value="经验" />
       <item value="ji" />
       <item value="常见问题" />
@@ -48,13 +55,6 @@
       <item value="未支付" />
       <item value="竞拍付款时间" />
       <item value="价格超越" />
-      <item value="价格ca" />
-      <item value="价格cao'yue" />
-      <item value="价格" />
-      <item value="竞拍" />
-      <item value="jing'p" />
-      <item value="物流发货" />
-      <item value="物流发huo" />
     </histories>
     <option name="languageScores">
       <map>
