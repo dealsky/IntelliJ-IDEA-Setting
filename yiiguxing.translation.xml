@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="再来一单" />
+      <item value="再来yi'dan" />
       <item value="经纬度" />
       <item value="jing'wei" />
       <item value="代码模板" />
@@ -53,8 +55,6 @@
       <item value="bidding Pending Pay" />
       <item value="bidding PendingPay" />
       <item value="biddingPendingPay" />
-      <item value="提醒" />
-      <item value="截止支付时间" />
     </histories>
     <option name="languageScores">
       <map>
