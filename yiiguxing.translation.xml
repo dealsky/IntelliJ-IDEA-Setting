@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="货物合同" />
+      <item value="huo'q" />
       <item value="国际化" />
       <item value="再来一单" />
       <item value="再来yi'dan" />
@@ -53,8 +55,6 @@
       <item value="coyote" />
       <item value="Repository" />
       <item value="高级" />
-      <item value="bidding Pending Pay" />
-      <item value="bidding PendingPay" />
     </histories>
     <option name="languageScores">
       <map>
