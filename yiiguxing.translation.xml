@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="动态" />
+      <item value="dong" />
+      <item value="d" />
       <item value="配送" />
       <item value="取货" />
       <item value="货物合同" />
@@ -52,9 +55,6 @@
       <item value="油品化工" />
       <item value="油品hua" />
       <item value="油品huo'gong" />
-      <item value="货物类型" />
-      <item value="h" />
-      <item value="coyote" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632885078512" />
+    <option name="lastTrimTime" value="1633662083087" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
