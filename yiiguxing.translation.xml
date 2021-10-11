@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="220" />
+    <option name="newTranslationDialogHeight" value="213" />
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="invalid" />
+      <item value="作废" />
+      <item value="z" />
       <item value="动态" />
       <item value="dong" />
       <item value="d" />
@@ -52,9 +55,6 @@
       <item value="油品" />
       <item value="freight" />
       <item value="货物" />
-      <item value="油品化工" />
-      <item value="油品hua" />
-      <item value="油品huo'gong" />
     </histories>
     <option name="languageScores">
       <map>
