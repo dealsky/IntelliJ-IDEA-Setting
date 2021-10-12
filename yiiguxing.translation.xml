@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="认领" />
+      <item value="re" />
       <item value="invalid" />
       <item value="作废" />
       <item value="z" />
@@ -53,8 +55,6 @@
       <item value="profile" />
       <item value="化工" />
       <item value="油品" />
-      <item value="freight" />
-      <item value="货物" />
     </histories>
     <option name="languageScores">
       <map>
