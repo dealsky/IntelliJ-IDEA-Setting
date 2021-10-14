@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="The following has evaluated to null or missing" />
       <item value="生成" />
       <item value="s" />
       <item value="进度&#10;&#10;" />
@@ -54,7 +55,6 @@
       <item value="use" />
       <item value="使用fan" />
       <item value="兑换" />
-      <item value="Profile" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633662083087" />
+    <option name="lastTrimTime" value="1634178374644" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
