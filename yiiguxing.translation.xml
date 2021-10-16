@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="排序" />
       <item value="description" />
       <item value="描述" />
       <item value="m" />
@@ -54,7 +55,6 @@
       <item value="用户服务须知" />
       <item value="使用范围" />
       <item value="useag" />
-      <item value="useage" />
     </histories>
     <option name="languageScores">
       <map>
