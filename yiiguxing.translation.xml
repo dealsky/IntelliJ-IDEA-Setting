@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="列数" />
+      <item value="lie" />
       <item value="upload" />
       <item value="ipload" />
       <item value="ip" />
@@ -53,8 +55,6 @@
       <item value="经验" />
       <item value="ji" />
       <item value="常见问题" />
-      <item value="常见" />
-      <item value=" 退款规则" />
     </histories>
     <option name="languageScores">
       <map>
