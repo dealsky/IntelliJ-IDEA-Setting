@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="upload" />
+      <item value="ipload" />
+      <item value="ip" />
+      <item value="uplode" />
+      <item value="uploder" />
       <item value="排序" />
       <item value="description" />
       <item value="描述" />
@@ -50,11 +55,6 @@
       <item value="常见问题" />
       <item value="常见" />
       <item value=" 退款规则" />
-      <item value="券使用规则" />
-      <item value="隐私政策" />
-      <item value="用户服务须知" />
-      <item value="使用范围" />
-      <item value="useag" />
     </histories>
     <option name="languageScores">
       <map>
