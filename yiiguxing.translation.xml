@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="unique index" />
+      <item value="唯一索引" />
+      <item value="唯一" />
       <item value="格式" />
       <item value="/**&#10;     * (Optional) The precision for a decimal (exact numeric)&#10;     * column. (Applies only if a decimal column is used.)&#10;     * Value must be set by developer if used when generating&#10;     * the DDL for the column.&#10;     */" />
       <item value="precision" />
@@ -52,20 +55,17 @@
       <item value="valid" />
       <item value="va" />
       <item value="校验" />
-      <item value="jioa'y" />
-      <item value="相同" />
-      <item value="contain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="2028" />
+        <entry key="CHINESE" value="1194" />
+        <entry key="ENGLISH" value="2029" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634178374644" />
+    <option name="lastTrimTime" value="1634633542819" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
