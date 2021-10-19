@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="功能" />
       <item value="unique index" />
       <item value="唯一索引" />
       <item value="唯一" />
@@ -54,7 +55,6 @@
       <item value="合法性校验" />
       <item value="valid" />
       <item value="va" />
-      <item value="校验" />
     </histories>
     <option name="languageScores">
       <map>
