@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="排序" />
+      <item value="sort" />
       <item value="汇总" />
       <item value="h" />
       <item value="合计" />
@@ -30,7 +32,6 @@
       <item value="ip" />
       <item value="uplode" />
       <item value="uploder" />
-      <item value="排序" />
       <item value="description" />
       <item value="描述" />
       <item value="m" />
@@ -54,7 +55,6 @@
       <item value="huo'q" />
       <item value="国际化" />
       <item value="再来一单" />
-      <item value="再来yi'dan" />
     </histories>
     <option name="languageScores">
       <map>
