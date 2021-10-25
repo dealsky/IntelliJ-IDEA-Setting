@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="中文" />
+      <item value="chinese" />
+      <item value="pinyin" />
       <item value="前缀" />
       <item value="排序" />
       <item value="sort" />
@@ -52,9 +55,6 @@
       <item value="d" />
       <item value="配送" />
       <item value="取货" />
-      <item value="货物合同" />
-      <item value="huo'q" />
-      <item value="国际化" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634633542819" />
+    <option name="lastTrimTime" value="1635140986152" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
