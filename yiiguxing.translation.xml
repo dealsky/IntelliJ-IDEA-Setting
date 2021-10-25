@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="author" />
+      <item value="接收" />
+      <item value="jie's" />
+      <item value="接口" />
+      <item value="上" />
+      <item value="上传" />
+      <item value="结算" />
       <item value="中文" />
       <item value="chinese" />
       <item value="pinyin" />
@@ -48,13 +55,6 @@
       <item value="认领" />
       <item value="re" />
       <item value="invalid" />
-      <item value="作废" />
-      <item value="z" />
-      <item value="动态" />
-      <item value="dong" />
-      <item value="d" />
-      <item value="配送" />
-      <item value="取货" />
     </histories>
     <option name="languageScores">
       <map>
