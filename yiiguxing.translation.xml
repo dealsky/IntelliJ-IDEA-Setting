@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="单表" />
+      <item value="dan'biao" />
+      <item value="单标" />
+      <item value="dan" />
+      <item value="da" />
       <item value="上传" />
       <item value="author" />
       <item value="接收" />
@@ -50,11 +55,6 @@
       <item value="生成" />
       <item value="s" />
       <item value="进度&#10;&#10;" />
-      <item value="进度&#10;" />
-      <item value="进度" />
-      <item value="认领" />
-      <item value="re" />
-      <item value="invalid" />
     </histories>
     <option name="languageScores">
       <map>
