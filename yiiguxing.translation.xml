@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="模板类型" />
+      <item value="模板" />
+      <item value="m" />
       <item value="complex" />
       <item value="可编辑" />
       <item value="序号" />
@@ -52,9 +55,6 @@
       <item value="ip" />
       <item value="uplode" />
       <item value="uploder" />
-      <item value="description" />
-      <item value="描述" />
-      <item value="m" />
     </histories>
     <option name="languageScores">
       <map>
