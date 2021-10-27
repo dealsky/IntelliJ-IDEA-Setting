@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="verify" />
       <item value="zai'z" />
       <item value="direction" />
       <item value="column" />
@@ -54,7 +55,6 @@
       <item value="white" />
       <item value="sh" />
       <item value="功能" />
-      <item value="unique index" />
     </histories>
     <option name="languageScores">
       <map>
