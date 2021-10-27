@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="direction" />
+      <item value="column" />
+      <item value="横向" />
+      <item value="heng'x" />
+      <item value="平" />
+      <item value="ping" />
+      <item value="p" />
       <item value="children" />
       <item value="孩子" />
       <item value="还在" />
@@ -48,13 +55,6 @@
       <item value="功能" />
       <item value="unique index" />
       <item value="唯一索引" />
-      <item value="唯一" />
-      <item value="格式" />
-      <item value="/**&#10;     * (Optional) The precision for a decimal (exact numeric)&#10;     * column. (Applies only if a decimal column is used.)&#10;     * Value must be set by developer if used when generating&#10;     * the DDL for the column.&#10;     */" />
-      <item value="precision" />
-      <item value="列数" />
-      <item value="lie" />
-      <item value="upload" />
     </histories>
     <option name="languageScores">
       <map>
