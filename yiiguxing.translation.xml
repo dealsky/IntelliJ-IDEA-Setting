@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="finance" />
       <item value="multi" />
       <item value="mult" />
       <item value="多选" />
@@ -54,7 +55,6 @@
       <item value="attachFile" />
       <item value="AttachFile" />
       <item value="小于" />
-      <item value="大于等于" />
     </histories>
     <option name="languageScores">
       <map>
