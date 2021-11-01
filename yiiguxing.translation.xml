@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="rich text" />
+      <item value="richtext" />
       <item value="s'j's" />
       <item value="shu'j's" />
       <item value="su'ji's" />
@@ -53,8 +55,6 @@
       <item value="dan" />
       <item value="da" />
       <item value="上传" />
-      <item value="author" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
