@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="creator" />
       <item value="灰色" />
       <item value="hui's" />
       <item value="on the deprecation of path extension" />
@@ -54,7 +55,6 @@
       <item value="complex" />
       <item value="可编辑" />
       <item value="序号" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
