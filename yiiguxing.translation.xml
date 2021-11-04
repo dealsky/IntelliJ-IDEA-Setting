@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="订单调整" />
       <item value="库存" />
       <item value="库" />
       <item value="出库" />
@@ -54,7 +55,6 @@
       <item value="pei's" />
       <item value="运费" />
       <item value="finance" />
-      <item value="multi" />
     </histories>
     <option name="languageScores">
       <map>
