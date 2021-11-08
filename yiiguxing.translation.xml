@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="纵向" />
+      <item value="zhong'xinag" />
+      <item value="横向" />
+      <item value="heng'xiang" />
       <item value="Color Picker" />
       <item value="ColorPicker" />
       <item value="boolean" />
@@ -51,10 +55,6 @@
       <item value="加减" />
       <item value="jia'jian" />
       <item value="jia" />
-      <item value="倍数" />
-      <item value="倍shu" />
-      <item value="倍速" />
-      <item value="bei'su" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635672901107" />
+    <option name="lastTrimTime" value="1636353700315" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
