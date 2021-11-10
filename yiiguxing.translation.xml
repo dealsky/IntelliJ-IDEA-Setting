@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="打印" />
       <item value="纵向" />
       <item value="zhong'xinag" />
       <item value="横向" />
@@ -54,7 +55,6 @@
       <item value="加减su" />
       <item value="加减" />
       <item value="jia'jian" />
-      <item value="jia" />
     </histories>
     <option name="languageScores">
       <map>
