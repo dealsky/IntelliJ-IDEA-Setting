@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="169" />
+    <option name="newTranslationDialogHeight" value="166" />
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="scale" />
+      <item value="radix point" />
+      <item value="小数点" />
+      <item value="x" />
+      <item value="formatted text" />
+      <item value="格式化" />
+      <item value="格式" />
+      <item value="g" />
       <item value="打印" />
       <item value="纵向" />
       <item value="zhong'xinag" />
@@ -47,19 +55,11 @@
       <item value="rich text" />
       <item value="richtext" />
       <item value="s'j's" />
-      <item value="shu'j's" />
-      <item value="su'ji's" />
-      <item value="di's" />
-      <item value="加减数" />
-      <item value="加减shu" />
-      <item value="加减su" />
-      <item value="加减" />
-      <item value="jia'jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1196" />
-        <entry key="ENGLISH" value="2031" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="2033" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
