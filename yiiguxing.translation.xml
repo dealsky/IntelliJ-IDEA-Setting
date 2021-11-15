@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="166" />
+    <option name="newTranslationDialogHeight" value="164" />
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="handle" />
+      <item value="处理" />
+      <item value="c" />
       <item value="CheckBox" />
       <item value="scale" />
       <item value="radix point" />
@@ -52,14 +55,11 @@
       <item value="on the deprecation of path extension" />
       <item value="advanceFundInterestData" />
       <item value="TanCBt6qUNqDPUyltk3AgttvFgkUb42U" />
-      <item value="advanceFundInterest" />
-      <item value="rich text" />
-      <item value="richtext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1198" />
-        <entry key="ENGLISH" value="2033" />
+        <entry key="CHINESE" value="1199" />
+        <entry key="ENGLISH" value="2034" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
