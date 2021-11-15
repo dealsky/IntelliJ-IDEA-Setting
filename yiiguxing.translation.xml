@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="CheckBox" />
       <item value="scale" />
       <item value="radix point" />
       <item value="小数点" />
@@ -54,7 +55,6 @@
       <item value="advanceFundInterest" />
       <item value="rich text" />
       <item value="richtext" />
-      <item value="s'j's" />
     </histories>
     <option name="languageScores">
       <map>
