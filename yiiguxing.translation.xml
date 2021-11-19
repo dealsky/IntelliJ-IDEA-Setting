@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="reporter" />
       <item value="width" />
       <item value="同级" />
       <item value="tong'ji" />
@@ -54,7 +55,6 @@
       <item value="入库说" />
       <item value="ru" />
       <item value="creator" />
-      <item value="灰色" />
     </histories>
     <option name="languageScores">
       <map>
