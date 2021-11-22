@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="数字重置周期" />
+      <item value="计数器位数" />
+      <item value="计数器wei's" />
+      <item value="计数器wei'su" />
+      <item value="计数器" />
+      <item value="ji'shu'qi" />
+      <item value="计算器" />
+      <item value="格式" />
+      <item value="后缀" />
+      <item value="前缀" />
+      <item value="qian'z" />
       <item value="编号生成配置" />
       <item value="编号sheng'c" />
       <item value="编号" />
@@ -26,7 +37,6 @@
       <item value="x" />
       <item value="formatted text" />
       <item value="格式化" />
-      <item value="格式" />
       <item value="g" />
       <item value="打印" />
       <item value="纵向" />
@@ -45,16 +55,6 @@
       <item value="出入库" />
       <item value="latest Storage Date" />
       <item value="latestStorage Date" />
-      <item value="latestStorageDate" />
-      <item value="最晚" />
-      <item value="zui" />
-      <item value="调整" />
-      <item value="tiao'zh" />
-      <item value="tiao'zhen" />
-      <item value="tiao" />
-      <item value="付款" />
-      <item value="fu" />
-      <item value="装卸车" />
     </histories>
     <option name="languageScores">
       <map>
