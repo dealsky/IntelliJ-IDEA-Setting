@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="每天" />
       <item value="数字重置周期" />
       <item value="计数器位数" />
       <item value="计数器wei's" />
@@ -54,7 +55,6 @@
       <item value="出入" />
       <item value="出入库" />
       <item value="latest Storage Date" />
-      <item value="latestStorage Date" />
     </histories>
     <option name="languageScores">
       <map>
