@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="164" />
-    <option name="newTranslationDialogX" value="157" />
-    <option name="newTranslationDialogY" value="255" />
+    <option name="newTranslationDialogHeight" value="161" />
+    <option name="newTranslationDialogX" value="470" />
+    <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="计数" />
+      <item value="ji'shu" />
+      <item value="ji'su" />
+      <item value="ji" />
+      <item value="生成" />
+      <item value="cheng" />
       <item value="每天" />
       <item value="数字重置周期" />
       <item value="计数器位数" />
@@ -49,12 +55,6 @@
       <item value="boolean" />
       <item value="箭头" />
       <item value="订单调整" />
-      <item value="库存" />
-      <item value="库" />
-      <item value="出库" />
-      <item value="出入" />
-      <item value="出入库" />
-      <item value="latest Storage Date" />
     </histories>
     <option name="languageScores">
       <map>
