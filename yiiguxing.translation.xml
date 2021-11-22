@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="157" />
     <option name="newTranslationDialogY" value="255" />
     <histories>
+      <item value="编号生成配置" />
+      <item value="编号sheng'c" />
+      <item value="编号" />
+      <item value="bian'hao" />
+      <item value="分析" />
+      <item value="反洗" />
       <item value="reporter" />
       <item value="width" />
       <item value="同级" />
@@ -49,12 +55,6 @@
       <item value="付款" />
       <item value="fu" />
       <item value="装卸车" />
-      <item value="装卸" />
-      <item value="装卸车辆" />
-      <item value="入库数量" />
-      <item value="入库说" />
-      <item value="ru" />
-      <item value="creator" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636958840318" />
+    <option name="lastTrimTime" value="1637546469564" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
