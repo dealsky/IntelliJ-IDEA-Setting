@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="全部" />
       <item value="all right" />
       <item value="计数" />
       <item value="ji'shu" />
@@ -54,7 +55,6 @@
       <item value="Color Picker" />
       <item value="ColorPicker" />
       <item value="boolean" />
-      <item value="箭头" />
     </histories>
     <option name="languageScores">
       <map>
