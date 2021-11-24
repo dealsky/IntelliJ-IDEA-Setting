@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="department" />
+      <item value="departmentId" />
       <item value="Transport" />
       <item value="全部" />
       <item value="all right" />
@@ -53,8 +55,6 @@
       <item value="zhong'xinag" />
       <item value="横向" />
       <item value="heng'xiang" />
-      <item value="Color Picker" />
-      <item value="ColorPicker" />
     </histories>
     <option name="languageScores">
       <map>
