@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="Transport" />
       <item value="全部" />
       <item value="all right" />
       <item value="计数" />
@@ -54,7 +55,6 @@
       <item value="heng'xiang" />
       <item value="Color Picker" />
       <item value="ColorPicker" />
-      <item value="boolean" />
     </histories>
     <option name="languageScores">
       <map>
