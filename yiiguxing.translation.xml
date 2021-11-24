@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="闫" />
       <item value="上一个" />
       <item value="department" />
       <item value="departmentId" />
@@ -54,7 +55,6 @@
       <item value="打印" />
       <item value="纵向" />
       <item value="zhong'xinag" />
-      <item value="横向" />
     </histories>
     <option name="languageScores">
       <map>
