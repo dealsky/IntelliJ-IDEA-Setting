@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="招待计划&#10;" />
+      <item value="招待计划" />
       <item value="闫" />
       <item value="上一个" />
       <item value="department" />
@@ -53,8 +55,6 @@
       <item value="格式化" />
       <item value="g" />
       <item value="打印" />
-      <item value="纵向" />
-      <item value="zhong'xinag" />
     </histories>
     <option name="languageScores">
       <map>
