@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="radix" />
       <item value="last" />
       <item value="上一条" />
       <item value="最近一条" />
@@ -54,7 +55,6 @@
       <item value="reporter" />
       <item value="width" />
       <item value="同级" />
-      <item value="tong'ji" />
     </histories>
     <option name="languageScores">
       <map>
