@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="last" />
+      <item value="上一条" />
+      <item value="最近一条" />
       <item value="预估金额" />
       <item value="预估jin'e" />
       <item value="预估jie" />
@@ -52,9 +55,6 @@
       <item value="width" />
       <item value="同级" />
       <item value="tong'ji" />
-      <item value="t" />
-      <item value="handle" />
-      <item value="处理" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637546469564" />
+    <option name="lastTrimTime" value="1638322880715" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
