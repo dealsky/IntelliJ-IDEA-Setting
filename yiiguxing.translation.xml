@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="front" />
+      <item value="api" />
+      <item value="a'ou" />
+      <item value="接口" />
       <item value="dot" />
       <item value="radix" />
       <item value="last" />
@@ -51,10 +55,6 @@
       <item value="编号sheng'c" />
       <item value="编号" />
       <item value="bian'hao" />
-      <item value="分析" />
-      <item value="反洗" />
-      <item value="reporter" />
-      <item value="width" />
     </histories>
     <option name="languageScores">
       <map>
