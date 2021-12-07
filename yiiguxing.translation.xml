@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="扩展" />
+      <item value="k" />
       <item value="front" />
       <item value="api" />
       <item value="a'ou" />
@@ -53,8 +55,6 @@
       <item value="qian'z" />
       <item value="编号生成配置" />
       <item value="编号sheng'c" />
-      <item value="编号" />
-      <item value="bian'hao" />
     </histories>
     <option name="languageScores">
       <map>
