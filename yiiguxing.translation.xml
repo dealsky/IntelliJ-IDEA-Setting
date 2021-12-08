@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="浮动" />
       <item value="实例" />
       <item value="扩展" />
       <item value="k" />
@@ -54,7 +55,6 @@
       <item value="后缀" />
       <item value="前缀" />
       <item value="qian'z" />
-      <item value="编号生成配置" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638322880715" />
+    <option name="lastTrimTime" value="1638940147775" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
