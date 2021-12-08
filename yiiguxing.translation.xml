@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="手动" />
       <item value="浮动" />
       <item value="实例" />
       <item value="扩展" />
@@ -54,7 +55,6 @@
       <item value="格式" />
       <item value="后缀" />
       <item value="前缀" />
-      <item value="qian'z" />
     </histories>
     <option name="languageScores">
       <map>
