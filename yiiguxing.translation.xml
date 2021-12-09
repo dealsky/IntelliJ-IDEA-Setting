@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="158" />
+    <option name="newTranslationDialogHeight" value="151" />
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="origin" />
+      <item value="源" />
+      <item value="yuan" />
+      <item value="original" />
+      <item value="原始" />
+      <item value="yuan'shi" />
+      <item value="yuan's" />
       <item value="占位" />
       <item value="zhan'wei" />
       <item value="zhan" />
@@ -48,18 +55,11 @@
       <item value="生成" />
       <item value="cheng" />
       <item value="每天" />
-      <item value="数字重置周期" />
-      <item value="计数器位数" />
-      <item value="计数器wei's" />
-      <item value="计数器wei'su" />
-      <item value="计数器" />
-      <item value="ji'shu'qi" />
-      <item value="计算器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1200" />
-        <entry key="ENGLISH" value="2035" />
+        <entry key="CHINESE" value="1202" />
+        <entry key="ENGLISH" value="2037" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
