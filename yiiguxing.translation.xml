@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="产地" />
+      <item value="can" />
       <item value="可编辑" />
       <item value="origin" />
       <item value="源" />
@@ -53,8 +55,6 @@
       <item value="ji'shu" />
       <item value="ji'su" />
       <item value="ji" />
-      <item value="生成" />
-      <item value="cheng" />
     </histories>
     <option name="languageScores">
       <map>
