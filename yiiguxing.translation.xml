@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="Statistics" />
+      <item value="统计" />
       <item value="产地" />
       <item value="can" />
       <item value="可编辑" />
@@ -53,13 +55,11 @@
       <item value="all right" />
       <item value="计数" />
       <item value="ji'shu" />
-      <item value="ji'su" />
-      <item value="ji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1202" />
-        <entry key="ENGLISH" value="2037" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="2038" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
