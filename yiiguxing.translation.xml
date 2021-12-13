@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="外部的" />
       <item value="inner" />
       <item value="层级" />
       <item value="c" />
@@ -54,7 +55,6 @@
       <item value="上一个" />
       <item value="department" />
       <item value="departmentId" />
-      <item value="Transport" />
     </histories>
     <option name="languageScores">
       <map>
