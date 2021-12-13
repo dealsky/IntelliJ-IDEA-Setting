@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="层级" />
+      <item value="c" />
+      <item value="cen" />
       <item value="Statistics" />
       <item value="统计" />
       <item value="产地" />
@@ -52,9 +55,6 @@
       <item value="departmentId" />
       <item value="Transport" />
       <item value="全部" />
-      <item value="all right" />
-      <item value="计数" />
-      <item value="ji'shu" />
     </histories>
     <option name="languageScores">
       <map>
