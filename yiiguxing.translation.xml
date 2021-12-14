@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="标记异常" />
+      <item value="b" />
       <item value="外部的" />
       <item value="inner" />
       <item value="层级" />
@@ -53,8 +55,6 @@
       <item value="招待计划" />
       <item value="闫" />
       <item value="上一个" />
-      <item value="department" />
-      <item value="departmentId" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638940147775" />
+    <option name="lastTrimTime" value="1639445108491" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
