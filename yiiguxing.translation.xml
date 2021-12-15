@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="147" />
-    <option name="newTranslationDialogX" value="470" />
-    <option name="newTranslationDialogY" value="409" />
+    <option name="newTranslationDialogHeight" value="144" />
+    <option name="newTranslationDialogX" value="567" />
+    <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="加密昵称" />
+      <item value="加密" />
       <item value="访问" />
       <item value="famng" />
       <item value="分钟" />
@@ -53,8 +55,6 @@
       <item value="dot" />
       <item value="radix" />
       <item value="last" />
-      <item value="上一条" />
-      <item value="最近一条" />
     </histories>
     <option name="languageScores">
       <map>
