@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="151" />
+    <option name="newTranslationDialogHeight" value="147" />
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="商品记录" />
+      <item value="xiang'p" />
+      <item value="商品" />
       <item value="decent" />
       <item value="体面" />
       <item value="t" />
@@ -52,9 +55,6 @@
       <item value="预估jin'e" />
       <item value="预估jie" />
       <item value="预估ji" />
-      <item value="预估借" />
-      <item value="matter" />
-      <item value="事情" />
     </histories>
     <option name="languageScores">
       <map>
