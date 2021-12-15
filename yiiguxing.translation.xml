@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="470" />
     <option name="newTranslationDialogY" value="409" />
     <histories>
+      <item value="分钟" />
+      <item value="s" />
       <item value="商品记录" />
       <item value="xiang'p" />
       <item value="商品" />
@@ -53,8 +55,6 @@
       <item value="最近一条" />
       <item value="预估金额" />
       <item value="预估jin'e" />
-      <item value="预估jie" />
-      <item value="预估ji" />
     </histories>
     <option name="languageScores">
       <map>
