@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="144" />
+    <option name="newTranslationDialogHeight" value="142" />
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="仓库系统" />
       <item value="Unaware how to convert value [[5170] : java.util.ArrayList] to requested type [java.lang.Long]" />
       <item value="加密昵称" />
       <item value="加密" />
@@ -54,7 +55,6 @@
       <item value="a'ou" />
       <item value="接口" />
       <item value="dot" />
-      <item value="radix" />
     </histories>
     <option name="languageScores">
       <map>
