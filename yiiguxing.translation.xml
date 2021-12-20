@@ -1,13 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="142" />
+    <option name="newTranslationDialogHeight" value="140" />
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="describe" />
+      <item value="仓库系统" />
+      <item value="仓库" />
+      <item value="cangk" />
       <item value="amount" />
       <item value="发货延期" />
-      <item value="仓库系统" />
       <item value="Unaware how to convert value [[5170] : java.util.ArrayList] to requested type [java.lang.Long]" />
       <item value="加密昵称" />
       <item value="加密" />
@@ -52,9 +55,6 @@
       <item value="实例" />
       <item value="扩展" />
       <item value="k" />
-      <item value="front" />
-      <item value="api" />
-      <item value="a'ou" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639445108491" />
+    <option name="lastTrimTime" value="1639964183801" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
