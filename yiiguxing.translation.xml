@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="children" />
       <item value="purchase" />
       <item value="purchas" />
       <item value="purch" />
@@ -54,7 +55,6 @@
       <item value="占位" />
       <item value="zhan'wei" />
       <item value="zhan" />
-      <item value="手动" />
     </histories>
     <option name="languageScores">
       <map>
