@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="138" />
+    <option name="newTranslationDialogHeight" value="139" />
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="lossReport" />
+      <item value="loss eport" />
+      <item value="loss report" />
+      <item value="loss re" />
+      <item value="loss" />
+      <item value="报损单" />
+      <item value="报损单子" />
+      <item value="报损" />
+      <item value="bao'sun" />
+      <item value="bao's" />
       <item value="render" />
       <item value="入库" />
       <item value="ru'k'k" />
@@ -45,16 +55,6 @@
       <item value="inner" />
       <item value="层级" />
       <item value="c" />
-      <item value="cen" />
-      <item value="Statistics" />
-      <item value="统计" />
-      <item value="产地" />
-      <item value="can" />
-      <item value="可编辑" />
-      <item value="origin" />
-      <item value="源" />
-      <item value="yuan" />
-      <item value="original" />
     </histories>
     <option name="languageScores">
       <map>
