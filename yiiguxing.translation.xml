@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="入库" />
+      <item value="ru'k'k" />
+      <item value="录入" />
       <item value="warehouse" />
       <item value="库存" />
       <item value="children" />
@@ -52,9 +55,6 @@
       <item value="yuan" />
       <item value="original" />
       <item value="原始" />
-      <item value="yuan'shi" />
-      <item value="yuan's" />
-      <item value="占位" />
     </histories>
     <option name="languageScores">
       <map>
