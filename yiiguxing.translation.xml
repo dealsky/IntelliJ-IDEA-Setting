@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="render" />
       <item value="入库" />
       <item value="ru'k'k" />
       <item value="录入" />
@@ -54,7 +55,6 @@
       <item value="源" />
       <item value="yuan" />
       <item value="original" />
-      <item value="原始" />
     </histories>
     <option name="languageScores">
       <map>
