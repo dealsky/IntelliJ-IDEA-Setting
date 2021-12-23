@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="memo" />
       <item value="库龄" />
       <item value="ku'ling" />
       <item value="ku'q" />
@@ -54,7 +55,6 @@
       <item value="sheg" />
       <item value="标记异常" />
       <item value="b" />
-      <item value="外部的" />
     </histories>
     <option name="languageScores">
       <map>
