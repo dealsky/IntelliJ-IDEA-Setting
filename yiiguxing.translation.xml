@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="Identifies the DEFAULT value to apply to the associated column via DDL." />
       <item value="custom" />
       <item value="Predicate" />
       <item value="分布" />
@@ -54,7 +55,6 @@
       <item value="访问" />
       <item value="famng" />
       <item value="分钟" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
