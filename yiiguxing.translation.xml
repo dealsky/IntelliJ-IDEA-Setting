@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="custom" />
       <item value="Predicate" />
       <item value="分布" />
       <item value="进货明细表" />
@@ -54,7 +55,6 @@
       <item value="famng" />
       <item value="分钟" />
       <item value="s" />
-      <item value="商品记录" />
     </histories>
     <option name="languageScores">
       <map>
