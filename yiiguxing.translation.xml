@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="批量删除" />
       <item value="Identifies the DEFAULT value to apply to the associated column via DDL." />
       <item value="custom" />
       <item value="Predicate" />
@@ -54,7 +55,6 @@
       <item value="加密" />
       <item value="访问" />
       <item value="famng" />
-      <item value="分钟" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639964183801" />
+    <option name="lastTrimTime" value="1640572377121" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
