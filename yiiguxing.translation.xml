@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="related" />
       <item value="Minute" />
       <item value="分钟" />
       <item value="批量删除" />
@@ -54,7 +55,6 @@
       <item value="发货延期" />
       <item value="Unaware how to convert value [[5170] : java.util.ArrayList] to requested type [java.lang.Long]" />
       <item value="加密昵称" />
-      <item value="加密" />
     </histories>
     <option name="languageScores">
       <map>
