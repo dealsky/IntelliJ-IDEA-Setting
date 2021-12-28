@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="138" />
+    <option name="newTranslationDialogHeight" value="137" />
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="pack" />
+      <item value="包装" />
+      <item value="bao'zhuang" />
+      <item value="bao'z" />
       <item value="related" />
       <item value="Minute" />
       <item value="分钟" />
@@ -51,15 +55,11 @@
       <item value="仓库系统" />
       <item value="仓库" />
       <item value="cangk" />
-      <item value="amount" />
-      <item value="发货延期" />
-      <item value="Unaware how to convert value [[5170] : java.util.ArrayList] to requested type [java.lang.Long]" />
-      <item value="加密昵称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1203" />
-        <entry key="ENGLISH" value="2038" />
+        <entry key="CHINESE" value="1204" />
+        <entry key="ENGLISH" value="2039" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
