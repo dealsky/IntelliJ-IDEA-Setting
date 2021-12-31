@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="136" />
+    <option name="newTranslationDialogHeight" value="139" />
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="入库" />
+      <item value="可用的" />
+      <item value="最早的" />
+      <item value="zui'zao" />
+      <item value="出库" />
+      <item value="stock Count" />
+      <item value="stockCount" />
+      <item value="已出库数量" />
+      <item value="出库状态" />
+      <item value="c" />
       <item value="二维码" />
       <item value="pack" />
       <item value="包装" />
@@ -42,19 +52,9 @@
       <item value="bao'sun" />
       <item value="bao's" />
       <item value="render" />
-      <item value="入库" />
       <item value="ru'k'k" />
       <item value="录入" />
       <item value="warehouse" />
-      <item value="库存" />
-      <item value="children" />
-      <item value="purchase" />
-      <item value="purchas" />
-      <item value="purch" />
-      <item value="供应商" />
-      <item value="describe" />
-      <item value="仓库系统" />
-      <item value="仓库" />
     </histories>
     <option name="languageScores">
       <map>
