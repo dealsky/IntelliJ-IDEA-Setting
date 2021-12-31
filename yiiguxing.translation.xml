@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="进货" />
+      <item value="huo" />
       <item value="成本" />
       <item value="入库" />
       <item value="可用的" />
@@ -53,8 +55,6 @@
       <item value="bao'sun" />
       <item value="bao's" />
       <item value="render" />
-      <item value="ru'k'k" />
-      <item value="录入" />
     </histories>
     <option name="languageScores">
       <map>
