@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="567" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="成本" />
       <item value="入库" />
       <item value="可用的" />
       <item value="最早的" />
@@ -54,7 +55,6 @@
       <item value="render" />
       <item value="ru'k'k" />
       <item value="录入" />
-      <item value="warehouse" />
     </histories>
     <option name="languageScores">
       <map>
