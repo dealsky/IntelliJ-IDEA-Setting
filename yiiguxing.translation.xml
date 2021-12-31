@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="139" />
+    <option name="newTranslationDialogHeight" value="138" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="调整" />
       <item value="毛利" />
       <item value="冒咯" />
       <item value="m" />
@@ -54,7 +55,6 @@
       <item value="loss re" />
       <item value="loss" />
       <item value="报损单" />
-      <item value="报损单子" />
     </histories>
     <option name="languageScores">
       <map>
