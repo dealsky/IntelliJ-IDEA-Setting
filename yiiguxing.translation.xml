@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="refactor" />
+      <item value="refa" />
       <item value="blurry" />
       <item value="权限" />
       <item value="quan'x" />
@@ -53,8 +55,6 @@
       <item value="库龄" />
       <item value="ku'ling" />
       <item value="ku'q" />
-      <item value="报损" />
-      <item value="lossReport" />
     </histories>
     <option name="languageScores">
       <map>
