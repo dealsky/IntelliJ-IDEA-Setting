@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="blurry" />
       <item value="权限" />
       <item value="quan'x" />
       <item value="q" />
@@ -54,7 +55,6 @@
       <item value="ku'q" />
       <item value="报损" />
       <item value="lossReport" />
-      <item value="loss eport" />
     </histories>
     <option name="languageScores">
       <map>
