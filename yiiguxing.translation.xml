@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="sobering" />
+      <item value="醍醐灌顶" />
+      <item value="ti'hu'guang'd" />
+      <item value="ti'hu" />
+      <item value="t" />
       <item value="数据结构" />
       <item value="数据结果" />
       <item value="check" />
@@ -50,11 +55,6 @@
       <item value="bao'zhuang" />
       <item value="bao'z" />
       <item value="related" />
-      <item value="Minute" />
-      <item value="分钟" />
-      <item value="批量删除" />
-      <item value="Identifies the DEFAULT value to apply to the associated column via DDL." />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
