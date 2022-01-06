@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="昨天" />
       <item value="Jersey" />
       <item value="sample" />
       <item value="refactor" />
@@ -54,7 +55,6 @@
       <item value="已入库shu" />
       <item value="yi" />
       <item value="memo" />
-      <item value="库龄" />
     </histories>
     <option name="languageScores">
       <map>
