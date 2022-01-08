@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="未出库" />
       <item value="package" />
       <item value="组装" />
       <item value="zhu'zhuang" />
@@ -54,7 +55,6 @@
       <item value="stock Count" />
       <item value="stockCount" />
       <item value="已出库数量" />
-      <item value="出库状态" />
     </histories>
     <option name="languageScores">
       <map>
