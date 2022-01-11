@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="138" />
+    <option name="newTranslationDialogHeight" value="137" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="处理率" />
+      <item value="c'l'l" />
+      <item value="c'l" />
       <item value="未出库" />
       <item value="package" />
       <item value="组装" />
@@ -52,9 +55,6 @@
       <item value="最早的" />
       <item value="zui'zao" />
       <item value="出库" />
-      <item value="stock Count" />
-      <item value="stockCount" />
-      <item value="已出库数量" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641192228277" />
+    <option name="lastTrimTime" value="1641864101637" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
