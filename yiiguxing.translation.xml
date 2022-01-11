@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="抄袭" />
+      <item value="chao'xi" />
+      <item value="chai" />
+      <item value="cha" />
+      <item value="茶洗" />
+      <item value="copy" />
+      <item value="复制" />
       <item value="model" />
       <item value="处理率" />
       <item value="c'l'l" />
@@ -48,13 +55,6 @@
       <item value="毛利" />
       <item value="冒咯" />
       <item value="m" />
-      <item value="进货" />
-      <item value="huo" />
-      <item value="成本" />
-      <item value="入库" />
-      <item value="可用的" />
-      <item value="最早的" />
-      <item value="zui'zao" />
     </histories>
     <option name="languageScores">
       <map>
