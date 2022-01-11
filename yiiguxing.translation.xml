@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="model" />
       <item value="处理率" />
       <item value="c'l'l" />
       <item value="c'l" />
@@ -54,7 +55,6 @@
       <item value="可用的" />
       <item value="最早的" />
       <item value="zui'zao" />
-      <item value="出库" />
     </histories>
     <option name="languageScores">
       <map>
