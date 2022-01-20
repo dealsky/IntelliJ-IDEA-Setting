@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="渠道" />
+      <item value="cha'd" />
       <item value="打款账号" />
       <item value="打款" />
       <item value="Account" />
@@ -53,8 +55,6 @@
       <item value="昨天" />
       <item value="Jersey" />
       <item value="sample" />
-      <item value="refactor" />
-      <item value="refa" />
     </histories>
     <option name="languageScores">
       <map>
