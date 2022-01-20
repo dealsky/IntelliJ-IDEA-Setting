@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="137" />
+    <option name="newTranslationDialogHeight" value="139" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="打款账号" />
+      <item value="打款" />
+      <item value="Account" />
+      <item value="支付宝账号" />
+      <item value="支付宝" />
+      <item value="z" />
       <item value="未绑定设备" />
       <item value="wei'bang'd" />
       <item value="wei" />
@@ -49,12 +55,6 @@
       <item value="sample" />
       <item value="refactor" />
       <item value="refa" />
-      <item value="blurry" />
-      <item value="权限" />
-      <item value="quan'x" />
-      <item value="q" />
-      <item value="origin" />
-      <item value="调整" />
     </histories>
     <option name="languageScores">
       <map>
