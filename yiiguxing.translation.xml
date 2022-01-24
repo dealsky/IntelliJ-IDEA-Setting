@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="137" />
+    <option name="newTranslationDialogHeight" value="136" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="领取" />
       <item value="物品" />
       <item value="实物" />
       <item value="shi'wu" />
@@ -19,7 +20,6 @@
       <item value="抽奖" />
       <item value="奖品信息" />
       <item value="奖品" />
-      <item value="领取" />
       <item value="ling'qu" />
       <item value="了；" />
       <item value="Lottery" />
