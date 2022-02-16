@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="可用的" />
       <item value="original" />
       <item value="原" />
       <item value="yuan" />
@@ -54,7 +55,6 @@
       <item value="支付宝账号" />
       <item value="支付宝" />
       <item value="z" />
-      <item value="未绑定设备" />
     </histories>
     <option name="languageScores">
       <map>
