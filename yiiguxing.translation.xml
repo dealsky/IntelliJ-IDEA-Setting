@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="Stat" />
+      <item value="统计" />
       <item value="可用的" />
       <item value="original" />
       <item value="原" />
@@ -53,19 +55,17 @@
       <item value="打款" />
       <item value="Account" />
       <item value="支付宝账号" />
-      <item value="支付宝" />
-      <item value="z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1209" />
-        <entry key="ENGLISH" value="2044" />
+        <entry key="CHINESE" value="1210" />
+        <entry key="ENGLISH" value="2045" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644486697016" />
+    <option name="lastTrimTime" value="1645518941806" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
