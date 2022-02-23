@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="影子" />
+      <item value="yiong'z" />
       <item value="Stat" />
       <item value="统计" />
       <item value="可用的" />
@@ -53,8 +55,6 @@
       <item value="cha'd" />
       <item value="打款账号" />
       <item value="打款" />
-      <item value="Account" />
-      <item value="支付宝账号" />
     </histories>
     <option name="languageScores">
       <map>
