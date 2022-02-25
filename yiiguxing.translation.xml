@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="审批" />
       <item value="绑定" />
       <item value="bang'd" />
       <item value="b" />
@@ -54,7 +55,6 @@
       <item value="阶段奖励" />
       <item value="阶段" />
       <item value="jie" />
-      <item value="渠道" />
     </histories>
     <option name="languageScores">
       <map>
