@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="作废" />
+      <item value="fan'fei" />
       <item value="审批" />
       <item value="绑定" />
       <item value="bang'd" />
@@ -53,8 +55,6 @@
       <item value="integral" />
       <item value="奖品类型" />
       <item value="阶段奖励" />
-      <item value="阶段" />
-      <item value="jie" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645518941806" />
+    <option name="lastTrimTime" value="1646028380034" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
