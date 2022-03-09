@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="group" />
+      <item value="gr" />
       <item value="通用" />
       <item value="共用" />
       <item value="gong'y" />
@@ -53,8 +55,6 @@
       <item value="shi'wu" />
       <item value="shoi" />
       <item value="percent" />
-      <item value="百分比" />
-      <item value="率" />
     </histories>
     <option name="languageScores">
       <map>
