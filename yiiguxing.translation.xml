@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="爬虫" />
       <item value="修改" />
       <item value="group" />
       <item value="gr" />
@@ -54,7 +55,6 @@
       <item value="物品" />
       <item value="实物" />
       <item value="shi'wu" />
-      <item value="shoi" />
     </histories>
     <option name="languageScores">
       <map>
