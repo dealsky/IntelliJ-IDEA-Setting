@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="Foot worship" />
+      <item value="脚部" />
+      <item value="foot" />
+      <item value="jiao'bu" />
+      <item value="jiao" />
+      <item value="底部" />
       <item value="操作按钮" />
       <item value="c'z" />
       <item value="爬虫" />
@@ -49,17 +55,11 @@
       <item value="delivery address" />
       <item value="收货地址" />
       <item value="收货" />
-      <item value="s" />
-      <item value="draw" />
-      <item value="抽奖" />
-      <item value="chou'jiang" />
-      <item value="领取" />
-      <item value="物品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1210" />
-        <entry key="ENGLISH" value="2045" />
+        <entry key="CHINESE" value="1211" />
+        <entry key="ENGLISH" value="2046" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
