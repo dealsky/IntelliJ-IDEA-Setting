@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="操作按钮" />
+      <item value="c'z" />
       <item value="爬虫" />
       <item value="修改" />
       <item value="group" />
@@ -53,8 +55,6 @@
       <item value="chou'jiang" />
       <item value="领取" />
       <item value="物品" />
-      <item value="实物" />
-      <item value="shi'wu" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646703998978" />
+    <option name="lastTrimTime" value="1647325344868" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
