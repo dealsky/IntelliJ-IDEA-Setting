@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="167" />
+    <option name="newTranslationDialogHeight" value="161" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="调整" />
       <item value="阶梯团" />
       <item value="retryCount" />
       <item value="发布文章" />
@@ -54,7 +55,6 @@
       <item value="表达式" />
       <item value="bi" />
       <item value="conflict" />
-      <item value="收货人" />
     </histories>
     <option name="languageScores">
       <map>
