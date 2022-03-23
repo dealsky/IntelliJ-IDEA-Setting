@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="potential" />
       <item value="d" />
       <item value="sensitive" />
       <item value="调整" />
@@ -54,7 +55,6 @@
       <item value="yi'ku" />
       <item value="不包含" />
       <item value="包含" />
-      <item value="表达式" />
     </histories>
     <option name="languageScores">
       <map>
