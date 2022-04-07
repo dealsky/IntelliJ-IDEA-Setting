@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="metrics" />
       <item value="SalesOutbound" />
       <item value="Salesoutbound" />
       <item value="outbound" />
@@ -54,7 +55,6 @@
       <item value="影子" />
       <item value="yiong'z" />
       <item value="Stat" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648455424282" />
+    <option name="lastTrimTime" value="1649317570002" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
