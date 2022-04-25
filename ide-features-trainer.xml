@@ -2,7 +2,7 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="actions" value="NOT_PASSED" />
+        <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="before debugging: run/debug configurations" value="NOT_PASSED" />
         <entry key="code editing tips and tricks" value="NOT_PASSED" />
@@ -41,7 +41,7 @@
         <entry key="refactorings in a nutshell" value="NOT_PASSED" />
         <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="NOT_PASSED" />
-        <entry key="search everywhere" value="NOT_PASSED" />
+        <entry key="search everywhere" value="PASSED" />
         <entry key="secrets of efficient navigation" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
         <entry key="smart type completion" value="NOT_PASSED" />
