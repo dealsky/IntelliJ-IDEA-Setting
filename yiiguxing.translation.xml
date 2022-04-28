@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="label" />
+      <item value="标签" />
+      <item value="bian" />
+      <item value="b" />
       <item value="自适应" />
       <item value="z's'y" />
       <item value="z" />
@@ -51,10 +55,6 @@
       <item value="potential" />
       <item value="d" />
       <item value="sensitive" />
-      <item value="调整" />
-      <item value="阶梯团" />
-      <item value="retryCount" />
-      <item value="发布文章" />
     </histories>
     <option name="languageScores">
       <map>
