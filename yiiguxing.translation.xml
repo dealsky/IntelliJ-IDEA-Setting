@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="回评" />
+      <item value="h" />
       <item value="label" />
       <item value="标签" />
       <item value="bian" />
@@ -31,11 +33,9 @@
       <item value="回" />
       <item value="restore" />
       <item value="回评&#10;" />
-      <item value="回评" />
       <item value="hu" />
       <item value="hui'p" />
       <item value="revert" />
-      <item value="h" />
       <item value="可用" />
       <item value="ke" />
       <item value="进度" />
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650879360911" />
+    <option name="lastTrimTime" value="1651732512154" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
