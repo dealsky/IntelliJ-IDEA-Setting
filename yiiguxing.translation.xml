@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="148" />
+    <option name="newTranslationDialogHeight" value="146" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="coupon" />
+      <item value="month" />
       <item value="latest" />
       <item value="最近的" />
       <item value="官方" />
@@ -53,8 +55,6 @@
       <item value="Salesoutbound" />
       <item value="outbound" />
       <item value="销售outbound" />
-      <item value="销售出库" />
-      <item value="销售" />
     </histories>
     <option name="languageScores">
       <map>
