@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="customModuleV3" />
       <item value="coupon" />
       <item value="month" />
       <item value="latest" />
@@ -54,7 +55,6 @@
       <item value="SalesOutbound" />
       <item value="Salesoutbound" />
       <item value="outbound" />
-      <item value="销售outbound" />
     </histories>
     <option name="languageScores">
       <map>
