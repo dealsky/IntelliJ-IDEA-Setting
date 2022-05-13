@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="146" />
+    <option name="newTranslationDialogHeight" value="143" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="活动" />
+      <item value="huo'd" />
+      <item value="h" />
       <item value="customModuleV3" />
       <item value="coupon" />
       <item value="month" />
@@ -14,7 +17,6 @@
       <item value="guang" />
       <item value="g" />
       <item value="回评" />
-      <item value="h" />
       <item value="label" />
       <item value="标签" />
       <item value="bian" />
@@ -53,8 +55,6 @@
       <item value="预计" />
       <item value="metrics" />
       <item value="SalesOutbound" />
-      <item value="Salesoutbound" />
-      <item value="outbound" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651732512154" />
+    <option name="lastTrimTime" value="1652408788023" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
