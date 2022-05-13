@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="奖励" />
       <item value="活动" />
       <item value="huo'd" />
       <item value="h" />
@@ -54,7 +55,6 @@
       <item value="预估时间" />
       <item value="预计" />
       <item value="metrics" />
-      <item value="SalesOutbound" />
     </histories>
     <option name="languageScores">
       <map>
