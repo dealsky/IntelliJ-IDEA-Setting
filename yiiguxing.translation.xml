@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="143" />
+    <option name="newTranslationDialogHeight" value="142" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="顺位" />
+      <item value="shun'ren" />
+      <item value="s" />
       <item value="优惠券" />
       <item value="y" />
       <item value="限定人数" />
@@ -52,9 +55,6 @@
       <item value="revert" />
       <item value="可用" />
       <item value="ke" />
-      <item value="进度" />
-      <item value="完成时间" />
-      <item value="预计时间" />
     </histories>
     <option name="languageScores">
       <map>
