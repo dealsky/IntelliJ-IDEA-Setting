@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="142" />
+    <option name="newTranslationDialogHeight" value="141" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="最后的" />
+      <item value="z" />
       <item value="顺位" />
       <item value="shun'ren" />
       <item value="s" />
@@ -30,7 +32,6 @@
       <item value="b" />
       <item value="自适应" />
       <item value="z's'y" />
-      <item value="z" />
       <item value="Invalid ip address" />
       <item value="Scratch" />
       <item value="extra" />
@@ -54,7 +55,6 @@
       <item value="hui'p" />
       <item value="revert" />
       <item value="可用" />
-      <item value="ke" />
     </histories>
     <option name="languageScores">
       <map>
