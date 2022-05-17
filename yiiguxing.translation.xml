@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="141" />
+    <option name="newTranslationDialogHeight" value="139" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="description" />
+      <item value="描述" />
       <item value="最后的" />
       <item value="z" />
       <item value="顺位" />
@@ -53,13 +55,11 @@
       <item value="回评&#10;" />
       <item value="hu" />
       <item value="hui'p" />
-      <item value="revert" />
-      <item value="可用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="2054" />
+        <entry key="CHINESE" value="1220" />
+        <entry key="ENGLISH" value="2055" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
