@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="Exist" />
       <item value="Customer" />
       <item value="most" />
       <item value="description" />
@@ -54,7 +55,6 @@
       <item value="hui" />
       <item value="回" />
       <item value="restore" />
-      <item value="回评&#10;" />
     </histories>
     <option name="languageScores">
       <map>
