@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="Customer" />
       <item value="most" />
       <item value="description" />
       <item value="描述" />
@@ -54,7 +55,6 @@
       <item value="回" />
       <item value="restore" />
       <item value="回评&#10;" />
-      <item value="hu" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652408788023" />
+    <option name="lastTrimTime" value="1652926543400" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
