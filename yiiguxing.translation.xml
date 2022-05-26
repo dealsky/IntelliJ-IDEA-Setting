@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="139" />
+    <option name="newTranslationDialogHeight" value="138" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="客服" />
+      <item value="客服类别" />
+      <item value="ke" />
       <item value="PESSIMISTIC WRITE" />
       <item value="PESSIMISTIC_WRITE" />
       <item value="OPTIMISTIC" />
@@ -52,9 +55,6 @@
       <item value="object references an unsaved transient instance" />
       <item value="references" />
       <item value="myself" />
-      <item value="我自己" />
-      <item value="自己" />
-      <item value="write back" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652926543400" />
+    <option name="lastTrimTime" value="1653542588671" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
