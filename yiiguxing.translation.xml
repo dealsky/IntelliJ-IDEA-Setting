@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="batch" />
       <item value="客服" />
       <item value="客服类别" />
       <item value="ke" />
@@ -54,7 +55,6 @@
       <item value="jackson" />
       <item value="object references an unsaved transient instance" />
       <item value="references" />
-      <item value="myself" />
     </histories>
     <option name="languageScores">
       <map>
