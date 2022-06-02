@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="接入" />
       <item value="库存" />
       <item value="结存" />
       <item value="jie'c" />
@@ -54,7 +55,6 @@
       <item value="额外" />
       <item value="额外字段" />
       <item value="er'wai" />
-      <item value="serialization" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653542588671" />
+    <option name="lastTrimTime" value="1654152642222" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
