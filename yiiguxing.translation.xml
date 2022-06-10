@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="最后一个" />
       <item value="stock Count" />
       <item value="stockCount" />
       <item value="接入" />
@@ -54,7 +55,6 @@
       <item value="Invalid ip address" />
       <item value="Scratch" />
       <item value="extra" />
-      <item value="额外" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654152642222" />
+    <option name="lastTrimTime" value="1654841103573" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
