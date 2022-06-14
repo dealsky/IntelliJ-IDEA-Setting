@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="brokerage" />
+      <item value="分销" />
+      <item value="fenn'xiao" />
+      <item value="fenn'x" />
       <item value="最后一个" />
       <item value="stock Count" />
       <item value="stockCount" />
@@ -51,10 +55,6 @@
       <item value="bian" />
       <item value="b" />
       <item value="自适应" />
-      <item value="z's'y" />
-      <item value="Invalid ip address" />
-      <item value="Scratch" />
-      <item value="extra" />
     </histories>
     <option name="languageScores">
       <map>
