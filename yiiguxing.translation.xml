@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="ti" />
       <item value="直播" />
       <item value="brokerage" />
       <item value="分销" />
@@ -54,7 +55,6 @@
       <item value="label" />
       <item value="标签" />
       <item value="bian" />
-      <item value="b" />
     </histories>
     <option name="languageScores">
       <map>
