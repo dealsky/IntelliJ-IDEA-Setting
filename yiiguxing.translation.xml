@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="直播" />
       <item value="brokerage" />
       <item value="分销" />
       <item value="fenn'xiao" />
@@ -54,7 +55,6 @@
       <item value="标签" />
       <item value="bian" />
       <item value="b" />
-      <item value="自适应" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654841103573" />
+    <option name="lastTrimTime" value="1655341650607" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
